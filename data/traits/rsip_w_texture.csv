@@ -1,0 +1,5998 @@
+Species,Dr,EU_soil_texture
+Agropyron cristatum,0.75,M
+Artemisia tridentata ssp. wyomingensis,0.75,C
+Chrysothamnus viscidiflorus,1,M
+Elymus elymoides,0.5,C
+Elymus lanceolatus,0.75,F
+Leymus cinereus,1,C
+Acacia seyal,1.2,F
+Balanites aegyptiaca,1.3,F
+Acacia mellifera,0.6,F
+Achillea wilhelmsii,0.11,
+Ajuga chamaepitys ssp. chia,0.32,
+Alhagi pseudalhagi,3.5,
+Allium scorodoprasum ssp. rotundum,0.07,
+Alyssum linifolium,0.21,
+Amygdalus orientalis,3,
+Artemisia lerchiana,1.3,
+Astragalus micropterus,1.36,
+Consolida regalis ssp. paniculata,0.45,
+Convolvulus galaticus,0.36,
+Convolvulus galaticus,1.67,
+Crocus ancyrensis,0.06,
+Euphorbia macroclada,3,
+Hypecoum procumbens,0.2,
+Iris acutiloba,0.09,
+Linum hirsutum,0.32,
+Moltkia aurea,0.18,
+Onosma montana,0.35,
+Peganum harmala,1.4,
+Querucs cerris,4.5,
+Ranunculus illyricus,0.18,
+Salvia ceratophylla,0.43,
+Scolymus hispanicus,0.8,
+Silene dichotoma,0.17,
+Wiedemannia orientalis,0.23,
+Ambrosia psilostachya,1.59,F
+Amorpha canescens,2.74,F
+Andropogon gerardi,2.13,F
+Argythamnia mercurialina,0.61,F
+Aristida longiseta,1.75,F
+Asclepias asperula ssp. capricornu,0.61,F
+Aster multiflorus,1.2,F
+Bouteloua curtipendula,1.91,F
+Bouteloua gracilis,0.91,F
+Bouteloua gracilis,1.68,F
+Brickellia eupatorioides,3.35,F
+Brickellia eupatorioides,4.27,F
+Buchloe dactyloides,1.49,F
+Carex gravida,1.88,F
+Chaetopappa ericoides,0.61,F
+Clematis fremontii,0.61,F
+Dalea purpurea,0.91,F
+Elymus canadensis,1.23,F
+Evolvulus nuttallianus,0.65,F
+Gaura coccinea,0.95,F
+Glycyrrhiza lepidota,3.66,F
+Gutierrezia sarothrae,1.52,F
+Hedyotis nigricans,0.61,F
+Lesquerella ovalifolia,0.65,F
+Lithospermum incisum,0.64,F
+Lygodesmia juncea,1.38,F
+Machaeranthera pinnatifida,0.75,F
+Minuartia michauxii var. texana,0.61,F
+Mirabilis linearis,1.29,F
+Oenothera macrocarpa ssp. fremontii,0.65,F
+Packera plattensis,0.61,F
+Panicum virgatum,2.4,F
+Paronychia jamesii,0.65,F
+Pascopyrum smithii,2.18,F
+Prunus pumila var. besseyi,3.35,F
+Psoralidium tenuiflorum,2.42,F
+Psoralidium tenuiflorum,2.68,F
+Ratibida columnifera,0.64,F
+Rhus glabra,1.52,F
+Rhus trilobata,2.44,F
+Rosa arkansana var. suffulta,3.66,F
+Salvia azurea var. grandiflora,1.38,F
+Schizachyrium scoparium,1.22,F
+Scutellaria resinosa,0.61,F
+Solidago missouriensis var. fasciculata,1.83,F
+Solidago mollis,2.09,F
+Sorghastrum nutans,2.1,F
+Sphaeralcea coccinea,2.3,F
+Stenosiphon linifolius,0.72,F
+Thelesperma megapotamicum,0.76,F
+Vernonia baldwinii,1.23,F
+Brachypodium pinnatum,0.1,M
+Bromopsis erecta,0.13,M
+Helictotrichon pubescens,0.11,M
+Collomia heterophylla,0.16,M
+Conyza canadensis,0.19,M
+Crepis capillaris,0.31,M
+Epilobium paniculatum,0.25,M
+Madia gracilis,0.17,M
+Senecio sylvaticus,0.26,M
+Berberis nervosa,0.44,M
+Epilobium angustifolium,0.43,M
+Whipplea modesta,0.49,M
+Eucalyptus regnans,2.1,C
+Eucalyptus regnans,4.1,C
+Eucalyptus regnans,5,C
+Eucalyptus regnans,7.1,C
+Artemisia lerchiana,1.6,F
+Achillea nobilis,0.55,M
+Ephedra distachya,0.95,M
+Artemisia austriaca,0.53,F
+Artemisia dracunculus,1.03,M
+Artemisia scoparia,1.25,M
+Artemisia terrae-albae,1.84,M
+Astragalus filicaulis,3.18,M
+Astragalus puberulus,1.2,M
+Dianthus leptopetalus,2.4,F
+Elymus akmolinensis,1.3,M
+Ephedra distachya,2.63,M
+Equisetum pratense,3.1,M
+Eryngium planum,0.76,M
+Festuca rupicola,0.76,M
+Galatella linosyris,0.6,F
+Galium verum,0.59,F
+Galium verum,2.55,M
+Glycyrrhiza uralensis,4.3,M
+Kochia prostrata,3.6,M
+Medicago falcata,1.8,M
+Onosma simplicissima,1.8,M
+Palimbia salsa,0.91,F
+Peucedanum morisonii,2.6,M
+Phleum phleoides,0.56,M
+Phlomoides tuberosa,0.68,F
+Phlomoides tuberosa,1.2,M
+Plantago urvillei,0.83,M
+Potentilla nudicaulis,0.4,M
+Salvia stepposa,2.32,M
+Saussurea rigida,0.75,M
+Senecio jacobaea,0.68,F
+Spiraea hypericifolia,1.35,M
+Spiraea hypericifolia,2.46,M
+Stipa capillata,0.92,M
+Thymus pannonicus,1.5,M
+Veronica incana,0.4,M
+Veronica longifolia,0.55,M
+Veronica spicata,0.9,M
+Artemisia scoparia,2.28,M
+Astragalus puberulus,1.74,M
+Medicago falcata,2.38,M
+Melilotus alba,2.4,M
+Artemisia frigida,2.1,M
+Artemisia marschalliana,2.9,M
+Campanula sibirica,0.4,M
+Carex duriuscula,0.56,M
+Centaurea ruthenica,1.32,M
+Gypsophila altissima,0.9,M
+Koeleria macrantha,0.93,M
+Lathyrus tuberosus,0.5,M
+Medicago falcata,1.3,M
+Potentilla nudicaulis,0.55,M
+Senecio jacobaea,0.7,M
+Stipa capillata,0.66,M
+Thalictrum foetidum,0.32,M
+Thymus pannonicus,1.35,M
+Veronica incana,0.39,M
+Artemisia austriaca,1.02,M
+Medicago falcata,1.22,M
+Anabasis salsa,0.85,M
+Artemisia pauciflora,0.8,M
+Haloxylon aphyllum,4.21,C
+Haloxylon aphyllum,7.3,C
+Stipa capillata,1.1,C
+Camphorosma monspeliaca,1.42,M
+Festuca rupicola,0.35,M
+Tanacetum achilleifolium,0.3,M
+Acantholimon alatavicum,1.25,M
+Achnatherum splendens,1.95,M
+Seriphidium sublessingianum,1.09,M
+Artemisia tianschanica,1.49,M
+Astragalus abramovii,1.51,M
+Caragana tragacanthoides,2.4,M
+Carex turkestanica,0.85,M
+Convolvulus tragacanthoides,2.47,M
+Festuca rupicola,0.28,M
+Festuca rupicola,0.52,M
+Festuca rupicola,0.75,M
+Lagochilus platyacanthus,0.62,M
+Medicago falcata,1.36,M
+Phlomoides oreophila,1.06,M
+Stipa capillata,0.35,M
+Stipa capillata,0.65,M
+Stipa macroglossa,0.85,M
+Thymus pannonicus,0.4,M
+Thymus pannonicus,0.8,M
+Halostachys belangeriana,2,C
+Haloxylon aphyllum,4.16,M
+Suaeda microphylla,0.3,M
+Euphorbia jaxartica,2.32,M
+Lepidium crassifolium,2.8,M
+Limonium otolepis,2.04,M
+Pseudosophora alopecuroides,2.88,M
+Artemisia scoparia,2.17,M
+Alhagi pseudalhagi,2.88,M
+Alhagi pseudalhagi,6.5,F
+Artemisia nitrosa,0.85,F
+Karelinia caspia,6.5,F
+Kochia iranica,0.7,F
+Krascheninnikovia ceratoides,6.5,F
+Limonium myrianthum,3,F
+Nitraria sibirica,4,F
+Petrosimonia sibirica,0.62,F
+Phragmites australis,2.9,F
+Suaeda microphylla,1.85,F
+Zygophyllum fabago,6.5,F
+Agropyron fragile,1.22,C
+Artemisia scoparia,1.26,C
+Artemisia songarica,1.6,C
+Artemisia terrae-albae,1.5,C
+Carex physodes,0.43,C
+Ceratocarpus arenarius,1.24,C
+Chondrilla ambigua,2.75,C
+Corispermum lehmannianum,0.88,C
+Dendrostellera ammodendron,3.4,C
+Echinops albicaulis,4.35,C
+Eremurus anisopterus,0.7,C
+Heliotropium dasycarpum,2.16,C
+Limonium gmelinii,1.27,C
+Poa bulbosa,0.31,C
+Salsola australis,1.38,C
+Stipagrostis pennata,1.2,C
+Syrenia siliculosa,0.82,C
+Tribulus terrestris,0.82,C
+Achnatherum splendens,1.02,M
+Anabasis truncata,1.85,M
+Seriphidium sublessingianum,1.05,M
+Artemisia terrae-albae,0.65,M
+Nanophyton erinaceum,1.1,M
+Onosma gmelinii,0.46,M
+Oxytropis avis,0.75,M
+Papaver tianschanicum,0.28,M
+Salsola arbuscula,1.2,M
+Salsola dschungarica,0.57,M
+Salsola implicata,0.7,M
+Krascheninnikovia ceratoides,3.69,M
+Achnatherum splendens,6,M
+Alyssum dasycarpum,0.55,C
+Anabasis aphylla,3,C
+Seriphidium sublessingianum,2,C
+Kochia prostrata,3,C
+Krascheninnikovia ceratoides,9.36,C
+Peganum harmala,3.3,C
+Poa bulbosa var. vivipara,0.4,C
+Trigonella arcuata,0.55,C
+Arthrophytum longibracteatum,1.9,M
+Halocnemum strobilaceum,1,M
+Salicornia europaea,0.73,M
+Tamarix ramosissima,2,M
+Acanthophyllum pungens,1.92,C
+Artemisia songarica,0.87,C
+Calligonum aphyllum,2.24,C
+Calligonum aphyllum,2.79,C
+Kochia prostrata,2.5,C
+Krascheninnikovia ceratoides,3,C
+Stipagrostis pennata,1.19,C
+Haloxylon aphyllum,10.48,C
+Ferula caspica,0.35,M
+Geranium transversale,0.25,M
+Ranunculus platyspermus,0.4,M
+Salsola arbuscula,1,M
+Artemisia turanica,0.75,M
+Eremopyrum triticeum,0.2,M
+Gagea reticulata,0.14,M
+Poa bulbosa,0.25,M
+Rheum tataricum,0.51,M
+Rhinopetalum karelinii,0.78,M
+Takhtajaniantha pusilla,0.53,M
+Tulipa buhseana,0.23,M
+Anabasis aphylla,2.82,M
+Artemisia turanica,0.87,M
+Asparagus breslerianus,0.41,M
+Astragalus longipetalus,0.72,M
+Ceratocephalus falcatus,0.11,M
+Convolvulus fruticosus,2,M
+Eremopyrum triticeum,0.19,M
+Gagea reticulata,0.16,M
+Kochia prostrata,2.3,M
+Rheum tataricum,0.47,M
+Rhinopetalum karelinii,0.25,M
+Seseli eriocephalum,0.46,M
+Takhtajaniantha pusilla,0.43,M
+Tulipa buhseana,0.21,M
+Artemisia austriaca,2.24,M
+Dianthus turkestanicus,0.84,M
+Festuca rupicola,0.76,M
+Lappula consanguinea,0.79,M
+Leymus racemosus,2.4,M
+Plantago media,1.6,M
+Stipa capillata,1.07,M
+Artemisia arenaria,3.6,C
+Calligonum aphyllum,2.32,C
+Carex colchica,0.3,C
+Carex physodes,0.21,C
+Eremosparton aphyllum,1.1,C
+Leymus racemosus,2.08,C
+Stipagrostis pennata,2.5,C
+Artemisia arenaria,2.57,C
+Artemisia abrotanum,2.2,M
+Artemisia dracunculus,2.4,M
+Artemisia sieversiana,2.21,M
+Dactylis glomerata,1.1,M
+Elytrigia repens,1.08,M
+Glycyrrhiza glabra,4.48,M
+Kochia prostrata,3.5,M
+Lactuca tatarica,2.4,M
+Onopordum acanthium,3,M
+Pseudosophora alopecuroides,3.57,M
+Rosa pimpinellifolia,4.9,M
+Urtica cannabina,1.8,M
+Allium anisopodium,0.18,M
+Amygdalus mongolica,2.67,C
+Artemisia sphaerocephala,2.59,C
+Asterothamnus centrali-asiaticus,1.33,C
+Astragalus monophyllus,0.99,M
+Caragana brachypoda,0.64,C
+Caragana leucophloea,3.14,C
+Cleistogenes songorica,0.26,C
+Convolvulus tragacanthoides,3.07,C
+Echinops gmelinii,0.28,M
+Haloxylon ammodendron,2,C
+Krascheninnikovia ceratoides,1.44,M
+Lagochilus ilicifolius,0.32,M
+Olgaea leucophylla,0.36,M
+Panzerina lanata,0.65,M
+Ptilagrostis pelliotii,0.26,M
+Reaumuria songarica,1.23,C
+Salsola laricifolia,0.54,M
+Scorzonera capito,0.25,M
+Sympegma regelii,3.42,C
+Zygophyllum xanthoxylon,6.49,M
+Astragalus monophyllus,0.86,M
+Olgaea leucophylla,0.28,M
+Olgaea leucophylla,0.35,M
+Reaumuria songarica,1.56,C
+Scorzonera capito,0.11,M
+Scorzonera capito,0.24,M
+Achnatherum splendens,0.96,C
+Ajania fruticulosa,0.34,M
+Allium polyrhizum,0.12,M
+Amygdalus pedunculata,0.58,C
+Anabasis brevifolia,0.55,C
+Artemisia frigida,0.23,M
+Euphorbia mongolica,1.65,M
+Nitraria sibirica,3.4,M
+Oxytropis aciphylla,0.82,M
+Peganum nigellastrum,1.08,M
+Rheum nanum,0.72,M
+Salsola passerina,1.02,M
+Stipa glareosa,0.17,C
+Stipa krylovii,0.24,M
+Nitraria sibirica,1.05,M
+Rheum nanum,0.28,M
+Rheum nanum,0.59,M
+Rheum nanum,0.63,M
+Salsola passerina,0.69,M
+Alhagi pseudalhagi,2.8,M
+Anabasis salsa,2,M
+Artemisia terrae-albae,0.95,M
+Haloxylon aphyllum,7.86,C
+Haloxylon aphyllum,10.41,C
+Karelinia caspia,3.2,M
+Kochia prostrata,7.3,M
+Haloxylon aphyllum,4.52,M
+Antiaris toxicaria,3.5,M
+Baccaurea ramiflora,3.7,M
+Gironniera subaequalis,4.7,M
+Symplocos cochinchinensis,2,M
+Xanthophyllum flavescens,4.6,M
+Larix laricina,1.2,C
+Pinus banksiana,1.2,C
+Leptadenia pyrotechnica,11.5,M
+Pennisetum divisum,0.59,C
+Stipagrostis scoparia,0.5,C
+Trichilia tuberculata,0.8,F
+Prioria copaifera,1.1,F
+Hirtella triandra,1.2,F
+Tetragastris panamensis,0.7,F
+Faramea occidentalis,0.6,F
+Piper cordulatum,0.7,F
+Psychotria horizontalis,0.3,F
+Hybanthus prunifolius,0.6,F
+Argyrolobium uniflorum,0.6,C
+Aristida pungens,1.89,C
+Artemisia campestris,1.22,C
+Atractylis serratuloides,1.12,C
+Echiochilon fruticosum,1.11,C
+Eremobium aegyptiacum,1.11,C
+Gymnocarpos decander,1.53,C
+Helianthemum lippii,0.94,C
+Kickxia aegyptiaca,0.96,C
+Nolletia chrysocomoides,0.24,C
+Plantago albicans,0.85,C
+Rhanterium suaveolens,1.7,C
+Salsola vermiculata var. bevifolia,1.11,C
+Populus tremuloides,1.5,M
+Achnatherum speciosum,1.2,C
+Chuquiraga avellanedae,1.7,C
+Larrea divaricata,3,C
+Lycium chilense,1.2,C
+Nassella tenuis,0.5,C
+Poa ligularis,1,C
+Acacia senegal,6.59,C
+Albizia lebbeck,6.5,C
+Prosopis cineraria,6,C
+Tecomella undulata,3.3,C
+Acacia senegal,7,C
+Albizia lebbeck,4,C
+Prosopis cineraria,4.93,C
+Tecomella undulata,3,C
+Acer negundo,2.77,F
+Acer negundo,3.92,M
+Acer saccharum,0.91,M
+Carya ovata,1.77,M
+Gleditsia triacanthos,0.61,F
+Gleditsia triacanthos,1.69,M
+Juglans nigra,1.27,M
+Juglans nigra,1.83,M
+Platanus occidentalis,2.14,M
+Populus deltoides ssp. monilifera,2.69,F
+Quercus macrocarpa,4.52,M
+Quercus rubra,1.55,M
+Prosopis cineraria,3.7,F
+Krascheninnikovia lanata,1.27,M
+Pascopyrum smithii,0.18,M
+Pseudoroegneria spicata ssp. inermis,1.32,M
+Schizachyrium littorale,2.62,C
+Artemisia tridentata ssp. tridentata,1.8,C
+Artemisia rhodantha,1.2,M
+Christolea crassifolia,1.2,C
+Krascheninnikovia ceratoides,1.8,C
+Stipa glareosa,0.8,C
+Zygophyllum rosovii,1.2,C
+Ammodendron conollyi,3,C
+Calligonum caput-medusae,3.5,C
+Carex physodes,1.2,C
+Ephedra strobilacea,2.4,C
+Haloxylon persicum,4,C
+Salsola richteri,4,C
+Artemisia pauciflora,0.3,F
+Kochia prostrata,3,F
+Leymus ramosus,1.05,F
+Poa bulbosa,0.12,F
+Galium ruthenicum,3.5,M
+Medicago romanica,3.5,M
+Nanophyton erinaceum,0.7,C
+Salsola laricina,3,F
+Spiraea hypericifolia,1,C
+Krascheninnikovia ceratoides,4.9,C
+Adansonia digitata,1.8,C
+Acacia senegal,4,C
+Acacia seyal,6,C
+Balanites aegyptiaca,3,C
+Bombax costatum,1,C
+Combretum adenogonium,4.5,C
+Commiphora africana,2,C
+Pterocarpus lucens,0.5,C
+Faidherbia albida,30,C
+Parkia biglobosa,2,C
+Prosopis juliflora,35,C
+Vitellaria paradoxa,2,C
+Acacia senegal,0.6,C
+Acacia seyal,2,C
+Balanites aegyptiaca,,C
+Opuntia rastrera,0.25,F
+Larrea tridentata,0.5,C
+Cornus florida,,F
+Prosopis cineraria,60,C
+Gleditsia triacanthos var. inermis,3.35,M
+Juglans microcarpa,1.71,M
+Juniperus virginiana,7.47,M
+Maclura pomifera,8.23,M
+Morus alba,3.81,M
+Prunus armeniaca,2.35,M
+Robinia pseudoacacia,7.92,M
+Ulmus pumila,8.08,M
+Triodia pungens,3,
+Opuntia fragilis,0.1,C
+Ferocactus wislizenii,0.73,F
+Gutierrezia sarothrae,0.75,F
+Isocoma tenuisecta,0.86,F
+Prosopis velutina,6.1,F
+Anabasis salsa,0.61,F
+Climacoptera lanata,0.57,F
+Frankenia hirsuta,0.63,F
+Halothamnus subaphyllus,2.61,F
+Haloxylon aphyllum,2.15,F
+Kochia prostrata,0.47,F
+Krascheninnikovia ewersmanniana,2.06,F
+Petrosimonia brachiata,0.39,F
+Populus pruinosa,3.74,F
+Suaeda microphylla,2.86,F
+Bouteloua aristidoides,0.3,C
+Digitaria californica,0.61,C
+Eucalyptus calophylla,36.5,C
+Eucalyptus diversicolor,18,C
+Arbutus unedo,3.5,C
+Erica arborea,2,C
+Quercus ilex,3.7,C
+Stipagrostis amabilis,5,C
+Ambrosia deltoidea,1.8,F
+Argythamnia humilis,0.23,M
+Astragalus nuttallianus,0.13,F
+Cereus giganteus,0.77,C
+Dichelostemma capitatum,0.1,F
+Encelia farinosa,0.55,F
+Ferocactus wislizeni,0.25,F
+Fouquieria splendens,0.375,F
+Kallstroemia grandiflora,0.22,F
+Larrea tridentata,1.7,C
+Opuntia fulgida,0.35,F
+Opuntia leptocaulis,0.15,F
+Psilostrophe cooperi,1.44,C
+Tidestromia lanuginosa,0.23,F
+Trianthema portulacastrum,0.16,M
+Ziziphus parryi,1.36,F
+Prosopis velutina,8,C
+Ambrosia dumosa,0.5,C
+Fouquieria splendens,0.375,M
+Opuntia arbuscula,0.25,M
+Opuntia engelmannii,0.25,M
+Opuntia versicolor,0.3,M
+Opuntia x vivipara,0.25,M
+Ambrosia dumosa,1.8,C
+Quercus douglasii,3.66,M
+Quercus agrifolia,10.7,M
+Geranium solanderi,0.13,C
+Sclerostegia tenuis,0.15,C
+Zygophyllum crenatum,0.14,C
+Crassula lycopodioides,0.1,C
+Galenia africana,3,C
+Salsola aphylla,0.45,C
+Tylecodon wallichii,0.15,C
+Juniperus monosperma,61,F
+Eucalyptus marginata,18.75,C
+Tripsacum dactyloides,1.8,M
+Acamptopappus sphaerocephalus,0.98,C
+Echinocereus engelmannii,0.16,C
+Ericameria cooperi,1.03,C
+Ericameria cooperi,1.35,C
+Eriogonum fasciculatum,1.05,C
+Gutierrezia microcephala,0.62,C
+Hymenoclea salsola,1.95,C
+Menodora spinescens,1.25,C
+Opuntia ramosissima,1.3,C
+Pleuraphis rigida,0.36,C
+Salazaria mexicana,0.9,C
+Salvia dorrii,1.08,C
+Senna armata,1.75,C
+Thamnosma montana,1.26,C
+Yucca schidigera,0.55,C
+Alloteropsis semialata,0.91,C
+Aristida congesta,0.61,C
+Cynodon dactylon,1.52,C
+Digitaria eriantha,1.22,C
+Digitaria tricholaenoides,0.92,C
+Elionurus muticus,0.76,C
+Eragrostis calchantha,0.36,C
+Eragrostis nebulosa,1.24,C
+Heteropogon contortus,0.8,C
+Hyparrhenia hirta,1.52,C
+Kohautia amatymbica,0.73,C
+Monocymbium ceresiiforme,0.61,C
+Paspalum dilatatum,1.07,C
+Setaria flabellata,1.68,C
+Trachypogon spicatus,0.9,C
+Tristachya hispida,0.78,C
+Eragrostis chloromelas,1.25,C
+Amaranthus retroflexus,1.22,M
+Ambrosia artemisiifolia,1.22,M
+Chenopodium album,1.19,M
+Medicago lupulina,0.48,M
+Physalis virginiana,0.76,M
+Plantago major,0.33,M
+Solanum rostratum,1.52,M
+Sonchus asper,0.69,M
+Verbena urticifolia,0.66,M
+Bouteloua gracilis,0.76,M
+Bouteloua gracilis,0.91,C
+Bouteloua hirsuta,0.76,C
+Echinocactus horizonthalonius,0.3,M
+Flourensia cernua,0.66,F
+Gutierrezia microcephala,0.76,F
+Juniperus monosperma,1.07,C
+Nolina texana,0.99,M
+Opuntia imbricata,1.02,C
+Pleuraphis mutica,1.52,F
+Scleropogon brevifolius,0.91,M
+Yucca elata,0.76,M
+Acacia tortilis,1.52,C
+Antennaria microphylla,0.6,M
+Artemisia cana,2.4,M
+Artemisia frigida,0.84,M
+Artemisia frigida,1.65,M
+Aster ericoides,1.1,M
+Astragalus agrestis,0.63,M
+Atriplex nuttallii,1.8,M
+Bouteloua gracilis,0.79,M
+Bouteloua gracilis,0.86,C
+Calamagrostis montanensis,1.1,M
+Calamovilfa longifolia,1.8,C
+Campanula rotundifolia,1.5,M
+Carex duriuscula,0.68,M
+Carex filifolia,0.75,M
+Elymus lanceolatus,1.52,M
+Elymus trachycaulus ssp. subsecundus,0.97,M
+Equisetum arvense,3,M
+Festuca scabrella,1.07,M
+Gaillardia aristata,1.39,M
+Galium boreale,1.5,M
+Gutierrezia sarothrae,1.04,M
+Helictotrichon hookeri,0.9,M
+Hesperostipa comata,0.61,M
+Hesperostipa comata,1.06,C
+Hesperostipa spartea,0.62,M
+Hesperostipa spartea,1.36,M
+Heterotheca villosa,2.43,C
+Koeleria pyramidata,0.75,M
+Krascheninnikovia lanata,1.8,M
+Liatris punctata,2.1,C
+Lithospermum incisum,1.1,M
+Lygodesmia juncea,3,M
+Machaeranthera pinnatifida,1.6,C
+Muhlenbergia cuspidata,0.5,M
+Nassella viridula,1.04,M
+Opuntia polyacantha,0.3,C
+Packera cana,1.5,M
+Pascopyrum smithii,0.82,C
+Pascopyrum smithii,1.24,M
+Pascopyrum smithii,1.65,M
+Pediomelum argophyllum,1.1,M
+Pentaphylloides floribunda,3,M
+Phlox hoodii,0.95,M
+Potentilla concinna,1.8,M
+Potentilla pensylvanica,0.66,C
+Psoralidium lanceolatum,1.24,C
+Pulsatilla patens,1.22,M
+Solidago missouriensis,1.32,M
+Sphaeralcea coccinea,1.8,M
+Sporobolus cryptandrus,0.78,C
+Thermopsis rhombifolia,2.1,M
+Artemisia frigida,1.2,M
+Bouteloua gracilis,0.9,M
+Festuca arizonica,1.2,M
+Muhlenbergia montana,0.9,M
+Cenchrus ciliaris,1.72,C
+Cenchrus setigerus,1.71,C
+Dichanthium annulatum,1.17,C
+Elynurus hirsutus,4.03,C
+Panicum antidotale,2.21,C
+Cenchrus ciliaris,1.66,C
+Cenchrus setigerus,1.39,C
+Dichanthium annulatum,1.17,C
+Elynurus hirsutus,1.86,C
+Panicum antidotale,1.96,C
+Shorea robusta,3.6,
+Abies balsamea,0.625,C
+Picea mariana,0.625,C
+Quercus turbinella,6.4,C
+Arctostaphylos pallida,4,C
+Arctostaphylos glutinosa,2.5,C
+Acer saccharum,3.7,M
+Populus tremuloides,2.3,F
+Eucalyptus camaldulensis,9,
+Eucalyptus gomphocephala,9,
+Eucalyptus marginata,40,C
+Malosma laurina,13.2,
+Bauhinia purpurea,3.45,M
+Eucalyptus tereticornis,4.15,M
+Grewia optiva,2.45,M
+Leucaena leucocephala,2.8,M
+Ougeinia oojeinensis,3.5,M
+Agropyron desertorum,1.3,F
+Artemisia tridentata ssp. vaseyana,2.2,M
+Acacia barbinervis,0.15,C
+Acacia huegelii,0.37,C
+Acacia pulchella,0.42,C
+Adenanthos cygnorum,0.36,C
+Allocasuarina humilis,1.3,C
+Andersonia heterophylla,0.16,C
+Aotus ericoides,0.25,C
+Astartea fascicularis,0.8,C
+Astroloma xerophyllum,0.4,C
+Astroloma xerophyllum,0.85,C
+Bossiaea eriocarpa,0.17,C
+Bossiaea eriocarpa,0.9,C
+Calytrix flavescens,0.15,C
+Calytrix flavescens,2,C
+Calytrix fraseri,0.6,C
+Calytrix sapphirina,0.2,C
+Calytrix sapphirina,0.63,C
+Conospermum incurvum,0.8,C
+Conostephium minus,0.25,C
+Conostephium minus,0.52,C
+Conostephium pendulum,0.22,C
+Daviesia gracilis,1.2,C
+Daviesia gracilis,1.8,C
+Eremaea pauciflora,0.9,C
+Eremaea pauciflora,2.4,C
+Eriostemon spicatus,0.14,C
+Eriostemon spicatus,0.8,C
+Euchilopsis linearis,0.42,C
+Gompholobium tomentosum,0.1,C
+Gompholobium tomentosum,1.05,C
+Hemiandra pungens,0.1,C
+Hemiandra pungens,0.4,C
+Hibbertia aurea,0.25,C
+Hibbertia aurea,0.9,C
+Hibbertia helianthemoides,0.1,C
+Hibbertia helianthemoides,0.7,C
+Hibbertia huegelii,0.2,C
+Hibbertia hypericoides,0.19,C
+Hibbertia hypericoides,2.1,C
+Hibbertia subvaginata,0.67,C
+Hypocalymma angustifolium,0.11,C
+Hypocalymma angustifolium,0.86,C
+Lechenaultia floribunda,0.15,C
+Leucopogon conostephioides,0.09,C
+Leucopogon conostephioides,0.92,C
+Leucopogon sprengelioides,0.1,C
+Leucopogon sprengelioides,0.51,C
+Melaleuca scabra,0.35,C
+Melaleuca scabra,2,C
+Melaleuca seriata,0.25,C
+Melaleuca seriata,2.1,C
+Nemcia capitata,0.2,C
+Nemcia capitata,0.6,C
+Pericalymma ellipticum,0.08,C
+Petrophile linearis,0.75,C
+Petrophile linearis,2,C
+Piptomeris floribunda,3.11,C
+Piptomeris furcellata,2,C
+Pithocarpa corymbulosa,0.17,C
+Pithocarpa corymbulosa,0.75,C
+Scholtzia involucrata,0.43,C
+Scholtzia involucrata,1.9,C
+Stirlingia latifolia,0.17,C
+Stirlingia latifolia,2.6,C
+Opuntia polyacantha,0.1,M
+Enarganthe octonaria,0.08,C
+Euphorbia wallichii,0.2,C
+Zygophyllum prismatocarpum,0.18,C
+Aizoon hispanicum,0.05,C
+Atriplex halimus,0.55,C
+Erucaria rostrata,0.07,C
+Haplophyllum tuberculatum,0.3,C
+Heliotropium rotundifolium,0.3,C
+Linaria haelava,0.05,C
+Lygos raetam,1.1,C
+Reseda muricata,0.18,C
+Salsola orientalis,0.35,C
+Suaeda asphaltica,0.1,C
+Zygophyllum dumosum,1.7,C
+Haloxylon tamariscifolium,1.6,C
+Lygos raetam,1.2,C
+Thymelaea hirsuta,3.5,C
+Zygophyllum dumosum,1.75,C
+Acacia tortilis ssp. raddiana,35,C
+Acer saccharum,1.8,C
+Mulinum spinosum,1,C
+Senecio filaginoides,1.2,C
+Curatella americana,6,M
+Ambrosia dumosa,0.7,C
+Larrea tridentata,0.8,C
+Abronia villosa,0.3,C
+Antheropeas wallacei,0.1,C
+Camissonia brevipes,0.19,C
+Cryptantha utahensis,0.14,C
+Eremalche rotundifolia,0.31,C
+Geraea canescens,0.27,C
+Mimulus bigelovii,0.07,C
+Mohavea breviflora,0.15,C
+Monoptilon bellioides,0.07,C
+Palafoxia linearis,0.2,C
+Plantago ovata,0.1,C
+Polygonum aviculare,0.13,C
+Syntrichopappus fremontii,0.05,C
+Allionia incarnata,0.37,C
+Amaranthus palmeri,0.37,C
+Amaranthus palmeri,0.78,C
+Boerhaavia spicata,0.3,C
+Boerhaavia wrightii,0.28,C
+Chamaesyce abramsiana,0.26,C
+Cucurbita digitata,0.63,C
+Kallstroemia grandiflora,0.54,C
+Pectis papposa,0.24,C
+Tidestromia lanuginosa,0.3,C
+Cariniana pyriformis,2,F
+Prosopis glandulosa,12,C
+Acacia arabica,8.8,
+Acacia polyacantha ssp. polyacantha,4,
+Acacia seyal,7.9,
+Acacia sieberiana,1.65,
+Baccharis glutinosa,0.58,F
+Pluchea sericea,1.69,C
+Tamarix ramosissima,0.64,C
+Tamarix ramosissima,3.66,C
+Guiera senegalensis,2.1,C
+Eremaea beaufortioides,10,C
+Aphanostephus ramosissimus,1.3,M
+Aristida purpurea,0.75,M
+Aristida purpurea,0.98,M
+Aristida purpurea,1.3,M
+Atriplex canescens,3.3,M
+Atriplex canescens,3.6,M
+Bouteloua eriopoda,0.45,M
+Bouteloua eriopoda,1.08,M
+Bouteloua eriopoda,1.6,C
+Caesalpinia drepanocarpa,0.92,M
+Caesalpinia jamesii,1.6,M
+Chamaesyce albomarginata,0.83,M
+Croton pottsii,1.4,M
+Croton pottsii,1.6,M
+Croton pottsii,1.78,C
+Dalea nana,1.3,M
+Desmanthus cooleyi,2.1,M
+Dimorphocarpa wislizenii,0.75,M
+Ephedra torreyana,0.7,C
+Ephedra trifurca,2.71,M
+Ephedra trifurca,5,M
+Eragrostis lehmanniana,1.2,C
+Erioneuron pulchellum,0.3,M
+Flourensia cernua,2.16,M
+Flourensia cernua,2.65,M
+Flourensia cernua,5,M
+Gaura coccinea,0.62,C
+Gutierrezia sarothrae,1.1,F
+Gutierrezia sarothrae,2.4,M
+Gutierrezia sarothrae,2.4,M
+Hymenopappus flavescens,0.86,M
+Iva dealbata,3,M
+Krameria lanceolata,0.6,M
+Krascheninnikovia lanata,2.66,M
+Linum australe,0.64,M
+Lycium berlandieri,1.42,M
+Lycium berlandieri,2.55,M
+Muhlenbergia arenacea,1.43,M
+Muhlenbergia porteri,0.65,M
+Nama hispidum,0.74,M
+Nerisyrenia linearifolia,0.47,C
+Perezia nana,2.8,M
+Pleuraphis mutica,0.4,M
+Pleuraphis mutica,1.06,M
+Prosopis glandulosa,0.85,M
+Prosopis glandulosa,2.72,M
+Prosopis glandulosa,3.2,C
+Prosopis glandulosa,2.9,M
+Prosopis glandulosa,5.5,C
+Psilostrophe tagetina,1.76,C
+Scleropogon brevifolius,0.96,M
+Scleropogon brevifolius,1,M
+Scleropogon brevifolius,1.11,M
+Senna bauhinioides,0.85,M
+Solanum elaeagnifolium,0.54,M
+Solanum elaeagnifolium,0.65,M
+Solanum elaeagnifolium,2.3,M
+Sphaeralcea hastulata,1,M
+Sphaeralcea hastulata,1.57,M
+Sphaeralcea hastulata,3.3,M
+Sporobolus contractus,1.3,C
+Sporobolus flexuosus,0.97,M
+Sporobulus nealleyi,0.19,C
+Talinum angustissimum,0.55,M
+Yucca elata,0.95,M
+Zinnia acerosa,0.49,M
+Zinnia acerosa,1.1,F
+Zinnia grandiflora,1.5,M
+Sphaeralcea hastulata,1.1,M
+Populus tremuloides,2.9,C
+Flourensia cernua,3,M
+Koeberlinia spinosa,3.3,M
+Koeberlinia spinosa,5.2,M
+Scleropogon brevifolius,1,M
+Flourensia cernua,1,F
+Flourensia cernua,3.4,M
+Larrea tridentata,2,F
+Larrea tridentata,5,M
+Flourensia cernua,,C
+Larrea tridentata,1.5,C
+Larrea tridentata,2.38,M
+Colliguaja odorifera,1,C
+Cryptocarya alba,1,C
+Lithraea caustica,5,C
+Quillaja saponaria,8,C
+Retanilla ephedra,1,C
+Satureja gilliesii,0.8,C
+Anabasis articulata,3,C
+Anabasis setifera,1.5,C
+Artemisia herba-alba,0.4,F
+Salsola baryosma,0.8,C
+Salsola vermiculata,1,C
+Zilla spinosa,5,C
+Achillea fragrantissima,1.5,F
+Anabasis syriaca,3,F
+Calligonum comosum,5,C
+Haloxylon salicornicum,2.5,C
+Ochradenus baccatus,5,C
+Peganum harmala,4.5,F
+Prosopis farcta,15,Wl
+Adenium somalense var. crispum,1.4,C
+Sansevieria ehrenbergii Schweinf. ex Baker,0.9,C
+Aristida kelleri,0.9,C
+Stipagrostis uniplumis,0.7,C
+Aerva javanica,1.4,C
+Anticharis linearis,0.5,C
+Citrullus lanatus,0.9,C
+Eragrostis mahrana,0.6,C
+Panicum turgidum,1.16,C
+Sporobolus marginatus,0.5,C
+Indigofera spinosa,0.55,C
+Indigofera ruspolii,1.6,C
+Blepharispermum fruticosum,1.7,C
+Entada wahlbergii,0.6,C
+Erythrina melanacantha,1.4,C
+Acacia reficiens ssp. misera,,M
+Acacia edgeworthii,6,C
+Iphiona rotundifolia,4.6,C
+Salsola foetida,5.2,C
+Secamone punctulata,4.4,C
+Commiphora ancistrophora,0.57,C
+Commiphora erythraea,0.75,C
+Platycelyphium voense,0.59,C
+Acacia tortilis ssp. spirocarpa,,M
+Acacia bussei,0.3,C
+Achyropsis greenwayi,0.92,F
+Adesmia lotoides,0.4,C
+Adesmia villosa,0.5,C
+Arjona tuberosa,0.25,C
+Calceolaria polyrrhiza,0.45,C
+Camissonia dentata,0.3,C
+Cerastium arvense,0.3,C
+Doniophyton anomalum,0.3,C
+Euphorbia collina,0.6,C
+Gilia laciniata,0.3,C
+Huanaca acaulis,0.3,C
+Hypochaeris montana,0.4,C
+Leucheria millefolium,0.45,C
+Loasa argentina,0.45,C
+Microsteris gracilis,0.3,C
+Montiopsis gayana,0.3,C
+Oxalis squamoso-radicosa,0.25,C
+Perezia recurvata,0.35,C
+Polemonium micranthum,0.3,C
+Polygala darwiniana,0.45,C
+Silene magellanica,0.45,C
+Sisyrinchium junceum,0.25,C
+Sisyrinchium macrocarpum,0.4,C
+Tweedia australis,0.6,C
+Valeriana clarionifolia,0.5,C
+Juniperus semiglobosa,1.2,M
+Juniperus turkestanica,0.6,M
+Aspidosperma quebracho-blanco,16,
+Atriplex torreyi,3.6,F
+Ericameria nauseosa,3.6,F
+Sarcobatus vermiculatus,3.6,F
+Andropogon gayanus,1.8,C
+Andropogon gayanus,1.2,C
+Ficus sp.,120,
+Copiapoa cinerea var. columna-alba,0.08,C
+Acer rubrum,3,C
+Quercus alba,4,C
+Adenostoma fasciculatum,2.44,C
+Adenostoma fasciculatum,2.44,C
+Adenostoma sparsifolium,1.83,C
+Adenostoma sparsifolium,2.44,C
+Bromus tectorum,1.17,M
+Pseudoroegneria spicata,1.36,M
+Pseudoroegneria spicata,1.4,M
+Tripsacum laxum,3.05,F
+Fraxinus pennsylvanica,1.09,C
+Populus deltoides ssp. monilifera,2.21,C
+Quercus macrocarpa,2.63,F
+Ulmus americana,1.55,C
+Ulmus americana,1.83,F
+Ulmus americana,2.72,C
+Ulmus americana,6.12,C
+Fraxinus pennsylvanica,0.74,M
+Fraxinus pennsylvanica,1.48,M
+Adenostoma fasciculatum,7.62,C
+Arctostaphylos glandulosa,5.18,C
+Arctostaphylos glauca,2.59,C
+Ceanothus crassifolius,1.37,F
+Ceanothus gregii var. vestitus,1.37,C
+Ceanothus leucodermis,3.66,C
+Ceanothus oliganthus,1.83,F
+Cercocarpus betuloides,1.52,C
+Eriodictyon crasssifolium var. nigrescens,1.37,C
+Eriogonum fasciculatum var. foliolosum,1.22,C
+Heteromeles arbutifolia,1.98,F
+Lotus scoparius,1.13,M
+Mimulus aurantiacus,1.52,C
+Quercus chrysolepis,7.32,C
+Quercus dumosa,8.53,C
+Salvia apiana,1.52,C
+Salvia mellifera,0.61,F
+Yucca whipplei,0.76,C
+Pinus palustris,4.32,C
+Aristea major,0.5,C
+Aristea major,0.5,C
+Aristea major,0.95,C
+Aristea major,1,C
+Aristea major,1.2,C
+Aristea major,1.5,C
+Cliffortia ruscifolia,1.46,C
+Cliffortia ruscifolia,1.5,C
+Erica plukenettii,0.32,C
+Erica plukenettii,0.5,C
+Ischyrolepis gaudichaudiana,0.1,C
+Ischyrolepis gaudichaudiana,0.1,C
+Ischyrolepis gaudichaudiana,0.4,C
+Leucadendron salignum,3.5,C
+Otholobium fruticans,1.5,C
+Protea neriifolia,3,C
+Protea neriifolia,3.26,C
+Protea repens,3,C
+Protea repens,3,C
+Tetraria bromoides,0.5,C
+Tetraria bromoides,1,C
+Tetraria bromoides,1,C
+Tetraria bromoides,1,C
+Watsonia pyramidata,0.39,C
+Watsonia pyramidata,0.4,C
+Eremaea beaufortioides,6,C
+Amorpha canescens,4.11,M
+Andropogon gerardi,3,M
+Aster multiflorus,2.13,M
+Bouteloua curtipendula,2.45,M
+Bouteloua gracilis,1.98,M
+Brickellia eupatorioides,6.4,M
+Carex duriuscula,0.76,M
+Carex pensylvanica,0.76,M
+Gaura coccinea,3.05,M
+Koeleria pyramidata,0.76,M
+Lygodesmia juncea,6.4,M
+Machaeranthera pinnatifida,1.46,M
+Pascopyrum smithii,3.66,M
+Psoralidium tenuiflorum,4.11,M
+Ratibida columnifera,1.68,M
+Solidago missouriensis var. fasciculata,3.35,M
+Sphaeralcea coccinea,3.97,M
+Sporobolus cryptandrus,2.74,M
+Pinus contorta,3.3,M
+Acacia mearnsii,5.79,M
+Pennisetum clandestinum,4.88,M
+Butea frondosa,3.05,F
+Butea frondosa,5.18,C
+Dalbergia sissoo,4.52,C
+Ficus benghalensis,4.88,C
+Ficus religiosa,5.79,C
+Melia azedarach,3.96,C
+Millingtonia hortensis,3.51,C
+Millingtonia hortensis,5.18,C
+Phyllanthus emblica,5.79,C
+Tectonia grandis,3.05,C
+Tectonia grandis,3.96,C
+Bromus tectorum,1.6,M
+Avena fatua,0.3,F
+Nassella pulchra,1,F
+Isocoma tenuisecta,5.5,C
+Larix dahurica,0.65,Wl
+Eucalyptus regnans,2.7,
+Celtis laevigata,6,C
+Juniperus ashei,8,C
+Quercus fusiformis,22,C
+Quercus sinuata,7,C
+Ulmus americana,7,C
+Ulmus crassifolia,9,C
+Jacquinia pungens,3,F
+Brachystegia spiciformis,4.5,C
+Pterocarpus angolensis,2,C
+Milicia excelsea,3,F
+Acacia erioloba,60,C
+Boscia albitrunca,68,C
+Phalaris aquatica,1.2,C
+Eucalyptus viminalis,17.7,C
+Quercus alba,3.4,M
+Prunus yedoensis,2.1,F
+Quercus dentata,4.3,M
+Fraxinus japonica,2,F
+Juglans nigra,3,M
+Platanus orientalis,2.6,M
+Populus nigra,1.9,M
+Quercus velutina,3,M
+Salix babylonica,2.2,M
+Picea abies,0.17,M
+Anabasis aretoides,1.25,F
+Lygos raetam,1,C
+Peganum harmala,0.9,C
+Zilla spinosa ssp. macroptera,1.38,C
+Zilla spinosa ssp. macroptera,2.3,C
+Zygophyllum album,0.85,C
+Artemisia austriaca,0.43,
+Bromopsis erecta,0.66,
+Elytrigia intermedia,0.91,
+Festuca rupicola,0.78,
+Poa pratensis,0.44,
+Potentilla humifusa,0.57,
+Stipa capillata,1.01,
+Robinia pseudoacacia,3.21,C
+Apodytes dimidiata,8.23,C
+Eucalyptus marginata,15,F
+Achnatherum hymenoides,1.12,C
+Achnatherum hymenoides,1.2,C
+Achnatherum hymenoides,1.25,C
+Ambrosia acanthicarpa,1.33,C
+Ambrosia acanthicarpa,1.65,C
+Ambrosia acanthicarpa,1.65,C
+Ambrosia acanthicarpa,1.67,C
+Ambrosia acanthicarpa,1.8,C
+Artemisia tridentata,1.14,C
+Artemisia tridentata,1.7,C
+Artemisia tridentata,1.72,C
+Artemisia tridentata,1.87,C
+Artemisia tridentata,1.96,C
+Artemisia tridentata,2,C
+Artemisia tridentata,2.15,C
+Artemisia tridentata,2.19,C
+Artemisia tridentata,2.35,C
+Artemisia tridentata,2.45,C
+Artemisia tridentata,2.5,C
+Balsamorhiza careyana,1.5,C
+Chrysothamnus nauseosus,1.47,C
+Chrysothamnus nauseosus,1.5,C
+Chrysothamnus nauseosus,1.6,C
+Chrysothamnus nauseosus,1.7,C
+Chrysothamnus nauseosus,1.75,C
+Chrysothamnus nauseosus,1.85,C
+Chrysothamnus nauseosus,2,C
+Chrysothamnus nauseosus,2.1,C
+Chrysothamnus nauseosus,2.5,C
+Chrysothamnus viscidiflorus,1.45,C
+Chrysothamnus viscidiflorus,1.6,C
+Eriogonum niveum,1.5,C
+Grayia spinosa,1.95,C
+Hesperostipa comata,1.22,C
+Hesperostipa comata,1.34,C
+Hesperostipa comata,1.38,C
+Hesperostipa comata,1.6,C
+Lactuca serriola,0.84,C
+Machaeranthera canescens,1.36,C
+Machaeranthera canescens,1.38,C
+Machaeranthera canescens,1.44,C
+Machaeranthera canescens,1.55,C
+Pteryxia terebinthina,1.24,C
+Pteryxia terebinthina,1.41,C
+Pteryxia terebinthina,1.55,C
+Pteryxia terebinthina,1.6,C
+Purshia tridentata,2.83,C
+Purshia tridentata,3,C
+Purshia tridentata,3,C
+Purshia tridentata,3,C
+Salsola tragus,1.18,C
+Salsola tragus,1.45,C
+Salsola tragus,1.5,C
+Salsola tragus,1.72,C
+Salsola tragus,1.83,C
+Salsola tragus,1.9,C
+Salsola tragus,2.05,C
+Salsola tragus,2.09,C
+Suaeda physophora,0.6,Wl
+Acer pseudoplatanus,1.4,C
+Alnus glutinosa,3.8,
+Betula verrucosa,4,C
+Carpinus betulus,1.4,F
+Populus tremula,1.5,F
+Quercus robur,9,
+Quercus rubra,3.6,C
+Robinia pseudoacacia,2.8,C
+Ulmus montana,1.6,M
+Alnus glutinosa,2.25,M
+Alnus incana,1.2,M
+Betula verrucosa,1.35,M
+Carpinus betulus,1.9,M
+Fagus sylvatica,1.05,M
+Quercus petraea,1.9,M
+Quercus robur,1.95,M
+Quercus rubra,1.85,M
+Alnus glutinosa,1.9,M
+Alnus incana,1.05,M
+Betula pubescens,1.15,M
+Populus tremula,1.65,M
+Abies alba,1.85,M
+Picea abies,0.6,M
+Quercus agrifolia,7.3,
+Juncus inflexus,0.92,C
+Elytrigia intermedia,0.99,C
+Cynodon dactylon,1.2,M
+Koeleria splendens,0.53,C
+Molinia caerulea spp. litoralis,1.41,C
+Carex flacca,0.83,M
+Carex flacca,0.83,M
+Juncus compressus,1.27,F
+Sesleria albicans,0.38,C
+Muscari neglectum,0.09,C
+Carex praecox,0.51,C
+Carex praecox,0.51,C
+Stipa joannis,0.52,C
+Carex liparocarpos,0.26,C
+Cynodon dactylon,0.6,C
+Cynodon dactylon,0.6,C
+Koeleria macrantha,0.55,C
+Poa bulbosa,0.25,C
+Galanthus nivalis,0.18,C
+Corynephorus canescens,0.32,C
+Aira praecox,0.2,C
+Dactylis glomerata,0.9,C
+Festuca arundinacea,2.73,M
+Festuca pratensis,1.73,M
+Holcus lanatus,0.89,M
+Carex arenaria,1.82,C
+Carex trinervis,1.42,C
+Carex trinervis,1.42,C
+Carex trinervis,1.42,C
+Carex trinervis,1.42,C
+Festuca rubra ssp. arenaria,0.72,C
+Festuca rubra ssp. arenaria,0.72,C
+Festuca rubra ssp. arenaria,0.72,C
+Festuca tenuifolia,0.32,C
+Festuca pallens ssp. scabrifolia,0.35,C
+Festuca valesiaca,0.61,C
+Crypsis aculeata,0.25,C
+Carex davalliana,0.4,M
+Carex umbrosa,0.3,M
+Juncus effusus,0.75,C
+Juncus effusus,0.81,C
+Juncus filiformis,0.71,C
+Scirpus sylvaticus,1.7,M
+Trisetum flavescens,0.51,C
+Bothriochloa ischaemum,0.81,C
+Helictotrichon pubescens,0.47,C
+Koeleria pyramidata,0.45,C
+Crocus vernus,0.11,C
+Agrostis capillaris,0.57,C
+Anthoxanthum odoratum,0.219256757,C
+Arrhenatherum elatius,1.37,C
+Briza media,0.52,C
+Bromus hordeaceus,0.6,C
+Carex caryophyllea,0.2,C
+Festuca rubra ssp. rubra,0.55,M
+Festuca rubra ssp. rubra,0.55,M
+Festuca rupicola,0.46,C
+Lolium perenne,0.484830509,C
+Lolium perenne,0.484830509,C
+Lolium perenne,0.719864407,C
+Molinia caerulea spp. caerulea,0.52,C
+Poa trivialis,0.32,C
+Alopecurus pratensis,0.82,C
+Luzula campestris,0.21,C
+Cynodon dactylon,1.21,C
+Cynodon dactylon,1.21,C
+Cynodon dactylon,1.21,C
+Phalaris arundinacea,1.39,C
+Allium vineale,0.7,C
+Phleum arenarium,0.32,C
+Erythronium dens-canis,0.16,C
+Anthericum liliago,1.12,C
+Juncus articulatus,0.13,C
+Juncus articulatus,0.24,C
+Bromopsis erecta,0.89,C
+Phleum pratense,0.64,C
+Poa compressa,0.48,C
+Glyceria maxima,0.95,M
+Bromus inermis,0.97,C
+Bromus racemosus,0.54,F
+Orchis morio,0.09,C
+Chrysopogon gryllus,1.92,M
+Puccinellia distans,0.53,C
+Allium senescens ssp. montanum,0.25,C
+Colchicum autumnale,0.17,M
+Colchicum autumnale,0.17,M
+Colchicum autumnale,0.17,M
+Alopecurus bulbosus,0.51,F
+Cynosurus cristatus,0.22,C
+Ammophila arenaria,1.62,C
+Ammophila arenaria,1.62,C
+Juncus conglomeratus,0.3,C
+Narthecium ossifragum,0.22,
+Narthecium ossifragum,0.22,
+Alopecurus myosuroides,0.36,F
+Hordeum bulbosum,1.24,M
+Orchis papilionacea,0.19,M
+Leucojum vernum,0.42,M
+Carex humilis,0.72,C
+Melica ciliata,0.42,C
+Phleum phleoides,0.3,C
+Poa badensis,0.15,C
+Stipa capillata,0.82,C
+Allium flavum,0.15,C
+Allium sphaerocephalon,0.15,C
+Anthericum ramosum,0.55,C
+Deschampsia cespitosa,1.23,C
+Koeleria vallesiana,0.54,C
+Narcissus poeticus ssp. radiiflorus,0.29,F
+Iris sibirica,0.8,F
+Brachypodium rupestre,0.46,C
+Carex panicea,0.49,M
+Carex panicea,0.49,M
+Iris graminea,0.79,C
+Iris graminea,0.79,C
+Ornithogalum pyrenaicum,0.18,C
+Arrhenatherum elatius ssp. bulbosum,0.65,F
+Helictotrichon pratense,0.79,F
+Carex vulpina,0.6,M
+Eleocharis mamillata ssp. austriaca,0.63,M
+Centaurea scabiosa,2.62,M
+Gypsophila perfoliata,0.93,C
+Taraxacum serotinum,4.56,M
+Scleranthus perennis,0.14,C
+Pulsatilla pratensis,0.79,C
+Ranunculus flammula,0.2,C
+Ranunculus auricomus,0.25,M
+Thalictrum lucidum,0.39,C
+Ranunculus acris,0.44,C
+Carlina acaulis,4.1,C
+Cerastium holosteoides,0.16,C
+Dianthus deltoides,0.29,C
+Medicago falcata,4.25,C
+Petrorhagia saxifraga,1.06,C
+Pimpinella saxifraga,3.71,C
+Ranunculus ficaria,0.16,C
+Urtica dioica,0.8,C
+Eryngium campestre,4.59,C
+Biscutella sempervirens,2.14,C
+Pulsatilla pratensis,0.42,C
+Gypsophila fastigiata,1.47,C
+Equisetum ramosissimum,2.52,C
+Ononis natrix,2.25,C
+Adonis vernalis,0.71,C
+Heracleum sphondyleum,1.97,C
+Equisetum palustre,2.5,M
+Peucedanum cervaria,4.15,M
+Ranunculus bulbosus,0.3,C
+Stellaria graminea,0.34,C
+Kochia prostrata,6.34,M
+Eremurus robustus,0.18,F
+Ferula akitschkensis,3.58,M
+Inula macrophylla,3.49,M
+Libanotis schrenkiana,2.68,M
+Ligularia macrophylla,1.39,F
+Juniperus communis,3.15,C
+Arthrophytum iliense,1.96,C
+Climacoptera lanata,0.77,C
+Haloxylon aphyllum,1.72,C
+Horaninovia ulicina,0.82,C
+Nanophyton erinaceum,1.27,C
+Ammopiptanthus mongolicus,2.32,C
+Amygdalus mongolica,2.69,C
+Brachanthemum gobicum,1.22,C
+Kalidium gracile,1.1999,C
+Convolvulus tragacanthoides,3.22,C
+Haloxylon ammodendron,2.14,C
+Nitraria sibirica,3.417,C
+Olgaea leucophylla,0.77,C
+Olgaea leucophylla,0.759,C
+Salsola laricifolia,0.5897,C
+Salsola passerina,1.04,C
+Sympegma regelii,3.58,C
+Zygophyllum xanthoxylon,5.7608,C
+Artemisia santonica,0.66,M
+Camphorosma annua,0.53,F
+Limonium tataricum,1.29,F
+Carpinus betulus,3.84,M
+Achnatherum splendens,1.41,C
+Allium polyrhizum,0.16,C
+Euphorbia mongolica,1.67,C
+Iris bungei,1.16,C
+Rheum nanum,0.6415,C
+Rheum nanum,0.7304,C
+Rheum nanum,0.3059,C
+Rheum nanum,0.6564,C
+Quercus robur,2.94,C
+Brassica napus,1.61,M
+Achillea millefolium,0.8935,M
+Anchusa officinalis,1.18,M
+Cardamine hirsuta,0.37,C
+Cardaria draba,1.18,C
+Equisetum arvense,1.7,C
+Erophila verna,0.06,C
+Geranium molle,0.53,C
+Lotus corniculatus,0.65,C
+Rorippa sylvestris,0.79,C
+Symphytum officinale,1.8,
+Taraxacum officinale,1.42,C
+Trifolium hybridum,0.3,C
+Trifolium repens,0.7,C
+Valerianella carinata,0.1,C
+Panicum capillare,0.62,C
+Panicum ischaemum,0.43,C
+Panicum sanguinale,0.37,C
+Panicum crus-galli,1.16,C
+Setaria pumila,0.37,C
+Polygonum aviculare,0.72,C
+Chenopodium album,1.06,C
+Amaranthus retroflexus,1.22,C
+Rumex crispus,3.25,C
+Ornithogalum umbellatum,0.0869,M
+Holosteum umbellatum,0.24,C
+Aloe litoralis,0.906,C
+Enneapogon scoparius,0.65,M
+Kleinia longiflora,0.15,M
+Rhigozum trichotomum,2.15,M
+Schmidtia kalahariensis,1.01,C
+Stipagrostis amabilis,2.06,C
+Stipagrostis uniplumis,2.36,C
+Acanthosicyos horrida,4.72,C
+Arthraerua leubnitziae,2.44,C
+Lithops ruschiorum,0.07,C
+Mesembryanthemum guerichianum,0.52,C
+Odyssea paucinervis,1.69,C
+Tetragonia reduplicata,1.6,C
+Trianthema hereroensis,1.48,C
+Tribulus zeyheri var. pechuelii,0.6,C
+Welwitschia mirabilis,1.6,C
+Zygophyllum clavatum,1.99,C
+Zygophyllum stapffii,2.07,C
+Acanthosicyos horrida,2.05,C
+Arthraerua leubnitziae,1.67,C
+Trianthema hereroensis,0.7,C
+Commiphora saxicola,0.4,C
+Commiphora tenuipetiolata,0.98,C
+Euphorbia damarana,0.44,C
+Euphorbia virosa,0.3,C
+Stipagrostis obtusa,0.29,C
+Colophospermum mopane,0.8,C
+Pinus sylvestris,3.2,C
+Betula verrucosa,1.1,C
+Betula verrucosa,1.1,C
+Betula odorata,2.7,
+Eucalyptus gomphocephala,15,C
+Faidherbia albida,40,
+Atriplex canescens,2.01,M
+Ericameria nauseosa,0.96,M
+Gutierrezia sarothrae,2,C
+Acacia erioloba,45,C
+Quercus douglasii,24.38,C
+Quercus kelloggii,12.83,C
+Quercus lobata,7.41,C
+Quercus wislizenii,20.72,C
+Carlina acaulis,4.08,
+Bromus tectorum,0.5,C
+Poa secunda,0.35,C
+Artemisia tridentata,3,C
+Bromus tectorum,0.6,M
+Bromus tectorum,0.8,M
+Grayia spinosa,2,M
+Sisymbrium altissimum,0.97,C
+Stipagrostis sabulicola,0.7,C
+Prosopis glandulosa,,
+Quercus rubra,1,C
+Ericameria cooperi,1.3,C
+Artemisia spinescens,1.28,C
+Artemisia tridentata ssp. tridentata,2.01,C
+Coleogyne ramosissima,1.11,C
+Ephedra nevadensis,0.67,C
+Ericameria cooperi,1.47,C
+Ericameria teretifolia,2,C
+Grayia spinosa,0.96,C
+Hymenoclea salsola,1.02,C
+Tetradymia axillaris,2.1,C
+Artemisia tridentata ssp. tridentata,0.91,F
+Atriplex canescens,1.36,C
+Cucurbita foetidissima,0.51,
+Ephedra trifurca,3.35,F
+Ericameria nauseosa,2.54,
+Eriogonum effusum,2.03,C
+Gilia rigidula ssp. acerosa,0.99,C
+Gutierrezia sarothrae,1.12,
+Linum rigidum,0.13,C
+Opuntia imbricata,0.76,
+Solanum elaeagnifolium,1.65,M
+Erodium botrys,1.3,F
+Sarcobatus vermiculatus,17.3,C
+Milicia excelsea,2,
+Schaefferia cuneifolia,1.2,C
+Zanthoxylum fagara,1.2,C
+Ziziphus obtusifolia,1.6,C
+Artemisia monosperma,0.92,C
+Citrullus colocynthis,0.77,C
+Haloxylon salicornicum,0.72,C
+Hyoscyamus muticus,0.83,C
+Hyoscyamus muticus,0.86,C
+Lygos raetam,1.01,C
+Matthiola longipetiolata ssp. livida,0.1,C
+Opophytum forskahlii,0.1,C
+Pancratium sickenbergeri,0.23,C
+Plantago ovata,0.13,C
+Schismus barbatus,0.16,C
+Trigonella stellata,0.16,C
+Zygophyllum simplex,0.09,C
+Adenostoma fasciculatum,0.3,C
+Adenostoma fasciculatum,1,C
+Adenostoma fasciculatum,1,C
+Arctostaphylos glauca,0.3,C
+Ceanothus greggii,0.3,C
+Ceanothus greggii,0.3,C
+Heteromeles arbutifolia,0.3,C
+Colliguaya odorifera,0.3,C
+Colliguaya odorifera,0.6,C
+Satureja gilliesii,0.4,C
+Satureja gilliesii,0.6,C
+Satureja gilliesii,0.7,C
+Satureja gilliesii,0.85,C
+Quercus douglasii,1.5,
+Astragalus paucijugus,1.7,C
+Haloxylon ammodendron,6,C
+Haloxylon persicum,2.18,C
+Salsola richteri,1.42,C
+Prosopis tamarugo,3.5,
+Borassus aethiopum,1.2,C
+Panicum maximum,3.5,F
+Panicum maximum,3,F
+Atriplex lampa,0.9,C
+Larrea cuneifolia,,C
+Larrea divaricata,,C
+Larrea nitida,,C
+Suaeda divaricata,0.7,C
+Suaeda divaricata,1.8,C
+Zuccagnia punctata,,C
+Larrea divaricata,4,C
+Bulnesia schikendantzii,4,C
+Plectrocarpa rougesii,2,C
+Agave lecheguilla,0.61,M
+Parthenium argentatum,0.76,M
+Parthenium incanum,0.42,M
+Bouteloua breviseta,0.5,M
+Ephedra strobilacea,2.8,C
+Halothamnus subaphyllus,3.1,C
+Haloxylon aphyllum,8.5,C
+Haloxylon persicum,9.8,C
+Salsola richteri,2.5,C
+Arnebia transcaspica,0.53,C
+Artemisia badhysi,2.2,C
+Artemisia badhysi,2.4,C
+Astragalus unifoliolatus,1.99,C
+Astragalus unifoliolatus,2.1,C
+Astragalus unifoliolatus,2.5,C
+Bromus tectorum,0.6,C
+Calligonum setosum,1.73,C
+Calligonum setosum,3.5,C
+Carex pachystylis,1,C
+Centaurea belangeriana,0.85,C
+Descurainia sophia,1.1,C
+Ephedra strobilacea,3.7,C
+Ferula badrakema,0.7,C
+Halothamnus subaphyllus,1.5,C
+Halothamnus subaphyllus,6.8,C
+Haloxylon persicum,3,C
+Heliotropium arguzioides,0.48,C
+Hordeum leporinum,0.44,C
+Poa bulbosa var. vivipara,0.75,C
+Salsola paletzkiana,2.19,C
+Salsola paletzkiana,8.9,C
+Salsola richteri,4.3,C
+Alhagi persarum,20,
+Ammodendron conollyi,6.2,C
+Artemisia diffusa,1,C
+Artemisia halophila,3,
+Artemisia kemrudica,1.2,
+Artemisia sogdiana,2,
+Artemisia terrae-albae,0.9,F
+Artemisia turanica,1,C
+Astragalus agameticus,2.7,
+Astragalus chiwensis,0.8,C
+Astragalus flexus,1.2,
+Astragalus longipetiolatus,1.2,C
+Astragalus maximowiczii,1.5,C
+Astragalus paucijugus,1.5,
+Calligonum caput-medusae,2,C
+Calligonum eriopodum,2.5,C
+Calligonum rubens,2,C
+Camphorosma lessingii,1.6,F
+Dorema aitchisonii,0.9,
+Dorema sabulosum,0.7,C
+Ferula badrakema,0.9,F
+Ferula foetida,0.9,C
+Ferula oopoda,0.8,C
+Halothamnus subaphyllus,7,C
+Haloxylon aphyllum,14,
+Kochia prostrata,3,
+Mausolea eriocarpa,1.4,C
+Poa bulbosa,0.7,
+Salsola gemmascens,0.7,
+Salsola orientalis,0.6,F
+Salsola orientalis,2.2,C
+Salsola richteri,4,C
+Smirnowia turkestana,2,C
+Stipagrostis karelinii,2.2,C
+Stipagrostis pennata,1.8,C
+Rhodiola coccinea,0.3,M
+Carex melantha,0.55,M
+Dracocephalum imberbe,0.38,M
+Papaver croceum,0.35,M
+Leontopodium ochroleucum,0.23,M
+Kobresia capillifolia,0.16,M
+Juniperus turkestanica,1.6,M
+Phlomis oreophila,0.55,M
+Alchemilla obtusa,0.37,M
+Poa alpina,0.38,M
+Polygonum nitens,0.06,M
+Picea schrenkiana,1.5,M
+Rosa spinosissima,2,M
+Hypericum scabrum,0.74,M
+Thalictrum collinum,0.42,M
+Cotoneaster megalocarpa,3.5,M
+Cystopteris filix-fragilis,0.19,M
+Malus sieversii,7.2,M
+Acer semenovii,5.1,M
+Prunus armeniaca,3.6,M
+Spiraea hypericifolia,2,M
+Artemisia santolinifolia,1.4,M
+Ajania fastigiata,1.2,M
+Poa pratensis,0.42,M
+Carex turkestanica,0.4,M
+Pleuraphis rigida,,C
+Pleuraphis rigida,,C
+Agave deserti,0.25,C
+Ferocactus cylindraceus,0.25,C
+Pleuraphis rigida,0.25,C
+Echinocereus engelmannii,0.3,C
+Opuntia acanthocarpa,0.3,C
+Prunus avium,1.9,M
+Gutierrezia sarothrae,0.45,C
+Anthyllis henoniana,1.2,C
+Avena fatua,1.17,M
+Condalia microphylla,0.52,C
+Prosopis caldenia,0.79,C
+Populus tremula,2,F
+Prosopis velutina,58,C
+Pistacia vera,3.2,M
+Cereus giganteus,0.9,
+Ferocactus wislizeni,0.3,
+Opuntia fulgida,0.3,
+Bothriochloa pertusa,0.55,F
+Cynodon dactylon,0.3,F
+Dichanthium annulatum,1,F
+Imperata cylindrica,0.58,F
+Setaria glauca,0.25,F
+Sporobulus diander,0.24,F
+Andira humilis,18,M
+Aristolochia giberti,1.8,M
+Cochlospermum insigne,2.06,M
+Craniolaria integrifolia,0.35,M
+Echinolaena inflexa,1.5,M
+Stryphnodendron barbatimao,2,M
+Vernonia grandiflora,0.15,M
+Jacaranda decurrens,11,M
+Achnatherum hymenoides,1.5,M
+Artemisia tridentata,2.25,M
+Chrysothamnus viscidiflorus,1.9,M
+Cordylanthus ramosus,1.6,M
+Leymus cinereus,1.6,M
+Quercus rubra,2.9,
+Faidherbia albida,7.25,F
+Gypothamnium pinifolium,0.1,
+Heliotropium pycnophyllum,0.6,
+Nolana mollis,0.5,
+Burkea africana,2.2,C
+Ochna pulchra,2.2,C
+Terminalia sericea,2.2,C
+Quercus turbinella,7.6,C
+Quercus turbinella,9.1,C
+Quercus turbinella,9.1,C
+Pinus sylvestris,2.4,C
+Baphia massaiensis ssp. obovata,2.61,C
+Brachystegia boehmii,3.65,F
+Brachystegia floribunda,3.35,F
+Brachystegia longifolia,5.28,F
+Brachystegia spiciformis,4.38,F
+Brachystegia spiciformis,4.92,F
+Brachystegia utilis,3.65,F
+Dialium engleranum,3,C
+Erythrophleum africanum,2.44,F
+Faurea saligna,1.38,F
+Hymenocardia acida,1.2,F
+Isoberlinia angolensis,3.65,F
+Julbernardia paniculata,5.2,F
+Marquesia macroura,2.45,F
+Monotes africanus,3,
+Parinari curatellifolia,1.94,F
+Pericopsis angolensis,3.65,F
+Pseudolachnostylis maprouneifolia,3,C
+Strychnos innocua,3,F
+Strychnos pungens,3,C
+Syzygium afromontanum,3,C
+Syzygium macrocarpum,3,C
+Uapaca kirkiana,1.5,F
+Uapaca nitida,0.91,
+Acer saccharum,2.7,C
+Nassauvia glomerulosa,3,C
+Festuca pallescens,2,C
+Mulinum spinosum,3,C
+Nothofagus pumilo,2,M
+Antennaria parvifolia,0.48,C
+Artemisia frigida,0.99,C
+Bouteloua gracilis,1.02,C
+Festuca arizonica,1.32,C
+Muhlenbergia montana,1.35,C
+Elytropappus rhinocerotis,6.16,F
+Galenia africana,3.52,M
+Galenia africana,5.01,M
+Galenia africana,7.32,M
+Euphorbia burmanni,0.51,M
+Euphorbia burmanni,1.23,M
+Euphorbia mauretanica,1.08,F
+Euphorbia mauretanica,1.28,F
+Ruschia multiflora,3.03,F
+Ruschia multiflora,4.37,F
+Crotalaria burhia,2.5,C
+Oligochaeta ramosa,0.25,C
+Aerva javanica,2,C
+Arnebia hispidissima,0.35,C
+Boerhavia diffusa,1.2,C
+Capparis decidua,3.3,C
+Convolvulus prostratus,2.5,C
+Fagonia cretica,0.75,C
+Ipomoea pes-tigrides,0.2,C
+Merremia aegyptia,0.16,C
+Polycarpaea corymbosa,0.25,C
+Pulicaria crispa,0.7,C
+Sida grewioides,0.6,C
+Solanum surattense,0.8,C
+Tribulus terrestris,1.1,C
+Ziziphus nummularia,3,C
+Quercus calliprinos,4.6,F
+Astragalus danicus,0.34,M
+Bromus riparius,0.75,M
+Fragaria viridis,0.32,M
+Galium verum,0.7,M
+Helictotrichon desertorum,1,M
+Pimpinella saxifraga,1.6,M
+Potentilla longipes,0.29,M
+Thymus pannonicus,0.75,M
+Trifolium montanum,0.75,M
+Veronica austriaca,0.62,M
+Veronica spuria,1.22,M
+Vicia cracca,0.36,M
+Agropyron pectinatum,1.7,M
+Alopecurus pratensis,0.8,M
+Artemisia austriaca,1.05,M
+Artemisia austriaca,1.08,M
+Artemisia taurica,1.32,M
+Bassia sedoides,1.04,M
+Carduus uncinatus,1.8,M
+Carex stenophylla,0.42,M
+Cerastium ucrainicum,0.07,M
+Ceratocarpus arenarius,1.17,M
+Crambe tataria,2,F
+Elytrigia pseudocaesia,2,M
+Erophila verna,0.06,M
+Eryngium campestre,2.25,M
+Euphorbia seguierana,1.08,M
+Euphorbia seguierana,2.6,M
+Falcaria vulgaris,1.8,M
+Festuca rupicola,0.15,M
+Festuca rupicola,0.62,M
+Festuca rupicola,0.96,M
+Festuca rupicola,1.2,M
+Gagea pusilla,0.13,M
+Galatella villosa,1.05,M
+Goniolimon tataricum,1.3,M
+Kochia prostrata,1.4,M
+Kochia prostrata,1.48,M
+Koeleria macrantha,0.78,M
+Leymus ramosus,1.1,M
+Leymus ramosus,1.67,M
+Limonium latifolium,2,F
+Linaria biebersteinii,1.4,M
+Linum austriacum,0.45,F
+Myosotis micrantha,0.1,M
+Onosma tinctoria,1.55,M
+Poa bulbosa,0.38,M
+Poa bulbosa,0.4,M
+Polygonum novoascanicum,0.32,M
+Psammophiliella stepposa,0.18,M
+Ranunculus oxyspermus,0.15,M
+Salvia aethiopis,0.48,M
+Salvia nemorosa,2,F
+Statice sareptana,2,M
+Stipa capillata,1.68,M
+Stipa lessingiana,1.1,M
+Stipa ucrainica,1.75,M
+Tanacetum millefolium,0.95,M
+Tanacetum millefolium,1.58,M
+Trifolium arvense,0.44,M
+Trinia hispida,0.38,M
+Trinia hispida,0.83,F
+Valerianella carinata,0.14,M
+Veronica verna,0.08,M
+Genista tinctoria,0.72,C
+Nardus stricta,0.93,C
+Agropyron desertorum,0.67,
+Allium caesium,0.09,
+Alyssum linifolium,0.16,
+Alyssum turkestanicum var. desertorum,0.12,
+Anabasis salsa,0.76,
+Artemisia pauciflora ssp. maikara,0.58,
+Artemisia semiarida,1.05,
+Seriphidium sublessingianum,2.25,
+Caragana balchaschensis,0.74,
+Ceratocarpus arenarius,0.38,
+Ephedra distachya,1.51,
+Ferula ferulaeoides,0.75,
+Geranium transversale,0.2,
+Hulthemia berberifolia,2,
+Lepidium obtusum,0.59,
+Linosyris glabrata,0.79,
+Pyrethrum achilleifolium,0.55,
+Ranunculus platyspermus,0.05,
+Rochelia disperma,0.19,
+Salsola laricifolia,0.97,
+Salsola tamariscina,0.26,
+Stipa lessingiana,0.6,
+Allium caesium,0.08,
+Anabasis salsa,0.23,
+Anabasis salsa,0.36,
+Anabasis salsa,0.39,
+Anabasis salsa,0.56,
+Artemisia pauciflora ssp. maikara,0.45,
+Artemisia semiarida,0.37,
+Artemisia semiarida,0.49,
+Artemisia semiarida,0.59,
+Artemisia semiarida,0.61,
+Artemisia semiarida,0.72,
+Seriphidium sublessingianum,0.47,
+Ceratocarpus arenarius,0.23,
+Ceratocarpus arenarius,0.35,
+Ceratocarpus arenarius,0.4,
+Ferula ferulaeoides,0.38,
+Ferula ferulaeoides,0.69,
+Ferula ferulaeoides,0.75,
+Salsola laricifolia,0.42,
+Salsola laricifolia,0.84,
+Salsola tamariscina,0.25,
+Chrysopogon fulvus,0.45,M
+Chrysopogon fulvus,0.75,M
+Chrysopogon fulvus,0.83,M
+Dichanthium annulatum,0.69,M
+Dichanthium annulatum,0.9,M
+Dichanthium annulatum,0.98,M
+Heteropogon contortus,0.74,M
+Heteropogon contortus,1.36,M
+Heteropogon contortus,1.41,M
+Iseilema laxum,0.7,M
+Iseilema laxum,0.87,M
+Iseilema laxum,1.05,M
+Sehima nervosum,0.67,M
+Sehima nervosum,1.11,M
+Sehima nervosum,1.49,M
+Prosopis glandulosa var. torreyana,6,C
+Dactyloctenium aegyptiacum,0.1,M
+Dactyloctenium aegyptiacum,0.15,M
+Dactyloctenium aegyptiacum,0.25,M
+Prosopis cineraria,0.94,C
+Aerva javanica,1.28,C
+Aerva javanica,2.53,C
+Calligonum polygonoides,0.83,C
+Calligonum polygonoides,1.36,C
+Calotropis procera,1.66,C
+Calotropis procera,3.04,C
+Cenchrus biflorus,0.27,C
+Cenchrus biflorus,0.45,C
+Tephrosia purpurea,0.54,C
+Tephrosia purpurea,1.36,C
+Eleusine indica,0.17,M
+Sporobolus pyramidalis,0.1,M
+Acer platanoides,3,
+Alnus incana,4.75,
+Betula verrucosa,6.1,
+Caragana arborescens,1.65,
+Fraxinus excelsior,0.75,
+Populus nigra,5.35,
+Quercus robur,2.82,
+Robinia pseudoacacia,4.25,
+Salix daphnoides,1.5,
+Pinus sylvestris,2.25,
+Larix sibirica,2.25,
+Prosopis glandulosa,3,C
+Prosopis glandulosa,4.5,C
+Prosopis glandulosa,7.5,C
+Prosopis glandulosa,15,F
+Larrea tridentata,,
+Albizia lebbeck,1.05,C
+Dalbergia sissoo,2.1,C
+Prosopis cineraria,2.04,C
+Astragalus filicaulis,0.42,M
+Onobrychis pulchella,1.38,C
+Isatis boissierana,0.5,
+Trigonella grandiflora,0.8,
+Cenchrus ciliaris var. Biloela,2,
+Panicum maximum,1.93,
+Adesmia volckmanni,0.47,C
+Mulinum spinosum,0.58,C
+Senecio filaginoides,0.53,C
+Acacia seyal,6,C
+Sclerocarya birrea,2.4,C
+Adenanthos terminalis,0.57,C
+Allocasuarina muelleriana,2.03,C
+Allocasuarina pusilla,2.61,C
+Amphipogon caricinus,0.07,C
+Astroloma conostephioides,0.22,C
+Austrostipa semibarbata,0.25,C
+Banksia marginata,2.66,C
+Banksia ornata,2.72,C
+Boronia coerulescens,0.24,C
+Calytrix alpestris,0.69,C
+Correa rubra,0.66,C
+Cryptandra tomentosa,0.38,C
+Daviesia brevifolia,2.09,C
+Dillwynia hispida,0.31,C
+Drosera whittakeri,0.04,C
+Euphrasia collina,0.28,C
+Glischrocaryon behrii,2.01,C
+Gompholobium minus,0.33,C
+Goodenia geniculata,0.09,C
+Hibbertia sericea,0.49,C
+Hibbertia stricta,0.72,C
+Hypolaena fastigiata,0.25,C
+Lepidobolus drapetocoleus,0.26,C
+Lepidosperma carphoides,0.28,C
+Lepidosperma laterale,0.22,C
+Leptospermum myrsinoides,2.27,C
+Leucopogon costatus,0.28,C
+Leucopogon woodsii,0.31,C
+Lomandra glauca,0.15,C
+Lomandra juncea,0.19,C
+Lomandra leucocephala,0.14,C
+Lyperanthus nigricans,0.02,C
+Olearia ciliata,0.23,C
+Phyllota pleurandroides,2.23,C
+Phyllota remota,2.57,C
+Pimelea octophylla,0.22,C
+Schoenus tepperi,0.21,C
+Spyridium subochreatum,1.85,C
+Thysanotus dichotomus,0.21,C
+Xanthorrhoea australis,2.61,C
+Achillea millefolium,1.7,C
+Achnatherum lettermanii -Vasey- Barkworth,0.8,C
+Balsamorhiza sagittata,2.7,C
+Bromus tectorum,0.3,C
+Carex geyeri,1.6,C
+Eriogonum heracleoides,2.35,C
+Festuca idahoensis,0.4,C
+Hieracium scouleri,1.9,C
+Lactuca serriola,0.8,C
+Lithospermum ruderale,3,C
+Penstemon glaber,1.6,C
+Phlox longifolia,0.75,C
+Poa secunda,0.45,F
+Potentilla gracilis var. fastigiata,0.75,C
+Pseudoroegneria spicata ssp. inermis,1.05,C
+Vicia americana,1.4,C
+Echinacea pallida,1.33,M
+Euphorbia corollata,1.5,M
+Parthenium integrifolium,1.8,M
+Ratibida pinnata,1.45,M
+Ruellia caroliniensis ssp.ciliosa,1.49,M
+Dalea purpurea,1.3,M
+Liatris scariosa,0.93,M
+Oligoneuron rigidum,1.4,M
+Pycnanthemum flexuosum,1.17,M
+Sisyrinchium albidum,0.15,M
+Ambrosia psilostachya,1,C
+Andropogon gerardi,1.08,M
+Aster oblongifolius var. rigidulus,0.7,M
+Dalea purpurea,1.75,M
+Opuntia humifusa,0.13,M
+Rosa carolina,0.8,M
+Schizachyrium scoparium,1.12,M
+Andropogon gerardi,1.18,M
+Carex albicans,0.83,M
+Hesperostipa spartea,1.01,M
+Oligoneuron rigidum,1.02,M
+Ruellia caroliniensis ssp.ciliosa,1.1,M
+Silphium integrifolium Michx.,1.7,M
+Silphium laciniatum,1.79,M
+Tradescantia ohiensis,1.56,M
+Andropogon gerardi,1.77,F
+Spartina pectinata,1.58,F
+Acer negundo,3.3,C
+Acer saccharinum,3.3,M
+Carya cordiformis,3,C
+Carya ovata,2.2,C
+Catalpa speciosa,3.1,C
+Celtis occidentalis,2.5,C
+Fraxinus americana,1.8,C
+Fraxinus pennsylvanica,2.7,C
+Gleditsia triacanthos,3,M
+Juglans nigra,3.3,M
+Maclura pomifera,2.4,M
+Populus deltoides,3.6,M
+Quercus macrocarpa,4.8,M
+Robinia pseudoacacia,2.4,M
+Salix amygdaloides,4.2,C
+Ulmus rubra,1.8,C
+Populus tremuloides,0.25,M
+Picea mariana,0.3,Wl
+Pinus banksiana,0.2,C
+Cleome trinervia,0.2,M
+Diplotaxis harra,0.25,M
+Diplotxis acris,0.07,M
+Erodium glaucophyllum,0.3,M
+Fagonia mollis,0.15,M
+Opophytum forskahlii,0.5,C
+Reaumuria hirtella,0.4,M
+Zygophyllum album,0.5,C
+Zygophyllum coccineum,0.3,M
+Quercus alba,1.1,
+Quercus montana or Q. michauxii,1.1,
+Pinus banksiana,2,C
+Populus tremuloides,2,C
+Artemisia tridentata ssp. vaseyana,1.52,M
+Artemisia tridentata ssp. wyomingensis,2.13,M
+Achnatherum splendens,1.7,
+Agropyron desertorum,1,
+Artemisia frigida,0.4,
+Artemisia gracilescens,1,
+Artemisia pauciflora,0.9,
+Seriphidium sublessingianum,1.2,
+Atriplex cana,1.4,
+Caragana balchaschensis,1.15,
+Ferula caspica,0.4,
+Ferula soongarica,1.5,
+Festuca rupicola,0.7,
+Kochia prostrata,1.1,
+Krascheninnikovia ceratoides,0.6,
+Rheum tataricum,0.6,
+Spiraea hypericifolia,1.05,
+Stipa kirghisorum,1,
+Stipa lessingiana,1.2,
+Stipa orientalis,0.85,
+Stipa sareptana,1.4,
+Stipa zalesskii,0.4,
+Artemisia tridentata ssp. vaseyana,1.47,M
+Artemisia tridentata ssp. vaseyana,1.63,M
+Artemisia tridentata ssp. vaseyana,1.65,M
+Artemisia tridentata ssp. vaseyana,1.83,M
+Zygophyllum dumosum,1.5,
+Juglans regia,2.2,C
+Ceanothus megacarpus,2.4,C
+Ceanothus megacarpus,1.9,C
+Ceanothus spinosus,3.1,C
+Ceanothus spinosus,2.4,C
+Malosma laurina,5.2,C
+Malosma laurina,5.4,C
+Calligonum comosum,0.75,C
+Quercus agrifolia,9.1,
+Quercus petraea,1,C
+Quercus petraea,1,C
+Quercus robur,0.6,C
+Quercus robur,1.05,C
+Juniperus monosperma,6.4,C
+Artemisia tridentata,1.3,C
+Artemisia tridentata,1.8,C
+Fallugia paradoxa,1.7,C
+Fallugia paradoxa,2.6,C
+Fallugia paradoxa,2.9,C
+Gutierrezia sarothrae,0.32,M
+Pinus edulis,1.3,F
+Atriplex canescens,1.85,F
+Atriplex canescens,2.2,F
+Bouteloua gracilis,0.38,C
+Bouteloua gracilis,0.53,C
+Cercocarpus montanus,0.5,C
+Chenopodium fremontii,0.3,F
+Chrysothamnus nauseosus,1.4,C
+Chrysothamnus nauseosus,1.8,C
+Chrysothamnus nauseosus,2.1,C
+Gutierrezia sarothrae,0.24,M
+Gutierrezia sarothrae,0.34,M
+Helianthus petiolaris,0.45,F
+Hymenoxys richardsonii,0.23,C
+Hymenoxys richardsonii,0.25,F
+Juniperus monosperma,1.7,F
+Lupinus caudatus,2,C
+Opuntia polyacantha,0.08,C
+Opuntia polyacantha,0.1,C
+Opuntia polyacantha,0.28,C
+Pinus edulis,1.1,F
+Pinus ponderosa,1.5,C
+Pinus ponderosa,1.6,C
+Quercus ×pauciloba,1.5,C
+Quercus ×pauciloba,1.75,C
+Quercus gambelii,3.2,C
+Rhus trilobata,2.1,C
+Rhus trilobata,2.3,C
+Ribes cereum,0.8,C
+Ribes cereum,2.9,F
+Robinia neomexicana,1,C
+Robinia neomexicana,1.4,C
+Verbascum thapsus,0.28,C
+Verbascum thapsus,0.42,C
+Yucca angustissima,0.2,C
+Yucca angustissima,0.2,C
+Juniperus monosperma,5.79,
+Acacia catechu,1.5,C
+Acacia nilotica,2.3,C
+Albizia lebbeck,1.5,C
+Azadirachta indica,1.5,C
+Dalbergia sissoo,1.25,C
+Melia azedarach,0.8,C
+Morus alba,0.8,C
+Prosopis cineraria,2.3,C
+Ziziphus mauretania,1,C
+Andropogon gerardi,1.83,C
+Artemisia campestris ssp. caudata,0.73,C
+Asclepias arenaria,2.07,C
+Bouteloua gracilis,1.4,C
+Bouteloua hirsuta,0.45,C
+Calamovilfa longifolia,1.16,C
+Carex filifolia,0.76,C
+Carex inops ssp. heliophila,0.41,C
+Cirsium canescens,1.2,C
+Eragrostis trichodes,0.46,C
+Eriogonum annuum,1.2,C
+Gaura coccinea,1.58,C
+Hesperostipa comata,1.07,C
+Heterotheca villosa,3.14,C
+Koeleria pyramidata,0.67,C
+Lathyrus polymorphus,0.83,C
+Liatris punctata,1.62,C
+Lithospermum caroliniense,2,C
+Lithospermum incisum,1.25,C
+Muhlenbergia pungens,0.9,C
+Opuntia fragilis,0.18,C
+Penstemon haydenii,0.76,C
+Prunus pumila var. besseyi,2.44,C
+Psoralidium lanceolatum,0.25,C
+Redfieldia flexuosa,1.28,C
+Rosa woodsii var. ultramontana,2.44,C
+Senecio riddellii,1.5,C
+Sporobolus cryptandrus,0.98,C
+Toxicodendron radicans,3.2,C
+Tradescantia occidentalis,0.51,C
+Picea mariana,0.19,M
+Opuntia polyacantha,0.16,M
+Abolboda americana,0.3,C
+Andropogon leucostachyus,0.5,M
+Aristida tincta,0.4,M
+Axonopus pulcher,0.25,C
+Axonopus purpusii,0.43,M
+Bulbostylis circinata,0.15,
+Clusia fockeana,2.8,C
+Curatella americana,1.5,C
+Cybianthus magnoliifolius,1.8,C
+Dimorphandra conjugata,0.6,C
+Eriosema crinitum,0.6,C
+Eriosema violaceum,0.7,C
+Eugenia punicifolia,2,C
+Himatanthus articulatus,3,M
+Humiria balsamifera,0.6,C
+Hyptis atrorubens,0.5,C
+Leptocorphium lanatum,0.9,M
+Licania incana,0.5,C
+Marlierea montana,0.8,C
+Mesosetum cayennense,0.5,M
+Mesosetum loliiforme,0.4,C
+Ormosia costulata,1.63,C
+Panicum caricoides,0.65,M
+Protium heptaphyllum,2.4,M
+Retiniphyllum schomburgkii,,C
+Rhynchospora barbata var. barbata,0.25,M
+Rhynchospora globosa,0.9,M
+Schizachyrium riedelii,0.5,C
+Sipanea pratensis,0.4,M
+Ternstroemia punctata,1.8,C
+Tibouchina aspera,1.45,M
+Trachypogon plumosus,0.8,C
+Xyris suranimensis,0.3,C
+Faidherbia albida,3.26,C
+Fagus sylvatica,1.8,
+Larix sibirica,1.8,M
+Picea glauca,1.8,M
+Panicum maximum,4.17,F
+Panicum maximum,4.19,F
+Panicum maximum,2.3,F
+Panicum maximum,2.8,F
+Panicum maximum,3.6,F
+Panicum maximum,3.8,F
+Panicum maximum,3.85,F
+Panicum maximum,4,F
+Panicum maximum,4.05,F
+Panicum maximum,4.2,F
+Panicum maximum,4.36,F
+Panicum maximum,4,F
+Panicum maximum,4.55,F
+Panicum maximum,4.85,F
+Panicum maximum,2.6,F
+Panicum maximum,2.7,F
+Panicum maximum,3,F
+Panicum maximum,3.2,F
+Panicum maximum,4.15,F
+Panicum maximum,2,F
+Panicum maximum,3.26,F
+Panicum maximum,3,F
+Panicum maximum,4.2,F
+Panicum maximum,3.65,F
+Panicum maximum,3.85,F
+Panicum maximum,3.85,F
+Panicum maximum,3.85,F
+Panicum maximum,3.9,F
+Panicum maximum,4.15,F
+Panicum maximum,4.4,F
+Panicum maximum,4.45,F
+Panicum maximum,4.6,F
+Panicum maximum,0.85,F
+Panicum maximum,1.8,F
+Panicum maximum,2.8,F
+Panicum maximum,3.2,F
+Panicum maximum,3.35,F
+Panicum maximum,3.54,F
+Panicum maximum,3.7,F
+Panicum maximum,3.7,F
+Panicum maximum,3.75,F
+Panicum maximum,2,F
+Panicum maximum,3,F
+Panicum maximum,3.05,F
+Panicum maximum,3.1,F
+Panicum maximum,3.2,F
+Panicum maximum,3.35,F
+Panicum maximum,3.6,F
+Panicum maximum,3.8,F
+Panicum maximum,4.2,F
+Panicum maximum,4.2,F
+Ambrosia dumosa,1.4,C
+Ephedra nevadensis,1.52,C
+Grayia spinosa,0.97,C
+Hymenoclea salsola,0.81,C
+Krascheninnikovia lanata,0.64,C
+Larrea tridentata,1.68,C
+Lycium andersonii,1.83,C
+Ziziphus lotus,,C
+Deverra tortuosa,5,C
+Chrysocoma tenuifolia,0.38,
+Hertia pallens,1.5,
+Jamesbrittenia albiflora,0.47,
+Lithops salicola,0.07,
+Nananthus vittatus,0.07,
+Aristida namaquensis,0.52,C
+Rhigozum trichotomum,2.16,C
+Centaurea aegyptiaca,2.1,C
+Convolvulus lanatus,2.5,C
+Euphorbia retusa,2.3,C
+Fagonia arabica,1.2,C
+Farsetia aegyptia,3.3,C
+Moltkiopsis ciliata,4,C
+Zilla spinosa,2.8,C
+Schedonnardus paniculatus,0.76,
+Nassella viridula,3.35,
+Andropogon gerardi,1.5,M
+Bouteloua gracilis,1.68,M
+Buchloe dactyloides,1.98,M
+Pascopyrum smithii,1.83,M
+Poa pratensis,1.22,M
+Quercus macrocarpa,4.3,M
+Antennaria racemosa,1.79,M
+Astragalus arrectus,1.62,M
+Balsamorhiza sagittata,1.9,M
+Festuca idahoensis,0.6,M
+Geranium vicosissimum,1.94,M
+Geum triflorum var. ciliatum,1.63,M
+Helianthella uniflora var. douglasii,1.36,M
+Heuchera cylindrica var. glabella,1.55,M
+Hieracium scouleri,2.05,M
+Koeleria pyramidata,0.41,M
+Lomatium dissectum var. multifidum,1.4,M
+Lupinus leucophyllus,1.55,M
+Lupinus ornatus,3.96,M
+Poa secunda,0.2,M
+Potentilla gracilis var. fastigiata,1.72,M
+Pseudoroegneria spicata,1.48,M
+Sidalcea oregana,1.2,M
+Wyethia amplexicaulis,1.82,M
+Wyethia amplexicaulis,1.82,M
+Schizachyrium scoparium,1.83,
+Astragalus crassicarpus,1.98,M
+Brickellia eupatorioides,5.26,F
+Buchloe dactyloides,1.85,M
+Elytrigia repens,2.44,F
+Grindelia squarrosa,1.85,F
+Liatris punctata,4.88,M
+Liatris punctata,4.88,M
+Panicum virgatum,2.8,F
+Psoralidium tenuiflorum,1.8,M
+Psoralidium tenuiflorum,2.13,M
+Solidago canadensis,3.35,F
+Solidago canadensis,3.35,F
+Sporobolus longifolius,1.02,M
+Sporobolus longifolius,1.02,M
+Abronia fragrans,1,C
+Argemone polyanthemos,3.67,M
+Artemisia filifolia,2.36,C
+Artemisia frigida,1.25,M
+Asclepias verticillata,1.21,M
+Dalea purpurea,1.76,M
+Dalea villosa,1.3,C
+Eriogonum jamesii,2.21,M
+Eriogonum microthecum,2.98,C
+Euphorbia brachycera,2.31,M
+Gutierrezia sarothrae,2.07,M
+Heterotheca villosa,3.99,M
+Ipomoea leptophylla,1.52,C
+Ipomopsis longiflora,1.39,C
+Lithospermum incisum,2.92,M
+Lygodesmia juncea,1.81,M
+Mirabilis linearis,1.64,M
+Opuntia phaecantha var. camanchica,0.89,M
+Oxytropis lambertii,2.44,M
+Oxytropis lambertii,2.44,M
+Packera aurea,0.94,M
+Psoralidium lanceolatum,2.74,C
+Ratibida columnifera,0.63,M
+Redfieldia flexuosa,1.42,C
+Redfieldia flexuosa,1.42,C
+Tradescantia virginiana,0.53,C
+Yucca glauca,2.13,M
+Yucca glauca,2.13,M
+Andropogon gerardi,2.74,
+Amorpha canescens,5.03,M
+Corylus americana,3.51,M
+Corylus americana,3.51,M
+Echinacea pallida,2.44,M
+Echinacea pallida,2.44,M
+Lespedeza capitata,2.39,M
+Lespedeza capitata,2.39,M
+Rhus glabra,2.29,M
+Rhus glabra,2.29,M
+Rosa arkansana,6.45,M
+Rosa arkansana,6.45,M
+Symphoricarpus albus,1.65,M
+Vernonia baldwinii,3.51,M
+Vernonia baldwinii,3.51,M
+Vitis vulpina,4.12,M
+Vitis vulpina,4.12,M
+Eriogonum heracleoides,2.4,M
+Artemisia campestris ssp. borealis,2.43,C
+Buchloe dactyloides,2.15,M
+Heterotheca villosa var. minor,2.43,C
+Oenothera latifolia,2.34,C
+Penstemon ambiguus,3.03,C
+Aster ericoides,2.36,M
+Elymus hispidus,2.47,M
+Helianthus pauciflorus,2.31,M
+Melilotus alba,1.5,M
+Poa pratensis,1.77,F
+Psoralidium tenuiflorum,2.45,M
+Salvia azurea var. grandiflora,2.47,M
+Solidago missouriensis,2.32,M
+Spartina cynosuroides,2.64,M
+Aristida oligantha,1.01,F
+Aristida oligantha,1.01,F
+Baptisia bracteata,2.04,
+Dalea candida,1.74,
+Distichlis spicata,0.61,M
+Distichlis spicata,0.61,M
+Helianthus pauciflorus ssp. subrhomboideus,1.28,
+Oligoneuron rigidum,1.58,
+Pediomelum argophyllum,1.83,
+Sorghastrum nutans,1.49,
+Verbena stricta,1.31,
+Ceanothus herbaceus,4.42,
+Glycyrrhiza lepidota,3.66,
+Silphium laciniatum,4.18,
+Asclepias arenaria,2.43,C
+Calylophus serrulatus,1.33,C
+Erigeron bellidiastrum,0.95,C
+Eriogonum annuum,1.61,C
+Liatris squarrosa,0.67,C
+Machaeranthera pinnatifida,1.53,C
+Mentzelia nuda,1.6,C
+Paspalum setaceum,1.16,C
+Liatris scariosa,1.16,
+Andropogon gerardi,2.1,M
+Carex pensylvanica,0.9,M
+Elymus canadensis,0.75,M
+Hesperostipa spartea,1.8,M
+Koeleria pyramidata,0.5,M
+Panicum virgatum,3.3,M
+Poa pratensis,0.9,M
+Schizachyrium scoparium,1.5,
+Spartina pectinata,3.96,Wl
+Sporobolus heterolepsis,1.5,M
+Andropogon gerardi,3,C
+Calamovilfa longifolia,3,C
+Eragrostis trichodes,0.6,C
+Hesperostipa comata,1.5,C
+Muhlenbergia pungens,1,C
+Schizachyrium scoparium,2.45,C
+Aristida longiseta,1.5,M
+Bouteloua curtipendula,1.7,M
+Bouteloua gracilis,1.8,M
+Buchloe dactyloides,1.8,M
+Carex filifolia,1.5,
+Muhlenbergia torreyi,1.2,M
+Pascopyrum smithii,2.7,M
+Pleuraphis jamesii,1.2,M
+Sporobolus cryptandrus,1.2,M
+Eucalyptus signata,3,C
+Larix decidua,3.4,C
+Baccharis pilularis ssp. consanguinea,1.38,
+Abronia pogonantha,0.18,M
+Abronia villosa,0.21,C
+Abronia crux-maltae,0.2,C
+Baccharis pilularis,3.2,C
+Psychotria chagrensis,0.51,F
+Psychotria chagrensis,0.51,F
+Psychotria furcata,0.29,F
+Psychotria furcata,0.29,F
+Psychotria horizontalis,0.33,F
+Psychotria horizontalis,0.33,F
+Psychotria limonensis,0.92,F
+Psychotria limonensis,0.92,F
+Psychotria marginata,0.38,F
+Psychotria marginata,0.38,F
+Agropyron cristatum,0.76,M
+Ambrosia psilostachya,1.37,M
+Artemisia dracunculus,1.37,M
+Bouteloua gracilis,0.76,M
+Bromus inermis,0.76,M
+Calamovilfa longifolia,0.46,M
+Dalea purpurea,0.76,M
+Elymus lanceolatus,0.46,M
+Elymus trachycaulus ssp. trachycaulus,1.07,M
+Hesperostipa comata,1.83,M
+Koeleria pyramidata,0.76,M
+Medicago sativa,0.76,M
+Melilotus officinalis,1.37,M
+Pascopyrum smithii,1.07,M
+Thinopyrum ponticum,1.83,M
+Acer ginnala,1.07,F
+Acer negundo,1.27,F
+Acer saccharinum,1.3,F
+Caragana arborescens,1.68,F
+Celtis occidentalis,1.35,F
+Elaeagnus angustifolia,1.78,F
+Fraxinus pennsylvanica,1.09,F
+Juglans cinerea,0.81,F
+Juglans nigra,1.57,F
+Juniperus scopulorum,0.99,F
+Juniperus virginiana,0.99,F
+Lonicera tatarica,1.07,F
+Malus baccata,2.08,F
+Malus sylvestris,3.12,F
+Malus sylvestris,3.12,F
+Picea glauca,1.07,F
+Picea pungens,1.04,F
+Pinus banksiana,1.04,F
+Pinus ponderosa,1.12,F
+Populus deltoides ssp. monilifera,3.05,F
+Prunus americana,0.86,F
+Prunus virginiana,1.93,F
+Quercus macrocarpa,2.51,F
+Rhamnus cathartica,1.27,F
+Salix alba,1.52,C
+Salix alba,2.03,F
+Salix alba,2.13,F
+Salix alba,3.05,C
+Salix alba,4.27,F
+Shepherdia argentea,1.78,F
+Syringia vulgaris,1.52,F
+Tamarix ramosissima,2.03,F
+Tilia americana,1.6,F
+Ulmus americana,1.22,F
+Ulmus pumila,1.27,F
+Ambrosia deltoidea,0.37,C
+Larrea tridentata,0.33,C
+Opuntia fulgida,0.18,C
+Juglans nigra,2.2,
+Sequoia sempervirens,5,
+Artemisia monosperma,5,C
+Lygos raetam,20,C
+Acacia tortilis ssp. raddiana,2.5,
+Anabasis articulata,3,
+Anabasis syriaca,3,
+Artemisia herba-alba,0.5,C
+Artemisia monosperma,3,C
+Atriplex glauca,0.3,
+Atriplex halimus,8,C
+Bassia arabica,0.4,
+Halothamnus acutifolius,1.2,
+Haloxylon tamariscifolium,3,
+Haloxylon salicornicum,3,
+Limonium pruinosum,0.3,
+Lygos raetam,20,C
+Noaea mucronata,1.2,
+Reaumuria hirtella var. palaestina,0.4,C
+Salsola tetrandra,0.3,
+Salsola villosa,1.2,
+Suaeda asphaltica,0.3,
+Suaeda palaestina,0.3,
+Tamarix aphylla,10,C
+Zygophyllum dumosum,0.3,
+Astragalus longipetiolatus,1.9,C
+Halothamnus subaphyllus,2.5,C
+Mausolea eriocarpa,2.5,C
+Salsola richteri,4,C
+Yucca glauca,2.133495885,F
+Artemisia spinescens,1.523925632,F
+Artemisia tridentata,9.143553795,F
+Chrysothamnus nauseosus,4.571776897,F
+Gutierrezia microcephala,2.438281012,F
+Senecio sp.,0.91435538,F
+Tetraneuris acaulis,0.243828101,F
+Lepidium montanum,0.304785127,F
+Sisymbrium sp,0.182871076,F
+Opuntia polyacantha,0.609570253,F
+Symphoricarpos sp,1.828710759,F
+Atriplex canescens,18.89667784,F
+Atriplex confertijolia,1.523925632,F
+Krascheninnikovia lanata,0.91435538,F
+Sarcobatus vermiculatus,5.790917403,F
+Juniperus monosperma,5.790917403,F
+Shepherdia sp,15.23925632,F
+Ephedra viriidis,1.005790917,F
+Ephedra viriidis,5.486132277,F
+Arctostaphylos sp.,5.18134715,F
+Euphorbia sp,0.060957025,F
+Astragalus cobrensis,1.828710759,F
+Quercus gambeli,3.962206644,F
+Mentzelia albicaulis,0.121914051,F
+Sphaeralcea sp,2.285888449,F
+Fraxinus anomala,3.047851265,F
+Fraxinus velutina,6.09570253,F
+Oenothera sp,1.371533069,F
+Pinus ponderosa,24.38281012,F
+Plantago sp.,0.152392563,F
+Hesperostipa comata,1.676318196,F
+Leymus condensatus,3.657421518,F
+Oryzopsis hymenoides,1.523925632,F
+Pleuraphis jamesii,1.828710759,F
+Pleuraphis jamesii,1.523925632,F
+Eriogonum sp.,1.219140506,F
+Ceanothus sp,3.657421518,F
+Amelanchier utahensis,6.400487656,F
+Cowania stansburiana,1.523925632,F
+Salix sp,3.657421518,F
+Picea abies,1.395,M
+Picea abies,0.46,C
+Quercus robur,2.69,C
+Quercus robur,1.75,C
+Tilia cordata,2.79,
+Quercus pubescens,1.62,
+Quercus pubescens,0.5685,
+Tilia cordata,1.1224,
+Abies alba,1.8,M
+Abies alba,2.67,C
+Abies alba,0.2997,C
+Abies alba,1.37,M
+Picea abies,1.49,C
+Picea abies,0.9881,C
+Picea abies,1.53,C
+Picea abies,1.13,C
+Picea abies,0.57,C
+Picea abies,0.46,C
+Larix decidua,1.92,C
+Larix decidua,3.66,C
+Larix decidua,1.3189,C
+Larix decidua,0.75,C
+Larix decidua,0.51,C
+Larix decidua,0.79,C
+Pinus sylvestris,3.48,C
+Pinus sylvestris,4.2118,M
+Pinus sylvestris,1.91,C
+Pinus sylvestris,1.81,C
+Pinus sylvestris,1.72,C
+Pinus sylvestris,9.76,C
+Pinus sylvestris,2.23,C
+Pinus sylvestris,0.94,C
+Pinus sylvestris,0.59,C
+Pinus mugo,0.16,C
+Pinus mugo,1.92,C
+Pinus cembra,0.28,C
+Pinus cembra,0.19,C
+Pinus cembra,0.78,C
+Pinus cembra,0.8,C
+Pinus cembra,0.98,F
+Pinus nigra,0.33,C
+Pinus nigra,1.01,C
+Pinus nigra,0.88,C
+Pinus nigra,10.04,C
+Pseudotsuga menziesii,1.12,C
+Pseudotsuga menziesii,1.44,C
+Pseudotsuga menziesii,2.4,C
+Sequoia giganteum,2,
+Taxus baccata,1.3,F
+Taxus baccata,0.1315,F
+Taxus baccata,1.45,F
+Taxus baccata,0.0969,F
+Taxus baccata,1.65,C
+Taxus baccata,0.178,C
+Taxus baccata,0.5056,C
+Berberis vulgaris,1.92,C
+Berberis vulgaris,2.8,C
+Berberis vulgaris,3.15,C
+Berberis vulgaris,0.2628,C
+Staphylea pinnata,0.9,C
+Crataegus monogyna,1.5,C
+Crataegus monogyna,1.95,C
+Pyrus pyraster,2.75,C
+Malus sylvestris,2.34,M
+Sorbus torminalis,1.37,F
+Sorbus torminalis,0.82,F
+Sorbus torminalis,2.02,C
+Sorbus aria,0.6363,M
+Sorbus aria,0.5221,
+Sorbus aucuparia,1.3,C
+Sorbus aucuparia,2.2,C
+Sorbus aucuparia,0.96,C
+Sorbus domestica,3.45,M
+Sorbus chamaemespilus,0.92,F
+Amelanchier ovalis,1.65,M
+Amelanchier ovalis,0.9054,M
+Prunus padus,2.1,C
+Prunus padus,0.1269,
+Prunus padus,1.44,C
+Prunus avium,0.51,C
+Prunus avium,1.6,C
+Prunus spinosa,1.64,C
+Prunus spinosa,2.38,C
+Prunus spinosa,1.81,C
+Rhamnus cathartica,0.96,C
+Rhamnus fallax,0.84,F
+Rhamnus fallax,0.87,F
+Frangula alnus,0.4491,C
+Castanea sativa,0.9,M
+Castanea sativa,0.6381,M
+Castanea sativa,2.03,C
+Castanea sativa,2.87,C
+Castanea sativa,2.53,C
+Castanea sativa,0.7668,
+Castanea sativa,0.2918,
+Castanea sativa,1.8,C
+Castanea sativa,1.67,C
+Castanea sativa,2.28,C
+Castanea sativa,0.91,C
+Castanea sativa,1.14,C
+Castanea sativa,0.92,C
+Castanea sativa,1.64,C
+Fagus sylvatica,0.6517,C
+Fagus sylvatica,1.1191,C
+Fagus sylvatica,0.2376,C
+Fagus sylvatica,1.56,F
+Fagus sylvatica,1.66,C
+Fagus sylvatica,0.28,C
+Fagus sylvatica,,
+Quercus cerris,1.42,C
+Quercus cerris,0.52,C
+Quercus cerris,1.75,F
+Quercus cerris,0.3991,F
+Quercus rubra,1.8,C
+Quercus pubescens,1.57,M
+Quercus pubescens,0.7991,M
+Quercus petraea,2.27,C
+Quercus petraea,1.65,M
+Quercus petraea,0.1685,M
+Quercus robur,2.53,C
+Quercus robur,2,C
+Quercus robur,2.22,C
+Quercus robur,3.38,C
+Quercus robur,0.526,C
+Quercus robur,2.0577,C
+Quercus robur,1.82,C
+Quercus robur,2.05,C
+Quercus robur,1.67,C
+Betula pendula,2.52,C
+Betula pendula,0.125,C
+Betula pendula,0.63,Wl
+Betula pubescens,0.3,
+Betula pubescens,0.1175,
+Alnus glutinosa,3.51,C
+Alnus glutinosa,1.94,M
+Alnus glutinosa,0.4574,
+Alnus glutinosa,1.68,C
+Alnus incana,0.6856,C
+Alnus incana,1.2,C
+Alnus incana,2.2,C
+Alnus incana,0.4928,C
+Corylus avellana,3.45,C
+Corylus avellana,1,C
+Corylus avellana,3.2558,C
+Carpinus betulus,1.26,C
+Carpinus betulus,0.1297,C
+Carpinus betulus,3.87,M
+Carpinus betulus,0.4697,
+Carpinus betulus,0.2684,
+Ostrya carpinifolia,0.6931,F
+Ostrya carpinifolia,1.97,C
+Juglans regia,1.7,C
+Juglans regia,0.3124,C
+Juglans regia,1.33,C
+Juglans regia,2.6,C
+Ulmus glabra,1.59,M
+Ulmus minor,3.5,M
+Ulmus laevis,1.8,C
+Robinia pseudacacia,2.05,C
+Robinia pseudacacia,3.64,C
+Laburnum alpinum,1.87,M
+Laburnum alpinum,1.07,M
+Laburnum alpinum,1.6,M
+Laburnum alpinum,0.5373,M
+Aesculus hippocastanum,1.84,C
+Acer pseudoplatanus,1.9,C
+Acer pseudoplatanus,1.8,M
+Acer pseudoplatanus,0.344,M
+Acer pseudoplatanus,0.96,F
+Acer pseudoplatanus,0.2989,F
+Acer platanoides,2.85,C
+Acer campestre,3.45,C
+Acer campestre,0.3546,C
+Tilia cordata,2.93,M
+Tilia platyphyllos,1.6,M
+Tilia platyphyllos,0.2945,
+Populus alba,2.5,C
+Populus x canadensis,3.45,M
+Populus nigra,1.4,C
+Populus tremula,2.6,C
+Salix alba,2.9,C
+Salix elaeagnos,2.3,C
+Salix elaeagnos,0.12,C
+Salix elaeagnos,2,C
+Salix purpurea,1.52,C
+Salix purpurea,1.95,C
+Salix caprea,2.4,C
+Salix caprea,2.49,C
+Salix cinerea,1.4,C
+Salix cinerea,0.09,C
+Salix glabra,0.7,C
+Salix glabra,0.85,C
+Salix glabra,0.79,C
+Euonymus europea,0.75,C
+Cornus sanguinea,0.9,M
+Cornus sanguinea,0.15,M
+Ilex aquifolium,0.35,F
+Ilex aquifolium,0.91,F
+Fraxinus angustifolia,1.24,F
+Fraxinus angustifolia,1.7,F
+Fraxinus excelsior,1.56,C
+Fraxinus excelsior,1.12,C
+Fraxinus excelsior,0.45,C
+Fraxinus excelsior,2,C
+Fraxinus ornus,0.81,C
+Ligustrum vulgare,1.52,M
+Ligustrum vulgare,1.17,M
+Sambucus nigra,3,C
+Sambucus racemosa,1.78,C
+Viburnum lantana,0.72,C
+Viburnum lantana,2.13,C
+Viburnum lantana,1.42,M
+Viburnum opulus,0.65,C
+Viburnum opulus,0.09,C
+Lonicera xylosteum,0.88,C
+Lonicera xylosteum,2.18,C
+Lonicera xylosteum,1.6,M
+Lonicera xylosteum,1.25,M
+Allium cepa,0.48,
+Allium sativum,0.48,
+Allium sativum,0.57,
+Allium ampeloprasum L.,0.59,
+Allium porrum,0.75,
+Allium schoenoprasum L.,0.6,
+Asparagus officinalis L,1.5,
+Zea Mays L.,0.37,
+Zea Mays L.,0.27,
+Zea Mays L.,0.28,
+Zea Mays L.,0.32,
+Zea Mays L.,0.28,
+Zea Mays L.,0.38,
+Zea Mays L.,1.34,
+Zea Mays L.,0.49,
+Zea Mays L.,0.62,
+Zea Mays L.,0.6,
+Zea Mays L.,1.43,
+Zea Mays L.,0.13,
+Zea Mays L.,0.54,
+Zea Mays L.,1.12,
+Zea Mays L.,0.48,
+Zea Mays L.,1.75,
+Zea Mays L.,0.91,
+Sorghum bicolor,0.74,
+Sorghum bicolor,,
+Sorghum bicolor,1.44,
+Sorghum bicolor,1.12,
+Sorghum bicolor,1.44,
+Panicum milaceum,0.96,
+Avena sativa,0.49,
+Avena sativa,0.55,
+Avena sativa,0.92,
+Avena sativa,0.63,
+Hordeum vulgare,1.01,C
+Hordeum vulgare,0.53,C
+Hordeum vulgare,0.48,C
+Hordeum vulgare,0.34,C
+Hordeum vulgare,0.61,C
+Hordeum vulgare,1.01,C
+Hordeum vulgare,1.07,C
+Secale cereale,0.79,C
+Secale cereale,0.61,C
+Secale cereale,1.08,C
+Secale cereale,0.63,C
+Secale cereale,0.97,C
+Triticum turgidum,0.83,F
+Triticum aestivum,1.2,M
+Triticum aestivum,0.88,C
+Triticum aestivum,1.53,C
+Triticum aestivum,1.19,C
+Triticum aestivum,0.5,C
+Triticum aestivum,1.12,C
+× Triticosecale,1,C
+Aegilops cylindrica,0.87,C
+Papaver Somniferum,0.67,C
+Papaver Somniferum,0.86,C
+Beta vulgaris,1.43,F
+Beta vulgaris,1.33,C
+Beta vulgaris,2,M
+Beta vulgaris,2.26,C
+Beta vulgaris,2.45,M
+Beta vulgaris,1.86,M
+Beta vulgaris,1.33,M
+Beta vulgaris,1.13,C
+Beta vulgaris,1.44,C
+Spinacia oleracea,0.63,M
+Rheum rhabarbarum,2.23,C
+Fagopyrum esculentum,0.58,C
+Linum usitatissimum,0.61,C
+Linum usitatissimum,0.62,M
+Lupinus albus,1.53,F
+Lupinus angustifolius,1.66,C
+Medicago sativa,2.32,C
+Medicago sativa,1.69,F
+Medicago sativa,1.69,F
+Trifolium incarnatum,0.69,C
+Trifolium incarnatum,0.98,C
+Trifolium subterraneum,0.6,F
+Trifolium subterraneum,0.82,F
+Onobrychis viciifolia Scop.,1.65,F
+Lens culinaris,0.63,C
+Vicia faba,0.54,C
+Pisum sativum,0.69,C
+Pisum sativum,0.72,F
+Glycine max,0.63,C
+Glycine max,1.07,C
+Phaseolus vulgaris,0.34,C
+Phaseolus vulgaris,1.06,M
+Phaseolus vulgaris,1.03,M
+Cannabis sativa,0.14,
+Cannabis sativa,1.12,C
+Cannabis sativa,1.14,C
+Cannabis sativa,1.41,F
+Cucumis melo,0.4,F
+Cucumis sativus,0.4,C
+Cucurbita pepo,0.34,C
+Cucurbita pepo,0.49,C
+Cucurbita pepo,0.29,C
+Cucurbita pepo,0.58,C
+Armoracia rusticana,2.94,C
+Armoracia rusticana,2.94,C
+Camelina sativa,0.8,C
+Camelina sativa,0.84,F
+Brassica oleracea,1.47,C
+Brassica oleracea,1.27,M
+Brassica oleracea,1.16,F
+Brassica oleracea,1.16,F
+Brassica oleracea,0.74,C
+Brassica oleracea,1.25,M
+Brassica oleracea,0.98,C
+Brassica oleracea,0.76,C
+Brassica oleracea,0.74,C
+Brassica oleracea,1.27,C
+Brassica oleracea,1.68,C
+Brassica oleracea,1.12,C
+Brassica oleracea,1.09,M
+Brassica oleracea,1.12,C
+Brassica rapa,1.08,C
+Brassica napus,0.96,C
+Brassica napus,1.25,C
+Brassica napus,1.2,F
+Sinapis alba,0.95,C
+Raphanus sativus,1.53,C
+Raphanus sativus,1.51,C
+Raphanus sativus,1.66,C
+Satureja hortensis,1.08,C
+Ocimum basilicum,0.57,C
+Solanum lycopersicon,0.76,F
+Solanum tuberosum,0.76,F
+Solanum tuberosum,0.61,C
+Solanum tuberosum,1.13,M
+Solanum tuberosum,1.25,C
+Solanum tuberosum,0.62,C
+Solanum tuberosum,1.53,C
+Solanum tuberosum,0.73,C
+Nicotiana tabacum,1.31,F
+Nicotiana tabacum,1.26,M
+Phacelia tanacetifolia,0.88,F
+Apium graveolens,0.63,C
+Petroselinum crispum,0.75,C
+Carum carvi,0.68,C
+Carum carvi,0.8,C
+Carum carvi,0.9,M
+Foeniculum vulgare,2.1,F
+Foeniculum vulgare,1.13,C
+Anethum graveolens,0.88,C
+Levisticum officinale,2.09,C
+Pastinaca sativa,1.27,C
+Daucus carota,1.09,C
+Cichorium intybus,1.93,F
+Cichorium intybus,1.22,C
+Cichorium intybus,0.88,C
+Lactuca sativa,0.61,C
+Lactuca sativa,0.8,C
+Cynara scolymus,1.71,C
+Cynara cardunculus,1.7,F
+Carthamus tinctorius,1.04,C
+Helianthus annuus,1.9,C
+Helianthus annuus,0.68,C
+Helianthus annuus,1.8,C
+Helianthus tuberosus,1.3,C
+Equisetum variegatum,0.58,
+Equisetum variegatum,0.38,
+Botrychium virginianum,0.14,
+Botrychium lunaria,0.1,
+Caltha palustris,0.54,
+Trollius europaeus,0.44,C
+Thalictrum lucidum,0.39,
+Pulsatilla alba,0.5,C
+Pulsatilla vernalis,0.35,
+Pulsatilla grandis,0.51,C
+Ranunculus hybridus,0.27,
+Ranunculus montanus,0.42,
+Ranunculus nemorosus,0.42,C
+Ranunculus oreophilus,0.27,
+Adonis vernalis,0.7,C
+Trifolium pratense,0.72,M
+Stellaria nemorum,0.15,C
+Dianthus superbus,0.05,
+Dianthus carthusianorum,1.48,
+Silene nutans,1.8,C
+Silene otites,0.49,
+Lychnis flos-cuculi,0.37,C
+Lychnis viscaria,0.82,C
+Lychnis viscaria,0.98,C
+Kochia prostrata,4.1,C
+Salicornia europaea,0.23,
+Arthrocnemum fruticosum,1.1,F
+Rumex acetosa,1.06,
+Rumex acetosa,0.74,
+Rumex thyrsiflorus,3.66,
+Rumex alpinus,2.9,F
+Rumex crispus,1.9,F
+Rumex crispus,1.78,C
+Rumex obtusifolius,2.64,C
+Rumex maritimus,0.46,F
+Polygonum bistoria,0.77,C
+Polygonum bistoria,0.47,C
+Polygonum viviparum,0.243,
+Armeria maritima,0.8,F
+Armeria alpina,1.41,C
+Hypericum perforatum,0.58,C
+Hypericum maculatum,0.72,C
+Helianthemum ovatum,1.57,C
+Helianthemum canum,0.5,C
+Fumana procumbens,0.28,
+Fumana procumbens,0.45,C
+Viola canina,0.39,
+Viola hirta,0.42,C
+Viola palustris,0.11,
+Viola tricolor,0.22,C
+Erysimum hieraciifolium,0.63,C
+Erysimum diffusum,0.67,C
+Cardamine pratensis,0.11,
+Cardaminopsis halleri,0.19,C
+Arabis hirsuta,0.4,C
+Alyssum montanum,0.51,C
+Biscutella laevigata,2.14,C
+Biscutella laevigata,1.18,C
+Lepidium crassifolium,1.54,C
+Euphorbia seguierana,0.76,C
+Euphorbia seguierana,2.23,
+Euphorbia cyparissias,0.89,C
+Euphorbia myrsinites,3.41,C
+Loiseleuria procumbens,0.27,C
+Calluna vulgaris,0.38,C
+Calluna vulgaris,0.78,C
+Lysimachia vulgaris,0.89,
+Lysimachia nummularia,0.32,
+Soldanella pusilla,0.11,M
+Primula veris,0.31,C
+Primula elatior,0.18,C
+Primula vulgaris,0.22,C
+Primula furinosa,0.17,
+Filipendula ulmaria,0.62,C
+Filipendula vulgaris,0.62,F
+Agrimonia eupatoria,1.55,C
+Sanguisorba officinalis,1,C
+Sanguisorba minor,1.5,C
+Geum reptans,0.15,
+Geum montanum,0.17,C
+Geum rivale,0.65,
+Potentilla alba,0.17,
+Potentilla rupestris,0.61,C
+Potentilla anserina,0.42,F
+Potentilla argentea,1.1,C
+Potentilla arenaria,0.44,C
+Potentilla pusilla,1.41,
+Potentilla heptaphylla,0.7,C
+Potentilla aurea,0.11,C
+Potentilla anglica,0.97,C
+Potentilla erecta,0.55,C
+Alchemilla monticola,0.23,C
+Sedum sexangulare,0.11,C
+Sedum acre,0.12,C
+Saxifraga granulata,0.16,M
+Parnassia palustris,0.09,
+Genista tinctoria,2.76,C
+Genista tinctoria,1.77,C
+Genista pilosa,0.48,C
+Genista germanica,0.9,C
+Chamaespartium sagittale,2.1,
+Chamaespartium sagittale,1.31,
+Chamaespartium sagittale,1.12,C
+Astragalus austriacus,0.39,C
+Astragalus onobrychis,2.72,C
+Astragalus onobrychis,2.6,
+Astragalus kazbeki,1.2,C
+Astragalus denudatus,1.7,
+Oxytropis pilosa,0.78,C
+Oxytropis campestris,1.01,
+Anthyllis vulneraria,1.68,
+Dorycnium germanicum,0.98,C
+Lotus uliginosus,0.3,C
+Lotus uliginosus,0.3,C
+Coronilla vaginalis,0.45,M
+Ornithopus perpusillus,0.18,C
+Ornithopus perpusillus,0.18,C
+Hippocrepis comosa,1.61,M
+Hippocrepis comosa,0.66,M
+Hippocrepis comosa,0.74,
+Hippocrepis comosa,0.74,
+Hedysarum coronarium,1.21,F
+Hedysarum coronarium,1.21,F
+Onobrychis montana,1.57,C
+Onobrychis arenaria,2.18,
+Ononis repens,1.43,C
+Ononis spinosa,2.0215,C
+Ononis spinosa,1.49,M
+Ononis spinosa,2.24,C
+Trigonella balansae,2,C
+Medicago minima,0.22,
+Trifolium campestre,0.41,C
+Trifolium dubium,0.18,M
+Trifolium aureum,0.33,C
+Trifolium badium,0.34,M
+Trifolium montanum,0.9,
+Trifolium subterraneum,0.6,F
+Trifolium fragiferum,0.13,C
+Trifolium pratense,0.69,C
+Trifolium pratense,0.57,F
+Trifolium trichocephalum,1.29,
+Vicia sepium,0.52,M
+Lathyrus pratensis,1.18,C
+Linum austriacum,0.99,C
+Linum tenuifolium,0.41,C
+Linum catharticum,0.18,
+Geranium pratense,0.54,C
+Geranium sylvaticum,0.49,C
+Geranium phaeum,0.67,C
+Polygala amarella,0.1,
+Polygala comosa,0.44,M
+Lythrum salicaria,0.64,C
+Hydrocotyle vulgaris,0.06,C
+Hydrocotyle vulgaris,0.06,C
+Eryngium campestre,1.68,C
+Echinophora spinosa,1.58,C
+Bupleurum falcatum,0.52,C
+Trinia glauca,0.27,
+Trinia glauca,0.27,
+Carum carvi,1.25,C
+Carum caucasicum,1.09,C
+Carum caucasicum,1.09,C
+Carum caucasicum,1.09,C
+Chamaesciadium acaule,0.93,F
+Chamaesciadium acaule,0.93,F
+Pimpinella major,2.77,C
+Pimpinella saxifraga,2.73,C
+Pimpinella saxifraga,2.73,C
+Aegopodium podagraria,0.7,C
+Berula erecta,0.28,
+Seseli libanotis,1.36,C
+Seseli osseum,1,C
+Seseli annuum,0.66,C
+Seseli hippomarathrum,1.07,C
+Silaum silaus,1.3,
+Meum athamanticum,1.28,C
+Meum athamanticum,1.3,C
+Cnidium dubium,1.23,
+Selinum carvifolia,0.57,C
+Ligusticum mutellina,0.68,C
+Angelica sylvestris,0.45,C
+Angelica sylvestris,0.29,C
+Peucedanum oreoselinum,3.15,C
+Peucedanum oreoselinum,2.24,C
+Peucedanum oreoselinum,2.24,C
+Peucedanum officinale,1.39,C
+Pastinaca sativa,1.88,C
+Daucus carota,1.05,C
+Chaerophyllum aureum,1.24,F
+Chaerophyllum hirsutum,0.74,C
+Anthriscus sylvestris,1.49,F
+Gentiana pannonica,0.32,C
+Gentiana pannonica,0.32,C
+Gentiana punctata,0.95,C
+Gentiana pneumonanthe,0.69,F
+Gentiana acaulis,0.19,C
+Gentiana acaulis,0.19,C
+Gentiana verna,0.12,
+Gentianella ciliata,0.11,C
+Gentianella anisodonta,0.09,C
+Asperula tinctoria,0.81,C
+Asperula cynanchica,0.93,C
+Galium boreale,1.2,C
+Galium album,1.3,
+Galium verum,0.89,
+Cruciata laevipes,0.31,
+Cruciata laevipes,0.31,
+Cruciata laevipes,0.31,
+Cruciata glabra,0.14,C
+Cruciata glabra,0.14,C
+Cruciata glabra,0.14,C
+Valeriana officinalis,0.29,C
+Valeriana dioica,0.17,
+Scabiosa canescens,1.37,C
+Scabiosa columbaria,0.9,C
+Scabiosa lucida,0.53,
+Scabiosa ochroleuca,0.96,C
+Knautia arvensis,1.61,C
+Knautia arvensis,1.72,C
+Succisa pratensis,0.8,C
+Lappula squarrosa,0.43,C
+Myosotis palustris,0.21,M
+Myosotis decumbens,0.37,C
+Onosma arenarium,1.25,C
+Onosma arenarium,1.25,C
+Verbascum lychnitis,3.26,C
+Veronica spicata,0.21,C
+Veronica chamaedrys,0.34,
+Veronica officinalis,0.21,C
+Pedicularis tuberosa,0.13,
+Pedicularis chroorrhyncha,0.19,
+Euphrasia rostkoviana,0.08,M
+Rhinathus alectorolophus,0.11,C
+Rhinathus alectorolophus,0.11,C
+Rhinathus alectorolophus,0.11,C
+Rhinathus alectorolophus,0.11,C
+Rhinathus minor,0.08,C
+Rhinathus minor,0.08,C
+Rhinathus minor,0.08,C
+Globularia cordifolia,0.61,M
+Globularia punctata,0.17,
+Pinguicula alpina,0.08,M
+Pinguicula vulgaris,0.05,
+Plantago maritima,0.91,C
+Plantago maritima,0.91,C
+Plantago coronopus,0.38,C
+Plantago lanceolata,0.93,F
+Plantago media,0.93,C
+Plantago caucasia,1.26,C
+Plantago caucasia,1.26,C
+Ajuga genevensis,0.17,C
+Ajuga pyramidalis,0.21,C
+Ajuga reptans,0.31,C
+Teucrium chamaedrys,1.62,
+Teucrium montanum,0.58,C
+Stachys recta,1.79,M
+Betonica officinalis,0.54,C
+Betonica officinalis,0.91,F
+Betonica alopecurus,0.36,C
+Prunella grandiflora,0.84,C
+Prunella vulgaris,0.23,C
+Prunella vulgaris,0.23,C
+Horminum pyrenaicum,1.39,F
+Salvia pratensis,2.1,C
+Salvia nemorosa,1.91,
+Salvia verticillata,1.8,F
+Acinos alpinus,0.58,M
+Acinos arvensis,0.47,C
+Thymus pulegioide,0.63,
+Mentha longifolia,1.07,C
+Campanula barbata,0.76,C
+Campanula barbata,0.76,C
+Campanula sibirica,0.76,C
+Campanula glomerata,0.53,F
+Campanula spicata,1.13,C
+Campanula scheuchzeri,0.84,C
+Campanula rotundifolia,0.71,C
+Campanula patula,0.29,C
+Campanula rapunculus,0.63,C
+Phyteuma spicatum,0.71,M
+Phyteuma nigrum,0.49,
+Phyteuma nigrum,0.49,
+Phyteuma orbiculare,0.5,
+Jasione montana,0.63,
+Jurinea cyanoides,1.51,
+Jurinea mollis,0.88,
+Carduus acanthoides,1.79,C
+Cirsium pannonicum,1,
+Cirsium canum,1.23,C
+Cirsium rivulare,0.85,F
+Cirsium acaule,1.11,M
+Cirsium heterophyllum,0.69,C
+Cirsium heterophyllum,0.69,C
+Cirsium oleraceum,1.65,
+Cirsium oleraceum,1.72,M
+Cirsium palustre,1.42,C
+Cirsium vulgare,2.1,C
+Cirsium arvense,2.36,M
+Cirsium arvense,2.36,M
+Cirsium arvense,2.36,M
+Cirsium arvense,0.34,C
+Cirsium arvense,0.34,C
+Cirsium arvense,0.34,C
+Cirsium arvense,0.34,C
+Serratula tinctoria,0.59,
+Centaurea jacea,2.47,C
+Centaurea pseudophrygia,0.74,C
+Centaurea stoebe,1.98,
+,,
+Centaurea scabiosa,3.33,M
+Centaurea scabiosa,3.33,M
+Centaurea triumfettii,0.92,C
+Centaurea cheiranthifolia,0.98,
+Carlina vulgaris,0.87,
+Carlina acaulis,1.38,C
+Carlina acaulis,1.23,
+Carlina acaulis,1.23,
+Carlina acaulis,0.66,C
+Antennaria diocia,0.15,M
+Buphthalmum salicifolium,1.2,C
+Pulicaria dysenteria,1.14,M
+Pulicaria dysenteria,1.14,M
+Inula britannica,0.44,M
+Homogyne alpina,0.31,F
+Arnica montana,0.81,C
+Tephroseris crispa,0.35,C
+Senecio subalpinus,1.06,C
+Senecio abrotanifolius,0.31,C
+Senecio jacobea,0.79,
+Aster tripolium,0.65,F
+Aster amellus,0.87,M
+Aster linosyris,0.52,C
+Aster bellidiastrum,0.39,C
+Erigeron acris,0.4,C
+Bellis perennis,0.18,C
+Achillea ptarmica,0.59,F
+Achillea tomentosa,0.5,C
+Leucanthemum ircutianum,0.42,
+Artemisia monogyna,0.5,
+Cichorium intybus L.,1.19,C
+Hieracium umbellatum,1.27,C
+Hieracium bauhinii,0.83,C
+Hieracium pilosella,0.47,C
+Crepis paludosa,0.29,C
+Crepis aurea,0.25,M
+Crepis conyzifolia,1.61,C
+Crepis biennis,0.99,C
+Crepis capillaris,0.46,C
+Willemetia stipitata,0.42,F
+Taraxacum serotinum,4.56,
+Taraxacum bessarabicum,0.5,F
+Taraxacum palustre,0.24,
+Taraxacum officinale,2.4,C
+Hypochoeris maculata,2.58,C
+Hypochaeris uniflora,0.65,
+Hypochaeris radicata,1.15,C
+Hypochaeris radicata,0.89,C
+Leontodon autumnalis,0.37,C
+Leontodon montanus,0.32,
+Leontodon helveticus,0.35,
+Leontodon hispidus,0.3,C
+Leontodon incanus,0.71,C
+Leontodon tuberosus,0.7,F
+Picris hieracioides,1.23,M
+Picris echioides,1.36,M
+Scorzonera austriaca,2.14,C
+Scorzonera humilis,1.07,F
+Scorzonera parviflora,0.55,
+Scorzonera villosa,1.16,M
+Scorzonera villosa,1.16,M
+Scorzonera villosa,2.08,F
+Podospermum canum,0.52,
+Podospermum canum,1.75,C
+Tragopogon dubius,1.51,
+Tragopogon orientalis,1.08,C
+Tofieldia calyculata,0.12,M
+Veratrum album,0.75,C
+Ornithogalum sphaerocarpum,0.2,C
+Muscari racemosum,0.09,C
+Leucojum aestivum,0.41,M
+Leucojum vernum,0.28,C
+Gymnaderia conopsea,0.07,C
+Nigritella nigra,0.05,C
+Dactylorhiza majalis,0.08,C
+Juncus squarrosus,0.33,C
+Juncus gerardii,0.59,C
+Juncus trifidus,0.54,C
+Juncus jacquinii,1.34,C
+Luzula alpinopilosa,0.93,C
+Luzula alpinopilosa,0.93,C
+Eriophorum latifolium,0.93,M
+Eriophorum angustifolium,1.21,
+Eriophorum angustifolium,1.21,
+Eriophorum angustifolium,1.21,
+Eriophorum vaginatum,0.61,
+Kobresia myosuroides,0.2,C
+Carex arenaria,1.02,C
+Carex arenaria,1.02,C
+Carex arenaria,1.02,C
+Carex curvula,0.65,C
+Carex disticha,0.91,C
+Carex appropinquata,1.13,C
+Carex leporina,0.3,C
+Carex echinata,0.44,M
+Carex montana,0.27,F
+Carex ericetorum,0.31,C
+Carex liparocarpus,0.26,C
+Carex pallescens,0.77,C
+Carex gracilis,1.42,M
+Carex nigra,0.56,F
+Carex nigra,0.56,F
+Carex elata,1.03,C
+Carex elata,0.45,
+Carex elata,0.45,
+Carex ferruginea,0.25,F
+Carex sempervirens,0.22,C
+Carex firma,0.24,M
+Carex acutiformis,1.52,C
+Carex acutiformis,1.52,C
+Carex vesicaria,1.26,M
+Carex hirta,1.2,C
+Bromus erectus,0.89,C
+Hordeum secalinum,1.07,M
+Festuca paniculata,0.67,C
+Festuca varia,0.23,C
+Lolium perenne,0.800254237,C
+Lolium perenne,0.59,C
+Lolium perenne,0.21,C
+Lolium perenne,0.21,C
+Poa palustris,0.62,C
+Poa alpina,0.43,C
+Danthonia decumbens,0.45,C
+Trisetum flavescens,0.37,C
+Avenula versicolor,0.25,C
+Avenella flexuosa,0.75,M
+Calamagrostis pseudophragmites,1.8,C
+Agrostis stolonifera,0.65,F
+Agrostis canina,0.13,
+Spartina townsendii,0.75,
+Phleum hirsutum,0.4,C
+Phleum alpinum,0.35,C
+Alopecurus geniculatus,0.61,F
+Nardus stricta,0.8,C
+Poa annua,0.17,M
+Poa pratensis,0.77,C
+Lolium multiflorum,0.93,M
+Agropyron repens,0.87,M
+Secale cereale,1.24,M
+Triticum aestivum,1.26,M
+Triticum aestivum,1.82,M
+Hordeum distichum,1.02,C
+Phragmites australis,1.08,C
+Avena fatua,0.94,C
+Avena sativa,0.89,C
+Agrostis alba,0.65,C
+Apera spica-venti,0.66,C
+Panicum miliaceum,0.8516,C
+Panicum Crus-galli,0.48,M
+Setaria viridis,0.36,C
+Zea mays,1.24,C
+Sorghum halepense,1.26,C
+Juncus bufonius,0.11,F
+Cannabis sativa,1.06,C
+Urtica diocia,,C
+Urtica urens,0.68,M
+Rumex obtusifolius,2.05,C
+Rumex crispus,4.73,C
+Rumex acetosella,0.902,C
+Polygonum amphibium,2.7702,C
+Polygonum lapathifolium,0.7816,M
+Polygonum tomentosum,0.33,C
+Polygonum persicaria,0.37,C
+Polygonum hydropiper,1.28,C
+Polygonum convolvulus,0.84,C
+Polycnemum majus,0.77,C
+Beta vulgaris,1.16,C
+Chenopodium polyspermum,0.9,C
+Chenopodium hybridum,1.32,C
+Chenopodium glaucum,0.74,C
+Atriplex patula,0.95,C
+Salsola tragus,0.82,C
+Amaranthus lividus,0.59,M
+Portulaca oleracea,0.25,C
+Agrostemma githago,0.86,C
+Silene_vulgaris,1.49,C
+Silene_vulgaris,0.69,C
+Melandrium diurnum,0.55,C
+Melandrium album,0.63,C
+Melandrium noctiflorum,0.56,M
+Gypsophila muralis,0.51,C
+Gypsophila muralis,0.14,F
+Vaccaria pyramidata,0.64,C
+Malachium aquaticum,0.58,C
+Stellaria media,0.12,M
+Cerastium glomeratum,0.11,F
+Cerastium caespitosum,0.23,M
+Cerastium arvense,0.14,M
+Sagina procumbens,0.04,M
+Arenaria serpyllifolia,0.21,C
+Spergula arvensis,0.56,C
+Spergularia rubra,0.16,M
+Scleranthua annuua,0.21,C
+Nigella arvensis,0.69,C
+Delphinium consolida,0.51,M
+Ranunculus repens,0.21,C
+Ranunculus repens,0.34,M
+Adonis aestivalis,0.85,M
+Papaver rhoeas,1.04,M
+Fumaria officinalis,0.55,C
+Fumaria vaillantii,0.62,C
+Sinapis arvensis,1.35,C
+Diplotaxis muralis,0.75,C
+Raphanus raphanistrum,1.74,C
+Raphanus raphanistrum,0.77,M
+Lepidium draba,1.16,C
+Thlaspi arvense,0.49,M
+Thlaspi perfoliatum,0.2,C
+Capsella bursa,0.89,M
+Neslia paniculata,0.65,M
+Rorippa islandica,0.79,C
+Erysimum cheiranthoides,0.55,F
+Arabidopsis thaliana,0.43,C
+Camelina microcarpa,0.56,C
+Reseda lutea,0.79,C
+Saxifraga tridactylites,0.08,C
+Rubus caesius,2.17,M
+Alchemilla arvensis,0.16,M
+Melilotus officinalis,0.95,C
+Melilotus alba,0.77,C
+Medicago lupulina,0.54,C
+Medicago sativa,1.37,C
+Trifolium arvense,0.45,C
+Trifolium incarnatum,0.4,M
+Trifolium pratense,0.82,C
+Lotus corniculatus,1.05,C
+Coronilla varia,0.89,C
+Onobrychis viciifolia Scop.,0.61,M
+Lens culinaris,0.62,C
+Vicia hirsuta,0.66,M
+Vicia tetrasperma,0.74,C
+Vicia villosa,0.86,M
+Vicia dasycarpa,0.72,M
+Vicia sativa,0.85,C
+Lathyrus tuberosus,0.71,M
+Geranium pusillum,0.59,C
+Erodium cicutarium,1.45,C
+Mercurialis annua,0.47,M
+Euphorbia helioscopia,0.85,C
+Euphorbia falcata,0.35,C
+Euphorbia exigua,0.49,C
+Hibiscus trionum,0.95,
+Hypericum humifusum,0.51,C
+Viola tricolor,0.45,C
+Scandix pecten,0.41,M
+Orlaya grandiflora,0.73,C
+Aethusa cynapium,0.56,M
+Daucus carota,0.79,C
+Daucus carota,0.64,C
+Anagallis arvensis,0.43,C
+Anagallis arvensis,0.2,C
+Anagallis femina,0.24,M
+Centaurium pulchellum,0.13,M
+Convolvulus sepium,0.69,C
+Convolvulus arvensis,2.24,M
+Lappula myosotis,0.77,M
+Lithospermum arvense,0.67,C
+Myosotis arvensis,0.26,C
+Myosotis micrantha,0.15,C
+Cerinthe minor L.,0.51,C
+Echium vulgare,2.57,C
+Nonea pulla,0.96,M
+Symphytum officinale,0.76,C
+Symphytum officinale,0.31,F
+Verbena officinalis,0.58,C
+Ajuga chamaepitys,0.39,C
+Glechoma hederacea,0.14,M
+Galeopsis angustifolia,1.13,C
+Galeopsis pubescens,0.39,M
+Galeopsis tetrahit,0.57,M
+Galeopsis speciosa,0.56,C
+Lamium purpureum,0.21,M
+Lamium amplexicaule,0.21,M
+Stachys annua,0.51,C
+Stachys palustris,0.3,M
+Stachys palustris,0.56,C
+Mentha arvensis,0.42,M
+Mentha arvensis,0.2,M
+Hyoscyamus niger,0.54,C
+Solanum nigrum,0.7,C
+Solanum tuberosum,1.15,M
+Datura stramonium,0.69,C
+Linaria vulgaris,0.95,C
+Linaria elatine,0.53,M
+Linaria minor,0.16,C
+Veronica serpyllifolia,0.21,M
+Veronica arvensis,0.19,M
+Veronica praecox,0.12,C
+Veronica triphyllos,0.15,M
+Veronica persica,0.21,M
+Veronica polita,0.17,M
+Veronica agrestis,0.15,M
+Veronica hederaefolia,0.14,M
+Plantago major,0.26,C
+Plantago major,0.9,C
+Plantago lanceolata,0.61,C
+Sherardia arvensis,0.11,M
+Galium aparine,0.36,M
+Valerianella carinata,0.09,C
+Valerianella rimosa,0.24,M
+Legousia speculum,0.16,M
+Erigeron canadensis,1.09,C
+Erigeron annuus,1.02,C
+Gnaphalium uliginosum,0.24,F
+Gnaphalium uliginosum,0.25,C
+Xanthium strumarium,0.76,C
+Xanthium strumarium,1.23,M
+Helianthus annuus,1.51,C
+Bidens tripartitus,0.45,C
+Galinsoga parviflora,0.78,C
+Anthemis austriaca,0.45,C
+Anthemis arvensis,0.33,C
+Achillea millefolium,0.21,C
+Matricaria chamomilla,0.71,C
+Matricaria maritima,1.22,C
+Senecio vulgaris,0.44,C
+Cirsium arvense,2.86,M
+Centaurea cyanus,0.57,C
+Lapsana communis,0.34,M
+Chondrilla juncea,2.37,C
+Lactuca serriola,0.89,C
+Lactuca serriola,1.47,M
+Sonchus arvensis,0.56,M
+Sonchus oleraceus,1.03,C
+Sonchus oleraceus,0.48,M
+Sonchus asper,1.03,C
+Sonchus asper,0.45,M
+Pinus sp.,1,C
+Pinus sp.,0.75,C
+Pinus sp.,0.35,C
+Pinus sp.,1.25,C
+Pinus sp.,0.5,C
+Pinus sp.,0.85,C
+Pinus sp.,0.5,C
+Pinus sp.,0.6,C
+Pinus sp.,1.55,C
+Pinus sp.,2.45,C
+Pinus sp.,1.2,C
+Pinus sp.,0.8,C
+Pinus sp.,1,C
+Pinus sp.,1.8,C
+Pinus sp.,0.5,C
+Pinus sp.,0.15,C
+Pinus sp.,0.3,C
+Pinus sp.,0.2,C
+Pinus sp.,0.8,C
+Pinus sp.,0.2,C
+Picea sp.,0.9,C
+Picea sp.,0.9,C
+Picea sp.,0.8,C
+Picea sp.,1,C
+Betula sp.,0.9,C
+Betula sp.,0.8,C
+Pistacia atlantica,0.8,C
+Parrotia persica,0.7,C
+Pinus palustris,2.2,C
+Pinus palustris,2,M
+Pinus taeda,1.9,F
+Pinus taeda,1.9,F
+Pinus taeda,3.5,C
+Faidherbia albida,5.9,C
+Faidherbia albida,2.2,C
+Helianthus annuus,1.2,M
+Helianthus annuus,1.8,F
+Erythronium montanum,0.19,C
+Clintonia uniflora,0.23,C
+Streptopus roseus,0.14,C
+Smilacina stellata,0.26,C
+Rubus pedatus,0.17,C
+Rubus lasiococcus,0.44,C
+Retama sphaerocarpa,2,C
+Anthyllis cytisoides,1.5,C
+Juniperus phoenicea,2.5,C
+Pistacia lentiscus,3.5,C
+Alhagi sparsifolia,5,C
+Tamarix ramosissima,2,C
+Populus euphratica,4,C
+Calligonum caput-medusae,7,C
+Festuca arundinacea,1.5,C
+Festuca arundinacea,1.5,C
+Festuca arundinacea,1.5,F
+Rosmarinus officinalis,0.35,M
+Artemisia herba-alba,0.35,M
+Suaeda vera. Atriplex,0.6,M
+Suaeda vera. Atriplex,0.8,M
+Pinus pinaster,1,C
+Pinus pinaster,3,C
+Molinia caerulea,0.8,C
+Pteridium aquilinum,0.2,C
+Pteridium aquilinum,1.2,C
+Ulex europaeus,0.7,C
+Ulex europaeus,1.3,C
+Erica scoparia,1.4,C
+Picea mariana,0.3,C
+Picea glauca,1.37,C
+Anisophyllea disticha,0.3,F
+Terenna sp.,0.2,F
+Eurycoma lonaifolia,1.8,F
+Antidesma df. leucopodum,1.5,F
+Ixora sp.,1.1,F
+Pinus contorta,1.22,C
+Pseudotsuga menziesii,1.52,C
+Cercocarpus montanus,1.52,C
+Muhlenbergia montana,0.85,C
+Festuca arizonica,0.85,C
+Arctostaphylos uva-ursi,0.91,C
+Pinus ponderosa,1.52,C
+Populus tremuloides,1.52,C
+Arctostaphylos uva-ursi,0.61,C
+Pseudotsuga menziesii,1.46,C
+Pinus ponderosa,1.71,C
+Muhlenbergia montana,1.04,C
+Cercocarpus montanus,1.52,C
+Festuca arizonica,0.94,C
+Pseudotsuga menziesii,0.82,C
+Populus tremuloides,0.73,C
+Pinus ponderosa,0.85,C
+Arctostaphylos uva-ursi,0.61,C
+Muhlenbergia montana,0.82,C
+Cercocarpus montanus,1.07,C
+Festuca arizonica,0.79,C
+Terminalia sericea,0.61,C
+Terminalia sericea,2,C
+Lycium species,1.88,C
+Rhigozum trichotomum,1.08,C
+Pinus contorta,1.06,F
+Pinus contorta,1.07,F
+Quercus fusiformis,20,C
+Fouquieria splendens,0.29,C
+Pinus contorta,0.1,Wl
+Pinus contorta,0.15,Wl
+Pinus contorta,0.2,Wl
+Pinus contorta,0.4,Wl
+Eperua falcata,3.5,C
+Dicorynia guianensis,1.6,C
+Eperua falcata,2,F
+Dicorynia quianensis,1,F
+Sarcocornia pillansii,1.2,M
+Sarcocornia pillansii,1.2,F
+Quercus agrifolia,4,M
+Eucalyptus PF1,4,C
+Quercus petraea,2,M
+Quercus robur,1.6,M
+Larrea tridentata,0.75,F
+Pleuraphis mutica,0.73,F
+Opuntia rastrera,0.28,F
+Prosopis velutina,5,C
+Bouteloua sp.,0.3,C
+Brachyclados caespitosus,1,C
+Euphorbia collina,1,C
+Mulinum spinosum,1,C
+Senecio filagionoides,1,C
+Adesmia boronioides,2,C
+Colliguaya integerrima,2,C
+Lycium chilense,1.5,C
+Berberis heterophylla,2.5,C
+Schinus johnstonii,2.5,C
+Ulmus pumila,9.14,M
+Maclura pomifera,9.75,M
+Juniperus virginlana,7.92,M
+Robinia pseudoacacia,8.53,M
+Morus alba,3.96,M
+Prunus armeniaca,2.44,M
+Fraxinus species,1.83,M
+Juglans ruvestris,1.83,M
+Fagus sylvatica,0.6,C
+Quercus petraea,0.6,C
+Banksia attenuata,3.7,C
+Banksia ilicifolia,3.7,C
+Amaranthus palmeri,0.15,F
+Echinocactus wislizenii,0.2,F
+Carnegiea gigantea,0.55,F
+Covillea tridentata,0.68,F
+Condalia spathulata,1.36,C
+Acanthyllis tragacanthoi,0.3,C
+Deverra scoparia,0.2,C
+Peganum harmala L.,0.3,C
+Haloxylon articulatum,0.31,C
+Henophyton deserti,0.75,C
+Peganum harmala L.,0.27,C
+Haloxylon scoparium,1.13,C
+Peganum harmala L.,0.61,C
+Plantago albicans,0.71,C
+Pinus edulis,19.81,F
+Juglans regig x nigra L,4,C
+Triticum turgidum,1.6,C
+Leipoldtia schultzei,0.18,C
+Ruschia robusta,0.28,C
+Hirpicium alienatum,0.4,C
+Lolium arundinaceu,0.9,C
+Bursera excelsa,0.9,C
+Carex nebrascensis,0.6,M
+Poa pratensis,0.3,M
+Muhlenbergia richardsonis,0.67,M
+Artemisia tridentata,0.91,C
+Carex nebrascensis,1.3,M
+Poa pratensis,1.28,M
+Muhlenbergia richardsonis,0.85,C
+Artemisia tridentata,0.52,C
+Spondias mombin L.,3.5,F
+Spondias mombin L.,3,F
+Euterpe oleracea,2.5,M
+Androtrichum giganteum -Kunth- H.Pfeiff.,0.3,C
+Populus deltoides,1,C
+Calluna vulgaris,0.5,M
+Calluna vulgaris,0.3,C
+Calluna vulgaris,0.6,C
+Calluna vulgaris,1.5,C
+Calluna vulgaris,1.8,C
+Calluna vulgaris,1.7,C
+Calluna vulgaris,1.3,C
+Calluna vulgaris,2,C
+Rosa blanda,0.98,C
+Amelanchier sanguinea,0.61,C
+Pinus banksiana,1.68,C
+Pedicularis aquilina,0.15,C
+Eucalyptus grandis,15.8,C
+Eucalyptus grandis,9.2,C
+Eucalyptos grandis,14,C
+Eucalyptus grandis,16,C
+Fagus sylvatica,0.5,M
+Picea abies,0.6,C
+Quercus cerris,0.7,F
+Artemesia tridentata,1.6,M
+Bromus tectorum,0.8,M
+Pinus taeda,0.91,F
+Pinus echinata,1.02,M
+Quercus stellata,0.91,F
+Quercus alba,1.02,F
+Liquidambar styraciflua,2.44,M
+Festuca pratensis,3,M
+Festuca pratensis,3,C
+Festuca pratensis,3,M
+Acacia tortilis,3.5,C
+Acacia reficiens,2.4,C
+Stipa comata,1.1,M
+Stipa comata,0.99,M
+Stipa comata,0.63,M
+Stipa comata,1.07,C
+Stipa comata,0.85,M
+Stipa spartea var. curtiseta,1.27,M
+Stipa spartea var. curtiseta,1.02,M
+Stipa spartea var. curtiseta,0.85,M
+Stipa spartea var. curtiseta,0.6,M
+Stipa spartea var. curtiseta,0.68,M
+Stipa spartea var. curtiseta,1.05,M
+Stipa spartea var. curtiseta,0.8,M
+Stipa spartea var. curtiseta,0.8,M
+Stipa spartea var. curtiseta,1.4,C
+Agropyron smithii,1.27,M
+Agropyron smithii,1.37,M
+Agropyron smithii,0.68,C
+Agropyron smithii,1.65,M
+Agropyron smithii,1.52,M
+Agropyron smithii,1.55,M
+Agropyron dasystachyu,1.52,M
+Agropyron dasystachyu,1.42,M
+Agropyron dasystachyu,1.12,M
+Agropyron dasystachyu,1.22,M
+Agropyron dasystachyu,1.42,M
+Agropyron dasystachyu,1.3,M
+Agropyron dasystachyu,1.15,M
+Agropyron dasystachyu,1.1,M
+Bouteloua gracilis,0.85,M
+Bouteloua gracilis,0.75,M
+Bouteloua gracilis,0.9,C
+Bouteloua gracilis,0.38,M
+Bouteloua gracilis,0.75,M
+Bouteloua gracilis,0.6,M
+Bouteloua gracilis,0.4,M
+Bouteloua gracilis,0.53,M
+Koeleria cristata,0.6,M
+Koeleria cristata,0.75,M
+Koeleria cristata,0.6,C
+Koeleria cristata,0.33,M
+Koeleria cristata,0.6,M
+Koeleria cristata,0.6,M
+Koeleria cristata,0.58,M
+Koeleria cristata,0.65,C
+Festuca scabrella,1.02,M
+Festuca scabrella,0.6,M
+Festuca scabrella,0.68,M
+Festuca scabrella,0.8,M
+Festuca scabrella,1.1,C
+Carex duriuscula,0.65,M
+Carex duriuscula,0.68,M
+Carex duriuscula,0.35,M
+Carex duriuscula,0.35,C
+Carex duriuscula,0.5,M
+Carex duriuscula,0.6,M
+Carex duriuscula,0.38,M
+Carex duriuscula,0.65,M
+Carex duriuscula,0.65,C
+Stipa viridulias,1.1,M
+Calamovilfa longifolia,1.8,C
+Sporobolus cryptandrus,0.78,C
+Artemisia frigida,1.47,M
+Artemisia frigida,1.02,M
+Artemisia frigida,0.81,M
+Artemisia frigida,0.88,C
+Artemisia frigida,0.51,M
+Artemisia frigida,1.47,M
+Artemisia frigida,0.78,M
+Artemisia frigida,0.66,M
+Artemisia frigida,0.66,M
+Phlox hoodii,0.68,M
+Phlox hoodii,0.66,M
+Phlox hoodii,0.41,C
+Phlox hoodii,0.3,M
+Phlox hoodii,0.76,M
+Phlox hoodii,0.56,M
+Phlox hoodii,0.41,M
+Anemone patens var.,0.61,M
+Anemone patens var.,0.78,M
+Anemone patens var.,0.91,M
+Anemone patens var.,0.48,M
+Anemone patens var.,0.86,M
+Anemone patens var.,0.68,M
+Anemone patens var.,0.51,M
+Anemone patens var.,0.81,M
+Anemone patens var.,1.22,C
+Gutierrezia sarothrae,0.93,M
+Gutierrezia sarothrae,1.3,M
+Gutierrezia sarothrae,0.51,M
+Gutierrezia sarothrae,0.66,M
+Gutierrezia sarothrae,0.51,M
+Gutierrezia sarothrae,0.86,M
+Haplopappus spinulosus,1.6,M
+Chrysopsis villosa,2.4,C
+Selaginella densa,0.5,M
+Solidago missouriensis,1.32,M
+Thermopsis rhombifolia,1.7,M
+Thermopsis rhombifolia,0.75,M
+Aster ericoides,0.8,M
+Psoralea lanceolata,1.22,M
+Liatris punctata,1.3,M
+Sphaeralcea coccinea,1.8,M
+Pinus caribaea,0.4,F
+Tabebuia heterophylla,0.5,F
+Pseudotsuga menziesii,0.6,C
+Pseudotsuga menziesii,0.6,C
+Pseudotsuga menziesii,0.8,M
+Pseudotsuga menziesii,0.9,M
+Pseudotsuga menziesii,0.9,C
+Pseudotsuga menziesii,1.2,C
+Pseudotsuga menziesii,1.3,C
+Haloxylon ammodendron,3.8,C
+Haloxylon persicum,15,C
+Pinus pinaster,0.9,C
+Pinus pinaster,0.92,C
+Pinus pinaster,0.98,C
+Euterpe precatoria,1,F
+Acacia auriculiformis,2,C
+Azadirachta indica,1.2,C
+Bauhinia variegata,1,C
+Bombax ceiba,1.6,C
+Wendlandia exserta,2.1,C
+Polygonum viviparum Linn,0.3,C
+Lewisia pygmaea,0.1,C
+Silene acaulis,0.2,C
+Arenaria aequicaulis,0.15,C
+Minuartia biflora,0.4,C
+Paronychia pulvinata A. Gray,0.31,C
+Draba oligosperma Hook.,0.26,C
+Sedum stenopetalum Pursh,0.1,C
+Saxifragra romboidea,0.1,C
+Potentilla diversifolia,0.48,C
+Potentilla pinnatisecta,0.35,C
+Geum rossii,0.37,C
+Trifolium parryi,0.24,C
+Trifolium dasyphyllum,0.38,C
+Androsace subumbellata,0.1,C
+Phlox caespitosa Nutt.,0.35,C
+Polemonium confertum,0.55,C
+Eritrichium argenteum,0.24,C
+Erigeron compositus,0.09,C
+Erigeron pinnastisectus,0.28,C
+Tetraneuris grandiflora,0.2,C
+Erigeron ursinus,0.1,C
+Achillea subalpina,0.16,C
+Artemisia scopulorum,0.25,C
+Quercus rotundifolia,13,C
+Quercus suber L.,6.5,F
+,18,F
+Pinus radiata,0.9,M
+Pinus radiata,0.9,C
+Pinus radiata,0.9,C
+Pinus radiata,0.9,C
+Pinus radiata,0.9,F
+Acer saccharum,1.5,M
+Banksia prionotes,2.6,C
+Eucalyptus globulus,5,C
+Pinus resinosa,0.79,C
+Pinus resinosa,1.01,C
+Pinus resinosa,0.49,C
+Pinus resinosa,1.89,C
+Pinus resinosa,1.52,C
+Eucalyptus marginata,14,C
+Calligonum polygonoides,2.2,C
+Ephedra alata subsp. alenda,1.9,C
+Anthyllis henoniana,1.2,C
+Henophyton deserti,1.6,C
+Ipomoea leptophylla Torr.,1.85,C
+Salsola pestifer A. Nels.,0.67,C
+Solanum elaeagnifolium,1.14,C
+Croton texensis,0.32,C
+Ericameria nauseosa,3.92,C
+Ambrosia acanthicarpa Hook.,1.54,C
+Sphaeralcea parviflora A. Nels.,0.8,F
+Psorothamnus scoparius,1.52,C
+Opuntia arborescens Engelm,0.91,C
+Acacia tortilis,25,C
+Chrysothamnus nauseosus,4,C
+Sarcobatus vermiculatus,4,C
+Kobresia pygmaea,0.1,
+Potentilla saundersiana,0.1,
+Astragalus rigidulus,0.3,
+Potentilla fruticosa,0.3,
+Salix setchelliana C.R. Ball,0.1,C
+Salix setchelliana C.R. Ball,0.1,C
+Picea abies,1,C
+Picea abies,0.8,C
+Picea abies,0.8,C
+Carex acuta,0.2,F
+Holcus lanatus,1,F
+Diplopterygium glaucum,0.3,
+Rhus copallina L.,1.42,F
+Rosa setigera Michaux,0.64,F
+Rosa setigera Michaux,1.57,F
+Rubus allegheniensis Porter,1.03,F
+Populus grandidentata Michaux,1.2,F
+Sassafras officinale,1.35,F
+Symphoricarpos orbiculatus Moench,1.18,F
+Smilax rotundifolia L.,1.5,F
+Acacia albida,34,C
+Acacia albida,16.5,C
+Acacia albida,4.5,Wl
+Acacia albida,1.5,Wl
+Eucalyptus grandis,8,M
+Eucalyptus grandis,28,M
+Eucalyptus tetrodonta,4,C
+Erythrophleum chlorostachys,3,C
+Tsuga heterophylla,1.25,M
+Thuja plicata,1.19,M
+Pseudotsuga menziesii,1.32,M
+Tsuga heterophylla,0.37,C
+Thuja plicata,0.37,C
+Pseudotsuga menziesii,0.37,C
+Tsuga heterophylla,0.85,C
+Tsuga heterophylla,1.2,C
+Tsuga heterophylla,0.6,C
+Zea mays,0.3,Wl
+Quercus myrtifolia Willd.,1.5,C
+Carya floridana Sarg./ Q. laevis Walter,1.5,C
+Stoeberia sp.,0.16,C
+Enarganthe octonaria,0.1,C
+Ruschia sp.,0.05,C
+Cephalophyllum sp.,0.07,C
+Pleuraphis rigida,0.4,C
+Opuntia ramossissima,1.47,C
+Thamonosma montana,1.3,C
+Eriogonum fasciculatum,1.1,C
+Acamptopappus sphaerocephalus,1,C
+Mendora spinescens,1.3,C
+Yucca schidigera,0.6,C
+Bursera simaruba,9,C
+Karelinia caspica,1.6,C
+Atriplex tatarica,0.75,C
+Banksia attenuata,8,C
+Banksia attenuata,8,C
+Banksia attenuata,4.9,C
+Pinus taeda,0.9,M
+Pinus taeda,0.9,M
+Quercus nigra,1,C
+Ruschia robusta,1,C
+Stipagrostas brevifolia,1.2,C
+Eucalyptus tetrodonta,0.6,C
+Adansonia digitata,1.8,F
+,10,C
+Curatella americana L.,5,M
+Byrsonima crassifolia,0.3,M
+Stipa speciosa,0.5,C
+Stipa humilis,0.45,C
+Poa ligularis,0.7,C
+Mulinum spinosum,0.95,C
+Adesmia volckmanni,1.4,C
+Senecio filaginoides,1.7,C
+Zea mays L.,0.52,C
+Zea mays L.,0.73,C
+Zea mays L.,0.72,C
+Zea mays L.,0.82,C
+Zea mays L.,0.81,C
+Zea mays L.,0.81,C
+Zea mays L.,0.91,C
+Zea mays L.,0.91,C
+Zea mays L.,0.83,C
+Zea mays L.,0.85,C
+Prestoea montana,1,F
+Cynodon dactylon,1.5,C
+Entandrophragma cylindricum,10,C
+Entandrophragma cylindricum,8,C
+Entandrophragma cylindricum,3,C
+Entandrophragma cylindricum,5.2,C
+Quercus sp.,1,M
+Quercus sp.,1,M
+Quercus sp.,1,F
+Pluchea sericea,1.31,C
+Guiera senegalensis,10,C
+Cassia mimosoides,0.4,C
+Pinus palustris,2.13,C
+Festuca arundinacea Schreb,1.7,M
+Medicago sativa L.,2,M
+Cichorium intybus L.,1.8,M
+Juglans regia×nigra cv. NG23,4.7,F
+Pinus banksiana,2.9,
+Larrea tridentata,1.6,C
+Flourensia cernua,1,C
+Larrea tridentata,5.5,M
+Flourensia cernua,3.5,M
+Solanum elaeagnifolium,1.1,M
+Larrea tridentata,2,C
+Flourensia cernua,1.5,C
+Flourensia cernua,3,M
+Dasyochloa pulchella,0.3,M
+Aristida purpurea,0.95,M
+Perezia nana,1,M
+Talinurn angustissimun,0.7,M
+Flourensia cernua,3,M
+Flourensia cernua,5.5,M
+Pleuraphis mutica,1,M
+Koeberlinia spinosa,6,M
+Flourensia cernua,2.2,C
+Sphaeralcea hastulata,1.6,C
+Muhlenbergia arenacea,1.25,C
+Koeberlinia spinosa,3.3,C
+Atriplex canescens,3.5,C
+Prosopis glandulosa,3,C
+Prosopis glandulosa,5.2,C
+Gutierrezia sarothrae,2.4,C
+Yucca elata,0.9,C
+Sporobolus flexuosus,1.05,C
+Euphorbia albomatginata,0.83,C
+Atriplex canescens,3.5,C
+Nama hispidum,0.8,M
+Caesalpinia jamesii,1.95,C
+Dimorphocarpa wislizenii,0.8,C
+Cassia bauhinioides,1.7,C
+Solanum elaeagnifolium,2.4,C
+Croton pousii,1.4,C
+Prosopis glandulosa,2.6,C
+Prosopis glandulosa,5.5,C
+Iva dealbata,3.1,M
+Ephedra trifurca,5.1,C
+Aristida purpurea,1.7,C
+Sphaeralcea hastulata,3.4,C
+Croton pottsii,1.6,C
+Gutierrezia sarothrae,1.5,C
+Croton pottsii,1.78,C
+Sporobolus nealleyi,0.19,M
+Nerisyrenia linearifolia,0.62,M
+Gaura coccinea,0.47,M
+Adenium somalense,1.4,C
+Aloe sp.,0.65,C
+Caralluma sp.,0.5,C
+Euphorbia sp.,0.7,C
+Sansevieria ehrenbergii Schweinf,0.9,C
+X,2,
+Triticum aestivum,1,
+Diospyro spp.,1.65,F
+Tamarix ramosissima,21.9,C
+Tamarix ramosissima,13.2,C
+Tamarix ramosissima,10.8,C
+Tamarix ramosissima,6.5,C
+Populus euphratica,22.15,C
+Populus euphratica,15.25,C
+Populus euphratica,10.65,C
+Populus euphratica,8.25,C
+Atriplex torreyi,2,C
+Chrysothamnus nauseosus ssp. Viridulus,2.4,C
+Retama sphaerocarpa,28,C
+Pinus ponderosa,0.66,C
+Pinus caribaea,5,C
+Pinus elliottii,4.57,C
+Eucalyptus citriodora,0.94,C
+Eucalyptus citriodora,1.55,C
+Castanopsis chinensis,0.7,F
+Juniperus sabina,1.04,C
+Juniperus sabina,1.02,C
+Juniperus sabina,0.86,C
+Adenostoma fasciculaturn,2.45,C
+Arctostaphylos glandalosa,2.74,C
+Ceanothus leucoderuis,3.66,C
+Photinia arbutifolia,1.98,M
+Quercus dumosa,2.44,M
+Ceanothus olihgaitlis,1.83,F
+Cercocarpus betuloides,1.52,C
+Diplacus longiflorus,0.76,C
+Acer saccharum,1,C
+Acer saccharum,1,C
+Pinus palustris,1.91,C
+Pinus palustris,0.74,C
+Protea repens,3,C
+Erica plukenetii,0.4,C
+Aristea major,1.45,C
+Ischyrolepis gaudichaudiana,0.2,C
+Tetraria bromoides,0.88,C
+Acacia mellifera,1.5,C
+,1.1,C
+Acacia luederitzii,1.6,C
+,1,C
+Bromus tectorum,0.91,M
+Taeniatherum caput-medusae,1.02,M
+Agropyron desertorum,0.74,M
+Agropyron intermedium,0.81,M
+Lithraea caustica,0.6,M
+Cryptocarya alba,0.6,M
+Coiliguaya odorifera,0.6,M
+Baccharis rosmarinifolia,0.6,M
+Mutisia retusa,0.2,M
+Haplopappus sp.,0.4,M
+Satureja gilliesii,0.2,M
+Melaleuca quinquenervia,0.6,M
+Stachys sp.,0.2,M
+Echinopsis chiloensis,0.3,M
+Brachystegia spiciformis,2.6,C
+Guibourtia coleosperma,1.7,C
+Baikiaea plurijuga,2.1,C
+Burkea africana,0.9,C
+Ochna pulchra,1.25,C
+Terminalia sericea,1.2,C
+Pinus contorta,3.51,C
+Pinus contorta,1.52,F
+Pinus contorta,0.7,F
+Eucalyptus saligna,6.1,M
+Pinus patula,6.1,M
+Cupressus benthamii,7.62,M
+Cupressus lusitanica,7.62,M
+Prunus persica,4.9,C
+Prunus amygdalus Batsch.,4.7,C
+Annona squamosa,4.29,C
+Mangifera indica,4.7,C
+Psidium gurava,4.4,C
+Nephelium litchi,3.8,C
+Citrus medica L.,2,C
+Eriobotrya japonica,4.9,C
+Eucalyptus diversicolour,20,
+Eucalyptus camuldulensis,7,
+Bromus tectorum,2,M
+Bromus japanicus,1.5,M
+Bromus commutatus,1.5,M
+Bromus sterilis,1.5,M
+Bromus brizaeformis,1.5,M
+Bromus racemosus,1.5,M
+Dipterocarp spp.,1.1,F
+Quercus fusiformis,5,C
+Ulmus crassifolia,5,C
+Juniperus ashei,6,C
+Quercus fusiformis,6,C
+Juniperus ashei,7,C
+Ulmus crassifolia,7,C
+Juniperus ashei,7,C
+Quercus fusiformis,8,C
+Quercus fusiformis,9,C
+Quercus fusiformis,11,C
+Quercus fusiformis,14,C
+Quercus fusiformis,18,C
+Bouteloua eriopoda,1.7,
+Prosopis sp.,5.4,
+Bouteloua eriopoda,0.6,
+Prosopis sp.,2,
+Bouteloua gracilis,0.9,
+Prosopis sp.,4,
+Stipa sp.,0.9,
+Prosopis sp.,5.8,
+Schizachyrium scoparium,0.8,
+Prosopis sp.,2.8,
+Andropogon sp.,3.3,
+Prosopis sp.,2.5,
+Nectandra ambigens,2,C
+Panicum maximum,1.1,C
+Paspalum conjugatum,0.9,C
+Boscia albitrunca,78.6,C
+Terra firme species,0.5,F
+Terra firme species,0.5,F
+Caatinga palms,1,C
+Leguminosae sp.,,F
+Panicum maximum,6,F
+Eucalyptus camaldulensis,5.7,M
+Mix of grasses (C3 & C4),1.7,M
+Prosopis flexuosa,7.7,C
+Prosopis flexuosa,5,C
+Prosopis flexuosa,5.3,C
+Trichostigma octandrum,0.6,F
+Anacardium excelsum,0.6,F
+Antennaria dioica,0.095,C
+Bartsia alpina,0.016,C
+Calamagrostis lapponica,0.033,C
+Carex capillaris,0.029,C
+Harrimanella hypnoides,0.09,C
+Cassiope tetragona,0.013,C
+Festuca ovina,0.034,C
+Festuca ovina,0.039,C
+Lycopodium selago,0.023,C
+Pedicularis lapponica,0.011,C
+Phyllodoce coerulea,0.029,C
+Polygonum viviparum,0.021,C
+Polygonum viviparum,0.015,C
+Salix reticulata,0.018,C
+Solidago virgaurea,0.046,C
+Tofieldia pusilla,0.015,C
+Tofieldia pusilla,0.019,C
+Vaccinium myrtillus,0.007,C
+Magnolia virginiana,0.5,Wl
+Zea mays,0.8,C
+Cassia siamea,0.9,C
+Eucalyptus tereticornis,1.4,C
+Leucaena leucocephala,1.5,C
+Prosopis chilensis,1,C
+Quercus alba L.,0.9,C
+Quercus alba L.,0.9,C
+Fagus grandifolia,1.35,C
+Juniperus communis L.,0.98,C
+Saccharum ravennae,1.25,Wl
+Saccharum spontaneum L.,1.5,Wl
+Halostachys belangeriana,2.4,Wl
+Populus pruinosa Schrenk,6,Wl
+Elaeagnus angustifolia L.,6,Wl
+Juniperus sp.,4,C
+Rheum maximoviczii,0.62,
+Cycas revoluta Thunb.,1,C
+Ginkgo biloba Linn.,2.5,C
+Torreya nucifera,2,M
+Taxus cuspidata Sieb. et Zucc.,2,M
+Taxus cuspidata var. umbraculifera Makino,1.2,M
+Taxus baccata Linn.,1.6,M
+Podocarpus macrophyllus D. Don,2.4,C
+Podocarpus nagi,2.5,M
+Araucaria araucana,0.6,C
+Araucaria cunninghamii,3.2,C
+Abies homolepis Sieb. et Zucc.,1.8,M
+Abies firma Sieb. et Zucc.,3.3,M
+Abies sachalinensis Mast.,1.7,M
+Abies mariesii Mast.,1.4,C
+Abies veitchii Lindl.,1.5,C
+Abies veitchii Lindl.,1.2,C
+Abies veitchii Lindl.,0.6,C
+Tsuga sieboldii Carr.,1.9,M
+Tsuga diversijolia Mast.,1.4,M
+Tsuga canadensis Carr.,1.4,M
+Picea jezoensis,1.1,C
+Picea maximowiczii,0.8,M
+Picea alcoquiana,0.8,M
+Picea koyamae Shirasawa,1.6,C
+Picea abies,1.3,C
+Picea abies,2.3,C
+Picea smithiana Boiss.,1.4,C
+Larix leptolepis Gord.,2.3,M
+Larix leptolepis Gord.,1,M
+Pinus densiflora Sieb. et Zucc.,2.9,M
+Pinus densiflora Sieb. et Zucc.,3.5,M
+Pinus densiflora var. umbraculifera Mayr,0.7,C
+Pinus thunbergii Pari.,2.3,C
+Pinus thunbergii Pari.,3.3,C
+Pinus pentaphylla Mayr,1,C
+Pinus pentaphylla Mayr,1.6,C
+Pinus koraiensis Sieb. et Zucc.,2.3,C
+Pinus koraiensis Sieb. et Zucc.,2,C
+Pinus pumila Regel,0.5,C
+Pinus rigida Mill.,2.6,C
+Pinus rigida Mill.,3.4,C
+Pinus strobus L.,2.8,C
+Pinus strobus L.,0.9,C
+Pinus strobus L.,1.4,C
+Pinus strobus L.,1.6,C
+Pinus strobus L.,1.2,C
+Pinus strobus L.,2.4,C
+Pinus bungeana Zucc.,1.2,C
+Pinus taeda,2,C
+Pinus taeda,3.5,C
+Pinus taeda,3.8,C
+Pinus palustris Mill.,2.6,C
+Pinus pinaster,2.4,C
+Pinus wallichiana,1.3,M
+Pinus banksiana,2,C
+Pinus sylvestris,2,C
+Pinus luchuensis Mayr,3.2,M
+Cedrus deodara,2.4,C
+Cedrus deodara,2.4,C
+Keteleeria davidiana Beiss.,4.1,M
+Sciadopitys verticillata,1.8,C
+Cryptomeria japonica,2.4,C
+Cryptomeria japonica,1.8,C
+Cunninghamia lanceolata,1.6,M
+Metasequoia glyptostroboides Hu et Cheng,2.4,C
+Sequoia sempervirens,2.6,M
+Taxodium distichum Rich.,2.8,M
+Thuja standishii Carr.,1.2,M
+Thuja occidentalis Linn.,1,M
+Thuja occidentalis Linn.,1.4,M
+Platycladus orientalis,1.4,M
+Platycladus orientalis,1.1,M
+Thujopsis dolobrata,1.9,M
+Chamaecyparis obtusa,1.5,M
+Chamaecyparis obtusa,1.7,M
+Chamaecyparis obtusa,0.8,M
+Chamaecyparis obtusa,0.9,M
+Chamaecyparis pisifera,0.5,M
+Chamaecyparis pisifera,1,M
+Chamaecyparis pisifera,1.1,M
+Chamaecyparis pisifera,1.2,M
+Chamaecyparis lawsoniana,1.1,M
+Cupressus macrocarpa Hart.,1.8,C
+Juniperus conferta,0.6,C
+Juniperus taxifolia Hook.,0.4,C
+Juniperus rigida,0.7,C
+Juniperus sabina,1.8,C
+Juniperus chinensis var. pyramidalis Beiss,0.6,C
+Juniperus chinensis var. sargentii,0.7,C
+Juniperus procumbens,0.6,C
+Sabina virginiana Antoine,1.2,C
+Selaginella selaginoides,0.01,
+Eterolobium cyclocarpum,2.5,C
+Eterolobium cyclocarpum,1.5,C
+Endospermum diadenum,2.3,C
+Fagraea racemosa,1.2,C
+Pinus edulis,2.13,C
+Pinus edulis,7.62,C
+Pinus edulis,15.24,C
+Pinus edulis,18.29,C
+Pinus edulis,21.34,C
+Pinus edulis,33.53,C
+Artemeisia tridentata,2.5,C
+Chrysothamnus nauseosus,2.5,C
+Purshia tridentata,3,C
+Hesperostipa comata,1.6,C
+Salsola tragus,2.09,C
+Ambrosia acanthicarpa,1.8,C
+Phragmites australis,0.7,Wl
+Miscanthus sinensis,0.25,Wl
+Menyanthes trifoliata,0.3,Wl
+Lobelia sessilifolia,0.15,Wl
+Hydrangea paniculata,0.2,Wl
+Ilex crenata,0.18,Wl
+Pinus densiflora,0.13,Wl
+Phragmites australis,2.5,Wl
+Menyanthes trifoliata,1.2,Wl
+Iris laevigata,0.3,Wl
+Bidens frondosa,0.05,Wl
+Isachne globosa,0.15,Wl
+Crataegus songorica C. Koch,4,F
+Crataegus songorica C. Koch,6.4,F
+Agrostis halli,0.7,C
+Festuca rubra,0.7,C
+Avena barbata,0.5,C
+Nassella pulchra,0.7,C
+Brachypodium distachyon,0.5,C
+Jatropha curcas,1.4,F
+Fagus crenata Blume,0.25,M
+Fagus crenata Blume,1.5,M
+Fagus crenata Blume,0.4,M
+Pseudotsuga menziesii,0.8,C
+Aloe littoralis,0.4,
+Commiphora saxicola,0.35,
+Acanthosicyos horrida,4.75,
+Eucalyptus alba x hybrids,6,C
+Eucalyptus grandis,12,M
+Eucalyptus grandis,11,F
+Leucadendron laureolum,0.6,
+Burkea africana,0.9,
+Celtis mildbraedii,0.6,
+Piptadeniastrum africanum,0.7,
+Carapa procera,0.6,
+Bouteloua gracilis,0.92,M
+Bouteloua gracilis,1.1,C
+Gutierrezia sarothrae,1.05,M
+Gutierrezia sarothrae,2.05,C
+Atriplex canescens,2.03,C
+Crossopteryx febrifuga,2,C
+Hyparrhenia diplandra,1.7,C
+Quercus wislizenii,5.88,
+Quercus kelloggii,11.31,
+Quercus wislizenii,20.39,
+Quercus wislizenii,14.94,
+Quercus wislizenii,15.45,
+Eryngium campestre,4.3,M
+Anthyllis vulneraria,1.7,
+Astragalus denudatus,1.5,
+Leontodon tuberosus,0.75,
+Chondrilla juncea,2.4,
+Trifolium trichocephalum,1.25,
+Carum caucasicum,1.1,
+Onosma arenarium,1.3,C
+Primula vulgaris,0.21,Wl
+Dactylorhiza majalis,0.09,Wl
+Calluna vulgaris,0.3,
+Carlina acaulis,1.23,
+Carlina acaulis,0.66,
+Avena versicolor,0.3,
+Potentilla aurea,0.55,
+Picea mariana,0.6,Wl
+Picea mariana,0.3,Wl
+Picea mariana,0.2,Wl
+Picea mariana,0.3,Wl
+Larix laricina,0.6,Wl
+Larix laricina,0.4,Wl
+Larix laricina,0.3,Wl
+Larix laricina,0.3,Wl
+Grayia spinosa,2.15,M
+Artemesia tridentata,2.15,M
+Tamarix taklamakanensis,1.4,C
+Grevillea robusta,3,F
+Senna spectabilis,3,F
+Zea mays,1.6,F
+Quercus ilex L.,0.6,F
+Banksia hookeriarra,8,C
+Acer rubrum,3.5,C
+Ziziphus jujube,10,C
+Sequoia giganteum,1.83,
+Mercurialis perennis,0.15,F
+Mercurialis perennis,0.1,F
+Carex nebrascensis,0.4,
+Carex nebrascensis,0.6,
+Carex nebrascensis,0.8,
+Thuja occidentalis,0.35,C
+Pseudotsuga menziesii,1.51,
+Pinus resinosa,1.33,M
+Pinus resinosa,1.19,M
+Pinus resinosa,1.97,C
+Pinus resinosa,1.64,C
+Pinus resinosa,1.51,C
+Pinus resinosa,1.79,C
+Pinus resinosa,1.84,C
+Pinus resinosa,1.43,C
+Pinus resinosa,1.4,C
+Pinus resinosa,1.6,C
+Pinus resinosa,1.31,C
+Pinus resinosa,1.51,C
+Pinus resinosa,1.12,C
+Pinus resinosa,0.99,C
+Pinus resinosa,1.2,C
+Pinus resinosa,1.36,C
+Pinus resinosa,1.29,C
+Pinus resinosa,1.35,C
+Pinus rigida,2.74,
+Pinus rigida,1.52,
+Pinus rigida,2,
+Pinus rigida,1.52,
+Pinus echinata,2.74,
+Pinus rigida,1.07,
+Allenrolfea occidentalis,0.61,
+Sarcobatus vermiculatus,1.09,
+Medicago sativa,2.74,
+Quercus suber L.,2.5,
+Quercus suber L.,2,
+Milicia excelsa,1.1,
+Milicia excelsa,3.5,
+Melaleuca halmaturorum,0.5,
+Schaefferia cuneifolia,1.4,M
+Celtis pallida Torr.,2,M
+Prosopis glandulosa,2.1,M
+Zanthoxylum fagara,1.6,M
+Guaiacum angustifolium,1.2,C
+Ziziphus obtusifolia,2,C
+Celtis pallida Torr.,1.6,C
+Prosopis glandulosa,2.4,C
+Zanthoxylum fagara,1.4,C
+,1.8,M
+Dipterocarpus forest,32,M
+Dipterocarpus forest,26,M
+Prosopis glandulosa,2.25,C
+Bridelia ferruginea,1,C
+Bridelia ferruginea,1.2,C
+Hyparrhenia spp.,0.75,C
+Hyparrhenia spp.,0.8,C
+Nothofagus dombeyi,0.8,M
+Populus euramericana cv. I214,3,C
+Populus tremuloides Michx,0.111,F
+Corylus cornuta Marsh,0.081,F
+Prunus mahaleb,13,F
+Leguminosae sp.,12,F
+Carex melanantha,0.55,M
+Cobresia capilliformis,0.16,M
+Cotoneaster megalocarpa,3.5,M
+Acer semenovii,5.1,M
+Armeniaca vulgaris,3.6,M
+Poa pratensis,0.42,M
+Zea mays L.,1.4,F
+Zea mays L.,1.4,F
+Picea sitchensis,0.56,Wl
+Phalaris aquatica var. Atlas PG,1.49,F
+Phalaris aquatica var. Australian,1.5,F
+Phalaris aquatica var. Holdfast,1.12,F
+Phalaris aquatica var. Landmaster,1.47,F
+Dactylis glomerata var. Currie,0.93,F
+Dactylis glomerata var. Porto,0.9,F
+Festuca arundinacea var. AU Triumph,1.39,F
+Festuca arundinacea var. Fraydo,1.28,F
+Festuca arundinacea var. Resolute MaxP,1.43,F
+Lolium perenne var. Avalon,1.24,F
+Lolium perenne var. AVH 4,1.05,F
+Thinopymm ponticum,1.32,F
+Bromus stamineus,1.46,F
+Plantago lanceolata,1.06,F
+Microlaena stipoides,1.12,F
+Pennisetum clandestinum,2.01,F
+Phalaris aquatica,0.94,C
+Dactylis glomerata,0.87,C
+Festuca arundinacea,0.92,C
+Lolium perenne,0.76,C
+Thinopymm ponticum,0.75,C
+Bromus stamineus,0.82,C
+Plantago lanceolata,0.88,C
+Microlaena stipoides,0.71,C
+Pennisetum clandestinum,1.27,C
+Radermachera sinica,0.62,M
+Alchornea trewioides,0.37,M
+Radermachera sinica,1.17,C
+Alchornea trewioides,0.35,C
+Radermachera sinica,0.68,M
+Alchornea trewioides,0.26,M
+Sindora coriacea,4,F
+Arbutus unedo,7,C
+Arbutus unedo,9,C
+Arbutus unedo,7.5,C
+,8,C
+,8.5,C
+Quercus ilex,7,C
+Arbutus unedo,4.7,C
+,11,C
+Quercus ilex,12,F
+Quercus ilex,11,F
+Arbutus unedo,10,C
+Quercus ilex,3.7,C
+Pachycereus pringlei,1.15,
+Prosopis Glandulosa,6,M
+Tamarix ramosissima,0.34,C
+Tamarix ramosissima,1.45,C
+Tamarix ramosissima,0.85,C
+Tamarix ramosissima,1.25,C
+Fouquieria splendens,0.42,C
+Eucalyptus pileata,28,C
+Ziziphus mucronata,8,C
+Acacia fleckii,28,C
+Dichrostachys cinerea,20,C
+Terminalia sericea,15,C
+Boscia albitrunca,20,C
+Acacia fleckii,15,C
+Acacia fleckii,15,C
+Acacia erioloba,35,C
+Boscia albitrunca,35,C
+Acacia erioloba,55,C
+Acacia erioloba,40,C
+Boscia albitrunca,40,C
+Acacia erioloba,70,C
+Boscia albitrunca,70,C
+Acacia erioloba,47,C
+Securidaca longipedunculata,60,C
+Securidaca longipedunculata,40,C
+Securidaca longipedunculata,30,C
+Acacia erioloba,20,C
+Dipterocarpus costatus,10,C
+semi-closed canopy forest,5.75,F
+Poaceae spp.,4,F
+Quercus robur,0.9,Wl
+Quercus robur,0.8,Wl
+Quercus robur,0.6,M
+Quercus robur,0.5,M
+Quercus robur,0.4,M
+Cecropia distachya Huber,0.3,M
+Cecropia sciadophylla,0.17,M
+Cecropia sciadophylla,0.26,M
+Vismia macrophylla,0.28,M
+Vismia japurensis,0.35,M
+Vismia glaziovii,0.55,M
+Miconia poeppigii,0.46,M
+Goupia glabra,0.7,M
+Clathrotropis macrocarpa Ducke,1.08,M
+Brosimum rubescens,1.5,M
+Artemesia tridentata,0.55,C
+Stipa tenuis,0.6,C
+Piptochaetium napostaense,0.6,C
+Condalia microphylla,0.55,C
+Pinus Radiata,4.57,M
+Cupressus macrocarpa,4.57,M
+Arundinaria alpina,3.96,M
+Prosopis juliflora,53,C
+Caesalpinia pyramidalis,0.78,F
+Piptadenia obliqua,0.67,F
+Mimosa tenuiflora,0.36,C
+Pinus contorta,1.83,C
+Pinus contorta,0.91,C
+Aristida pungens,0.08,C
+Hordeum murinum L.,0.1,C
+Picea mariana,0.07,F
+Picea Canadensis,0.8,F
+Salix sp.,0.8,F
+Picea mariana,0.12,C
+Pinus Banksiana,0.8,C
+Pinus Banksiana,0.5,C
+Larix laricina,0.1,C
+Betula papyrifera,0.3,C
+Picea Canadensis,0.45,C
+Populus balsamifera,0.42,C
+Pinus strobus L.,0.4,C
+Ficus pertusa,2,F
+Cordia dodecandra,3,C
+Enterolobium cyclocarpum,3,C
+Brosimum alicastrum,3,C
+Talisia oliviformis,3,C
+Ficus cotinifolia,3,C
+Enterolobium cyclocarpum,3,C
+Brosimum alicastrum,3,C
+Ficus cotinifolia,3,C
+Enterolobium cyclocarpum,3,C
+Spondias purpurea,3,C
+Cordia dodecandra,3,C
+Brosimum alicastrum,3,C
+Talisia oliviformis,3,C
+Ficus cotinifolia,3,C
+Eucalyptus tereticornis,4.4,C
+Picea abies,1.5,M
+Picea abies,1.2,M
+Picea abies,1.38,M
+Picea sitchensis,0.25,Wl
+Pinus contorta,0.45,Wl
+Picea sitchensis,0.48,Wl
+Picea sitchensis,0.58,Wl
+Picea sitchensis,0.63,Wl
+Stryphnodendron Barbatimao,4,M
+Echinolaena sp.,1.5,M
+Vernonia grandiflora,0.45,M
+Cochlospermum insigne,1.4,M
+Attalea exigua Drude,0.6,M
+Acanthococos sp.,0.55,M
+Capparis yco Mart.,5,
+Quercus douglasii,0.53,M
+Pinus elliottii Engelm. var. elliottii,3.3,C
+Serenoa repens,2.05,C
+Pseudotsuga menziesii,1.4,C
+Artemisia tridentata,2.5,C
+Chrysothamnus viscidiflorus,2,C
+Leymus cinereus,2,C
+Elymus elymoides,1,M
+Oryzopsis hymenoides,1.5,C
+Agropyron cristatum,1.5,C
+Davilla kunthii,10,F
+Artemeisia tridentata,2.5,C
+Pinus taeda,4,F
+Acer saccharum,1,F
+Fraxinus americana L.,2,F
+Juniperus sp.,1,F
+Acer saccharum,0.6,F
+Fraxinus americana L.,1.1,F
+Lycopodium complanatum Var. Flabelliforme Fernald,0.13,
+Eucalyptus polybractea,8,C
+Eucalyptus polybractea,2,C
+Eucalyptus polybractea,5,M
+Eucalyptus loxophleba ssp. Lissophloia,2,M
+Eucalyptus kochii ssp. Plenissima,9,M
+Eucalyptus astringens,4,M
+Eucalyptus horistes,10,M
+Eucalyptus kochii ssp. Plenissima,8,M
+Eucalyptus kochii ssp. Plenissima,7.75,F
+Nothofagus sp.,0.5,M
+Podocarpaceae,0.5,M
+Populus trichocarpa,0.65,
+Populus deltoides,1.35,
+Populus balsamifera,1.25,
+Populus balsamifera,0.9,
+Picea glauca,0.4,
+Populus tremuloides,0.3,
+Populus angustifolia,1.4,
+Populus angustifolia,0.75,
+Populus angustifolia,1.15,
+Pinus jeffreyi,3.75,C
+Arctostaphylos patula,2,C
+Isoetes eludens,0.03,
+Ochna pulchra,2.2,C
+Burkea africana,2.2,C
+Terminalia sericea,2.2,C
+Quercus prinus,2,C
+Pinus rigida,0.7,C
+Pinus rigida,3,C
+Pinus rigida,1.5,C
+,0.65,F
+,0.55,F
+,0.6,C
+,0.6,C
+,0.6,C
+Annona dioica A.St.-Hil,0,C
+Casearia sylvestris Sw.,1,C
+Cecropia pachystachya Trécul,1.2,C
+Curatella americana L.,0.8,C
+Dipteryx alata Vogel,1,C
+Mouriri elliptica Mart.,0.7,C
+Sapium haematospermum Müll.Arg.,1,C
+Simarouba versicolorA.St.-Hil.,1,C
+Tabebuia aurea Benth. & Hook.f.,1.2,C
+Zanthoxylum rigidum Humb. & Bonpl.,1.4,C
+Annona dioica,0.8,C
+Bowdichia virgilioides Kunth,1,C
+Byrsonima cydoniifolia Mart.,0.6,C
+Caryocar brasiliense Cambess.,0.7,C
+Diospyros hispida A.DC.,0.5,C
+Mouriri elliptica,0.6,C
+Stryphnodendron adstringens,0.7,C
+Tabebuia aurea,1.1,C
+Thuja occidentalis,0.27,M
+Thuja occidentalis,0.54,C
+Fagus sylvatica,1,F
+Picea abies,0.8,F
+Fagus sylvatica,1,M
+Picea abies,1,M
+Picea glauca,1.12,C
+Abies balsamea,1.35,C
+Picea mariana,0.53,C
+Picea glauca,0.56,C
+Abies balsamea,0.56,C
+Picea mariana,0.71,C
+Abies balsamea,1.5,C
+Picea glauca,0.84,C
+Abies balsamea,0.97,C
+Abies balsamea,0.84,C
+Picea glauca,0.94,C
+Picea glauca,0.84,C
+Abies balsamea,0.97,C
+Picea glauca,1.02,C
+Abies balsamea,1.32,C
+Picea mariana,1.22,C
+Picea glauca,0.91,C
+Abies balsamea,0.94,C
+Picea mariana,0.51,C
+Picea mariana,0.64,M
+Abies balsamea,2.41,C
+Picea mariana,0.66,C
+Picea mariana,0.99,C
+Picea mariana,0.51,C
+Picea mariana,0.43,C
+Abies balsamea,0.89,C
+Picea mariana,0.36,C
+Abies balsamea,0.61,C
+Picea mariana,0.41,C
+Picea glauca,1.88,C
+Abies balsamea,3,C
+Picea glauca,1.02,C
+Abies balsamea,0.69,C
+Abies balsamea,0.71,C
+Picea mariana,0.33,C
+Abies balsamea,0.69,C
+Picea mariana,0.76,F
+Picea mariana,0.66,M
+Picea glauca,1.47,M
+Abies balsamea,1.4,M
+Picea mariana,0.56,M
+Picea glauca,1.73,M
+Abies balsamea,1.07,M
+Picea mariana,0.53,M
+Picea mariana,1.19,M
+Picea glauca,1.78,M
+Abies balsamea,1.02,M
+Picea mariana,0.41,C
+Pinus elliottii,2.3,C
+Pinus elliottii,2.6,C
+Nothofagus pumilo,1.75,M
+Nothofagus antarctica,2.15,C
+Festuca pallescens,1.8,C
+Stipa speciosa,2.8,C
+Nassauvia glomerulosa,2.8,C
+Linaria haelava,0.05,C
+Erucaria boveana,0.07,C
+Aizoon hispanicum,0.03,C
+Suaeda asphaltica,0.09,C
+Zygophyllum dumosum,1.68,C
+Haplophyllum tuberculatum,0.3,C
+Heliotropium rotundifolium,0.3,C
+Reseda muricata,0.2,C
+Salsola rigida,0.35,C
+Retama raetam,1.2,C
+Atriplex Halimus,0.54,C
+Acer saccharum,1.22,M
+Quercus borealis maxima,1.24,M
+Acer saccharum,1.12,M
+Quercus borealis maxima,1.17,M
+Acer saccharum,1.07,M
+Acer saccharum,1.17,M
+Acer saccharum,0.91,M
+Acer saccharum,0.99,M
+Acer saccharum,1.04,M
+Acer saccharum,1.04,M
+Acacia seyal,1.5,F
+Annual grass,0.33,F
+Lannea humilis,0.6,C
+Annual grass,0.2,C
+Acacia hockii,2,C
+Annual grass,0.3,C
+Populus fremontii,1.4,C
+Populus fremontii,0.65,C
+Populus fremontii,0.2,C
+Dupontia fisheri,0.27,Wl
+Carex aquatilis,0.25,Wl
+Eriophorum angustifolium,0.33,Wl
+Sparganium eurycarpum,0.12,Wl
+Polygonum muhlenbergii,0.1,Wl
+Sagittaria latifolia,0.15,Wl
+Phragmites australis,0.25,Wl
+Ranunculus delphinifolium,0.03,Wl
+Sium ciculaefolium,0.07,Wl
+Nuphar advena,0.25,Wl
+Nymphaea odorata,0.25,Wl
+Galium trifidum,0.02,Wl
+Boltonia asteroides,0.06,Wl
+Penthorum sedoides,0.01,Wl
+Proserpinaca palustris,0.02,Wl
+Ludwigia palustris,0.01,Wl
+Callitriche palustris L.,0.01,Wl
+Lilium canadense,0.1,Wl
+Asclepia incarnata,0.08,Wl
+Poa pratensis,0.07,Wl
+Agrostis alba,0.04,Wl
+Acalypha virginica,0.02,Wl
+Eleocharis palustris,0.03,Wl
+Lycopus americanus,0.03,Wl
+Viola conspersa,0.07,Wl
+Viola cucullata,0.06,Wl
+Iris versicolor,0.1,Wl
+Stipagrostis brevifolia,0.95,C
+Ruschia robusta,0.55,C
+Leipoldtia pauciflora,0.2,C
+Anacardium excelsum,4.3,C
+Pteridium aquilinum,0.7,C
+Rubus ulmifolius,1.1,C
+Cistus crispus L.,0.44,C
+Cistus salvifolius,0.47,C
+Crataegus monogyna,0.73,C
+Daphne gnidium,1.52,C
+Erica lusitanica,1.5,C
+Erica scoparia,0.9,C
+Lavandula stoechas,0.31,C
+Myrtus communis,1.1,C
+Pistacia lentiscus,0.5,C
+Ulex jussiaei,1.5,C
+Arbutus unedo,0.3,C
+Chamaespartium tridentatum,0.4,C
+Cistus ladanifer L.,0.1,C
+Cytisus multiflorus,0.6,C
+Cytisus striatus,0.35,C
+Erica australis,0.35,C
+Erica umbellata,0.2,C
+Quercus pyrenaica,0.6,C
+Carpinus betulus,1.3,M
+Atriplex nummularia,0.5,M
+Atriplex nummularia,0.5,C
+Atriplex nummularia,0.5,C
+Atriplex nummularia,0.5,C
+Kochia prostrata,6.36,M
+Kochia prostrata,4.1,M
+Clusia sp.,0.45,Wl
+Weinmannia loxensis,0.65,Wl
+Styrax foveolaria,0.55,Wl
+Graffenrieda emarginata,0.9,M
+Clethra revoluta,1,M
+Vismia tomentosa,1.05,M
+Oryza sativa L.,6,C
+Gossypium arboreum,7,C
+Manihot esculenta,7,C
+Passiflora edulis,2.5,C
+Piper nigrum,2.5,C
+Balsamorhiza sagittata,1.8,C
+Achillea lanulosa,1.07,C
+Agropyron inerme -Pseudoroegneria spicata,1.05,C
+Aster spp.,1.4,C
+Phlox longifolia,0.5,C
+Potentilla blaschkeana,0.75,C
+Lupinus spp,2.4,C
+Clematis hirsutissima Pursh,1.4,F
+Hackelia floribunda,1.4,F
+Astragalus purshii,1.4,F
+Stenotus lanuginosus,2,C
+Crepis spp,2,C
+Viola purpurea,2,C
+Ratibida pinnata,1.45,M
+Helianthus scaberrimus,0.88,M
+Silphium terebinthinaceum,1.4,M
+Silphium integrifolium Michx.,0.82,M
+Stipa spartea,1.17,M
+Carex varia,1.03,M
+Andropogon furcatus,1.18,M
+Solidago rigida,1.02,M
+Aster multiflorus,0.72,M
+Andropogon furcatus,1.13,M
+Solidago rigida,1.4,M
+Spartina michauxiana,1.59,F
+Ratibida pinnata,0.75,F
+Andropogon furcatus,1.77,F
+Sporobolus brevifolius,0.49,C
+Andropogon scoparius,1.12,C
+Andropogon furcatus,1.08,C
+Liatris scariosa,0.35,C
+Rosa humilis,0.8,C
+Opuntia rafinesquii,0.12,C
+Chrysothamnus nauseosus,1.55,C
+Chrysothamnus nauseosus,1.55,C
+Quercus macrocarpa,4,M
+Quercus macrocarpa,4.9,M
+Juniperus virginiana,2.7,C
+Juniperus virginiana,2.7,C
+Celtis occidentalis,2.7,M
+Gleditsia triacanthos,3.1,M
+Robinia pseudoacacia,2.4,M
+Crataegus mollis,1.5,M
+Rhus glabra,2.1,M
+Juglans nigra,3.4,M
+Morus rubra,2.4,M
+Morus alba,2.3,M
+Populus deltoides,0.8,C
+Populus deltoides,3.8,C
+Populus deltoides,3.7,M
+Fraxinus pennsylvanica,2.7,M
+Fraxinus pennsylvanica,2.7,C
+Fraxinus americana,1.8,M
+Ulmus pumila,2.9,C
+Ulmus pumila,2,C
+Ulmus pumila,4.9,C
+Platanus occidentalis,2.7,M
+Acer saccharinum,3.4,M
+Malus domestica,3.4,M
+Zanthoxylum americanum,1.6,M
+Ulmus americana,2.2,C
+Ulmus americana,1.8,M
+Ulmus rubra,2.1,M
+Acer negundo,3.7,M
+Acer negundo,2,F
+Salix amygdaloides,4.3,M
+Salix amygdaloides,0.8,C
+Salix nigra,2.4,C
+Cercis canadensis,1.8,M
+Tilia americana,1.7,M
+Aesculus glabra,1.3,M
+Prunus americana,1.5,C
+Prunus virginiana,1.5,M
+Prunus armeniaca,2.3,M
+Prunus sarotina,1.2,M
+Ostrya virginiana,0.9,M
+Cornus alternifolia L.f.,0.9,C
+Tectona grandis,0.6,C
+Amorpha canescens,1.98,C
+Calamovilfa longifolia,2.04,C
+Equisetum fluviatile,2.24,C
+Salix alba,2.24,C
+Quercus alba,3,M
+Picea mariana,0.1,M
+Picea mariana,0.3,M
+Picea mariana,0.1,M
+Larix occidentalis,0.3,M
+Picea glauca,0.35,C
+Picea glauca,0.5,M
+Populus tremuloides,0.5,M
+Populus tremuloides,0.5,M
+Populus tremuloides,1.5,C
+Populus tremuloides,1.5,C
+Pinus banksiana,0.3,C
+Pinus banksiana,1.2,C
+Pinus banksiana,1.1,C
+Pinus banksiana,1.5,C
+Pinus banksiana,2,C
+Abies balsamea,1.3,M
+Abies balsamea,1.3,F
+Artemisia tridentata ssp. vaseyana,2.43,C
+Artemisia tridentata ssp. vaseyana,2.13,C
+Artemisia tridentata ssp. wyomingensis,1.52,C
+Eucalyptus globulus,3,C
+Eucalyptus globulus,1.5,F
+Eucalyptus globulus,3,C
+Pinus radiata,5,C
+Pinus radiata,2.5,C
+Pinus radiata,2.5,F
+Pinus pinaster,1.5,F
+Pinus pinaster,3,C
+Pinus pinaster,1.5,F
+Pinus pinaster,2.5,F
+Pinus pinaster,2,F
+Eucalyptus kochii,2,F
+Eucalyptus kochii,2,F
+Eucalyptus kochii,5,C
+Carex nebrascensis,0.65,
+Malus domestica,3.05,C
+Malus domestica,1.83,M
+Malus domestica,1.52,M
+Imperata cylindrica,1.8,C
+Imperata cylindrica,1.8,C
+Acacia mangium,5,C
+Elaeis guineensis,5,C
+Elaeis guineensis,5,C
+Quercus alba,1.5,M
+Baikiaea plurijuga,3.3,C
+Baikiaea plurijuga,4.1,C
+Pterocarpus lucens,5.3,C
+Pterocarpus lucens,4.1,C
+Baphia massaiensis,2,C
+Baphia massaiensis,3,C
+Brachystegia boehmii,3.3,F
+Brachystegia boehmii,2.2,F
+Brachystegia floribunda,3.1,F
+Brachystegia floribunda,2.9,F
+Brachystegia floribunda,2,F
+Brachystegia floribunda,3.4,F
+Brachystegia longifolia,2.95,C
+Brachystegia longifolia,3.2,F
+Brachystegia longifolia,2.4,F
+Brachystegia longifolia,3.2,C
+Brachystegia longifolia,2.3,C
+Brachystegia longifolia,5.3,C
+Brachystegia spiciformis,3.7,F
+Brachystegia spiciformis,2,F
+Brachystegia spiciformis,2.9,F
+Brachystegia spiciformis,4.3,F
+Brachystegia spiciformis,3.8,C
+Brachystegia spiciformis,5.5,C
+Brachystegia utilis,1.8,F
+Brachystegia utilis,2.2,F
+Brachystegia utilis,4,F
+Dialium engleranum,2,C
+Erythrophleum africanum,1.5,F
+Erythrophleum africanum,1.7,F
+Erythrophleum africanum,2.4,C
+Erythrophleum africanum,1.9,C
+Erythrophleum africanum,3.1,C
+Faurea saligna,1.5,F
+Hymenocardia acida,1.2,F
+Isoberlinia angolensis,1.6,F
+Isoberlinia angolensis,3.4,C
+Isoberlinia angolensis,3.4,F
+Isoberlinia angolensis,2.7,F
+Isoberlinia angolensis,3.7,C
+Julbernardia paniculata,1.3,F
+Julbernardia paniculata,2,F
+Julbernardia paniculata,3.7,F
+Julbernardia paniculata,4.6,C
+Julbernardia paniculata,3.7,F
+Marquesia macroura,1.4,F
+Marquesia macroura,3.8,C
+Monotes africanus,2.3,F
+Monotes africanus,1.8,F
+Monotes africanus,2.7,C
+Monotes africanus,1.1,F
+Parinari curatellifolia,2.9,F
+Parinari curatellifolia,1.8,F
+Parinari curatellifolia,2,C
+Parinari curatellifolia,1.8,F
+Pericopsis angolensis,1.5,C
+Pericopsis angolensis,2,F
+Pseudolachnostylis maprouneifolia,1.2,F
+Pseudolachnostylis maprouneifolia,1.4,C
+Pseudolachnostylis maprouneifolia,1.9,C
+Pseudolachnostylis maprouneifolia,2,C
+Strychnos innocua,2.5,C
+Strychnos innocua,0.9,F
+Strychnos innocua,2.5,F
+Strychnos pungens,1.3,C
+Syzygium guineense subsp. afromontanum,1.9,F
+Syzygium guineense subsp. afromontanum,3.1,C
+Syzygium guineense subsp. macrocarpum,1.6,F
+Syzygium guineense subsp. macrocarpum,1.8,C
+Syzygium guineense subsp. macrocarpum,1.4,C
+Uapaca kirkiana,0.8,F
+Uapaca kirkiana,1.4,F
+Uapaca kirkiana,1.4,F
+Uapaca nitida,1.5,F
+Acacia amythethophylla,3.3,F
+Acacia gerrardii,3.3,F
+Acacia goetzei ssp. goetzei,1.7,F
+Acacia goetzei ssp. goetzei,2.5,F
+Acacia polyacantha,2.9,F
+Acacia sieberiana,3.6,F
+Albizia amara,2.1,F
+Albizia versicolor,2.8,F
+Azanza garckeana,2.3,M
+Combretum adenogonium,1.5,F
+Dichrostachys cinerea,4,F
+Diospyros lycioides,2.8,F
+Dombeya sp.,2.8,M
+Faidherbia albida,3.3,F
+Faidherbia albida,2.9,F
+Flueggea virosa,2.9,F
+Flueggea virosa,1.5,M
+Lantana camara,1.9,F
+Philenoptera violacea,3.4,M
+Markhamia obtusifolia,0.8,F
+Phyllanthus muelleranus,0.7,M
+Phyllanthus muelleranus,2.4,M
+Piliostigma thonningii,2.5,F
+Steganotaenia araliacea,1.6,M
+Terminalia mollis,2.1,M
+Triumfetta amuletum,1.9,M
+Ziziphus abyssinica,2.2,C
+Colophospermum mopane,1.6,C
+Combretum apiculatum,1.1,C
+Commiphora mollis,0.9,C
+Commiphora mossambicensis,0.7,C
+Grewia monticola,1.1,C
+Kirkia acuminata,1.1,C
+Terminalia sericea,2,C
+Bauhinia petersiana ssp macrantha,1,M
+Burkea africana,0.95,M
+Combretum apiculatum,1.3,M
+Combretum collinum Fresen.,2.6,M
+Combretum zeyheri,1.2,M
+Commiphora glandulosa Schinz,0.7,M
+Dichrostachys cinerea,1.9,M
+Dombeya rotundifolia,1.1,M
+Grewia monticola,0.9,M
+Grawia sp.,0.8,M
+Ochna pulchra,1.2,M
+Pseudolachnostylis maprouneifolia,1.6,M
+Schinziophyton rautanenii,1.4,M
+Strychnos cocculoides,2,M
+Strychnos pungens,3.1,M
+Terminalia sericea,1.6,M
+Brachystegia boehmii,1.6,F
+Brachystegia spiciformis,1.9,F
+Baikiaea plurijuga,1.4,C
+Bauhinia petersiana ssp macrantha,1.4,C
+Commiphora glandulosa Schinz,1.3,C
+Commiphora mossambicensis,0.7,C
+Erythrophleum africanum,1.8,C
+Guibourtia coleosperma,1.6,C
+Pterocarpus angolensis,1.4,C
+Schinziophyton rautanenii,1.7,C
+Combretum hereroense,0.8,F
+Piliostigma thonningii,1.5,F
+Acacia nigrescens,1.2,C
+Brachystegia spiciformis,2.9,C
+Burkea africana,0.7,C
+Colophospermum mopane,2.8,C
+Combretum apiculatum,1.7,C
+Combretum hereroense,1.9,C
+Combretum imberbe,2.5,C
+Commiphora glandulosa Schinz,1.3,C
+Erythrophleum africanum,1.4,C
+Peltophorum africanum,1.6,C
+Piliostigma thonningii,2,C
+Terminalia sericea,2,C
+Terminalia sericea,1.5,C
+Terminalia sericea,1.5,C
+Baikiaea plurijuga,1.1,C
+Brachystegia spiciformis,1.1,C
+Burkea africana,1.2,C
+Diplorhynchus condylocarpon,0.8,C
+Erythrophleum africanum,0.9,C
+Baikiaea plurijuga,1.5,C
+Brachystegia spiciformis,3,C
+Julbernardia globiflora,1.7,C
+Pterocarpus angolensis,1.8,C
+Schinziophyton rautanenii,1.5,C
+Brachystegia boehmii,1.1,C
+Colophospermum mopane,1.3,C
+Colophospermum mopane,1.1,F
+Acacia nigrescens,0.7,F
+Acacia robusta ssp clavigera,0.9,F
+Balanites aegyptiaca,1.1,F
+Colophospermum mopane,0.6,F
+Combretum celastroides Welw. ex M.A.Lawson,0.4,C
+Combretum elaeagnoides Klotzsch,0.6,C
+Entandrophragma caudatum,0.5,C
+Brachystegia boehmii,0.7,C
+Brachystegia boehmii,2,C
+Julbernardia globiflora,0.6,C
+Pericopsis angolensis,2,C
+Pseudolachnostylis maprouneifolia,0.9,C
+Acacia goetzei ssp. goetzei,1,C
+Brachystegia boehmii,1.1,C
+Brachystegia boehmii,1.2,C
+Pericopsis angolensis,0.7,C
+Acacia eriocarpa,0.5,C
+Baphia massaiensis,0.65,C
+Combretum collinum Fresen.,0.9,C
+Combretum elaeagnoides,0.6,C
+Commiphora ugogensis,1.2,C
+Terminalia brachystemma,0.6,C
+Acacia nigrescens,0.8,C
+Acacia tortillis ssp spirocarpa,1.5,C
+Lantana camara,1,C
+Hippophae rhamnoides L.,2.05,
+Pinus echinata Miller,1.12,M
+Pinus echinata Miller,1.27,C
+Pinus echinata Miller,1.19,C
+Beilschmeidia sp.,1.85,M
+Larix sibirica,1.85,
+Larix sibirica,1.36,
+Pinus sylvestris,1,
+Betula pendula,0.8,
+Larix sibirica,0.8,F
+Anabasis articulata,3.5,C
+Cornulaca monacantha Delile,2.4,C
+Thymelaea hirsuta,3.5,C
+Moltkiopsis ciliata,0.6,C
+Alhagi sparsifolia,1.7,C
+Karelinia caspia,2.2,C
+Picea glauca,1.04,C
+Picea glauca,0.4,C
+Picea glauca,0.88,M
+Picea glauca,0.24,M
+Picea glauca,0.52,M
+Picea glauca,0.18,C
+Picea glauca,0.18,M
+Picea glauca,0.21,F
+Picea glauca,1.01,C
+Picea glauca,0.27,C
+Picea glauca,0.3,C
+Picea glauca,0.24,F
+Acamptopappus shockleyi,0.4,
+Larrea tridentata,0.5,
+Lycium andersonii,0.5,
+Lycium pallidum,0.5,
+Ephedra nevadensis,0.5,
+Ambrosia dumosa,0.5,
+Krameria parvifolia,0.4,
+Atriplex canescens,0.6,
+Atriplex confertifolia,0.6,
+Eriophorum vaginatum L,0.34,
+Betula nana L.,0.23,
+Pinus radiata,1.73,C
+Lupinus ornatus,3.35,M
+Lupinus leucophyllus,1.65,M
+Astragalus -Phaca- arrectus,1.78,M
+Agropyron spicatum,1.46,M
+Festuca ovina ingrata,0.99,M
+Poa sandbergii,0.33,M
+Koeleria cristata,0.71,M
+Balsamorhiza sagittata,2.69,M
+Geranium vicosissimum,2.9,M
+Wyethia amplexicaulis,1.96,M
+Heuchera cylindrica var. glabella,1.8,M
+Lomatium dissectum,1.7,M
+Helianthella uniflora var. douglasii,1.65,M
+Pyrrocoma racemosa,3.35,M
+Lithospermum ruderale,1.91,M
+Geum triflorum var. ciliatum,1.68,M
+Sidalcea oregana,1.24,M
+Hieracium scouleri,2.36,M
+Potentilla blaschkeana,2.26,M
+Eriogonum heracleoides,1,M
+Rosa nutkana,2.44,M
+Iris missouriensis,1.17,M
+Berberis repens,3.05,M
+Lomatium grayi,1.52,M
+Polygonum majus,0.17,M
+Panicum virgatum,2.74,M
+Andropogon furcatus,2.08,M
+Andropogon scoparius,0.71,C
+Andropogon scoparius,1.65,F
+Andropogon nutans,1.5,F
+Stipa spartea,0.66,M
+Koeleria cristata,0.53,M
+Elymus canadensis,0.56,M
+Agropyron repen,2.44,M
+Sporobolus longifolius,1.02,M
+Aristida oligantha,1.02,F
+Bouteloua gracilis,1.17,C
+Liatris punctata,4.8,F
+Liatris punctata,2.03,F
+Solidago rigida,1.52,M
+Solidago canadensis,3.35,M
+Silphium laciniatum,4.17,M
+Amorpha canescens,2.29,M
+Helianthus rigidus,1.27,M
+Echinacea pallida,1.68,M
+Petalostemon candidus,1.73,M
+Vernonia baldwinii,3.51,M
+Brickellia eupatorioides,5.26,M
+Verbena stricta,1.22,M
+Grindelia squarrosa,1.85,M
+Glycyrrhiza lepidota,4.57,M
+Psoralea tenuiflora,1.83,M
+Psoralea argophylla,1.83,M
+Andropogon furcatus,2.82,M
+Echinacea pallida,2.44,M
+Lygodesmia juncea,6.4,M
+Lespedeza capitata,2.39,M
+Amorpha canescens,3.91,M
+Ceanothus ovatus,4.42,M
+Symphoricarpos vulgaris,1.65,M
+Rhus glabra,2.29,M
+Corylus americana,3.51,M
+Vitis vulpina,4.11,M
+Rosa arkansana,6.45,M
+Bouteloua gracilis,1.22,M
+Aristida purpurea,1.3,M
+Muhlenbergia gracillima,1.4,M
+Gutierrezia sarothrae,1.98,M
+Psoralea tenuiflora,3.71,M
+Artemisia frigida,2.36,M
+Argemone platyceras,3.66,M
+Yucca glauca,2.13,M
+Agropyron glaucum,2.13,M
+Carex pennsylvanica,0.91,M
+Andropogon scoparius,1.82,M
+Stipa comata,1.52,M
+Lithospermum linearifolium,3.03,M
+Lygodesmia juncea,1.73,M
+Oxytropis lambertii,2.44,M
+Dalea purpurea,1.98,M
+Petalostemon candidus,1.68,M
+Eriogonum jamesii,3.66,M
+Ratibida columnaris,0.64,M
+Senecio aureus oblanceolatus,0.94,M
+Asclepias verticillata pumila,1.21,M
+Opuntia camanchica,0.89,M
+Opuntia fragilis,0.38,M
+Redfieldia flexuosa,1.42,C
+Calamovilfa longifolia,1.52,C
+Andropogon hallii,0.69,C
+Muhlenbergia pungens,0.84,C
+Sporobolus cryptandrus,0.56,C
+Eriogonum microthecum,3.66,C
+Tradescantia virginiana,0.48,C
+Heliotropium convolvulaceum,0.64,C
+Dalea villosa,1.52,C
+Gilia longiflora,1.27,C
+Euphorbia petaloidea,0.686,C
+Psoralea lanceolata,3.05,C
+Ipomoea leptophylla,3.05,C
+Krynitzkia virgata,0.76,C
+Paronychia jamesii,0.76,C
+Aletes acaulis,0.76,C
+Apocynum androsremifolium,1.22,C
+Smilacina stellata,1.12,C
+Pachylophus caespitosa Raim.,1.14,C
+Thlaspi alpestre,0.38,C
+Mentzelia multiflora,0.56,C
+Eriogonum flavum,0.99,C
+Elymus triticoides,1.17,C
+Solidago oreophila,0.97,C
+Rubus deliciosus,0.91,C
+Besseya plantaginea,0.76,C
+Geranium caespitosum,0.94,C
+Calamagrostis purpurascens,0.81,C
+Koeleria macrantha,0.41,C
+Gilla aggregata,0.71,C
+Potentilla arguta glandulosa,1.37,C
+Frasera speciosa,0.76,C
+Aster porteri,0.76,C
+Smilacina stellata,0.56,C
+Chamaenerion angustifolium,0.46,C
+Chamaenerion angustifolium,1.22,C
+Quercus macrocarpa,4.57,M
+Pinus sylvestris var. mongolica,4.7,C
+Pinus sylvestris var. mongolica,2.7,C
+Eucalyptus tetrodonta,0.7,C
+Eucalyptus umbra,10,C
+Pinus resinosa,2.74,C
+Linnaea borealis L.,3,C
+Carex houghtonii Torr.,0.07,C
+Gaultheria procumbens L,0.08,C
+Maianthemum canadense Desf.,0.1,C
+Amelanchier sp.,0.3,C
+Apocynum androsaemifolium L.,0.3,C
+Comptonia peregrina,0.3,C
+Kalmia angustifolia L.,0.3,C
+Lycopodium cornplanaturn L.,0.11,C
+Lycopodium obscurum L.,0.12,C
+Prunus pumila L.,0.3,C
+Pteridium aquilinum,0.17,C
+Vaccinium angustifolium Ait.,0.3,C
+Vaccinium myrtilloides Michx.,0.3,C
+Rubus allegheniensis Porter,0.4,C
+Buchenavia and Symmeria spp.,1,F
+Psychotria chagrensis,0.51,F
+Psychotria horizontalis,0.33,F
+Psychotria limonensis,0.92,F
+Psychotria marginata,0.38,F
+Psychotria furcata,0.29,F
+Ficus sycomorus,24.38,C
+Eucalyptus sideroxylon,27.43,C
+Haloxylon ammodendron,10,C
+Haloxylon ammodendron,3,M
+Abies faxoniana,1.4,
+Betula utilis,1,
+Bashania fangiana,1,
+Malus sylvestris,3.12,F
+Larix kaempferi,1.52,C
+Pinus sylvestris,0.98,C
+Pinus contorta,0.89,C
+Pinus nigra,0.81,C
+Pinus sylvestris,0.08,
+Larix kaempferi,0.56,M
+Picea sitchensis,0.08,M
+secondary evergreen and bamboo forest,2,
+Pinus radiata,1.25,F
+Eucalyptus populnea,5,F
+Eucalyptus populnea,1.2,F
+Eucalyptus populnea,1.6,M
+Populus trichocarpa,1.25,C
+Robinia pseudoacacia,1,M
+Pinus tabulaeformis,1,M
+Ostrowskia magnifica Regel,1.05,C
+Nitraria sibirica,4.5,C
+Haloxylon ammodendron,4.65,C
+Haloxylon ammodendron,4.88,C
+Pimpinella saxifraga,2.6509,C
+Pimpinella saxifraga,1.1402,C
+Knautia arvensis,1.7772,F
+Geranium sylvaticum,0.4719,C
+Sesleria albicans,0.5044,C
+Anthyllis vulneraria,0.3982,C
+Festuca supina,0.1393,C
+Hypochaeris uniflora,0.5482,C
+Taraxacum officinale,0.3187,C
+Primula glutinosa,0.2515,C
+Cerastium uniflorum,0.0829,M
+Quercus robur,2.0823,C
+Carpinus betulus,0.48,M
+Carpinus betulus,0.27,M
+Juniperus communis,1.08,C
+Juniperus communis,1.47,C
+Juniperus communis,3.09,C
+Juniperus communis,2.05,F
+Juniperus communis,0.87,M
+Pinus sylvestris,1.88,C
+Pinus sylvestris,3.99,F
+Pinus sylvestris,9.73,C
+Pinus sylvestris,1,C
+Pinus sylvestris,0.58,C
+Pinus sylvestris,2.19,C
+Pinus sylvestris,0.47,C
+Fagus sylvatica,0.99,F
+Fagus sylvatica,1.68,C
+Fagus sylvatica,0.29,C
+Daphne mezereum,0.82,C
+Picea abies,1.14,C
+Picea abies,0.97,C
+Epilobium angustifolium,0.29,C
+Larix decidua,2.01,C
+Larix decidua,0.7432,C
+Larix decidua,1.3956,C
+Pinus cembra,0.8024,M
+Pinus cembra,0.3056,M
+Pinus cembra,0.2736,M
+Pinus cembra,0.1731,M
+Pinus mugo,1.8671,M
+Alnus viridis,1.5464,C
+Genista radiata,2.2436,M
+Genista radiata,0.5916,C
+Erica carnea,0.3409,F
+Erica carnea,0.3313,F
+Calluna vulgaris,0.3537,C
+Calluna vulgaris,0.4483,C
+Calluna vulgaris,0.3698,M
+Calluna vulgaris,0.3009,C
+Calluna vulgaris,0.3973,C
+Vaccinium myrtillus,0.1595,C
+Vaccinium myrtillus,0.2,C
+Vaccinium myrtillus,0.5765,C
+Vaccinium vitis-idaea,0.1722,C
+Vaccinium vitis-idaea,0.4526,C
+Arctostaphylos uva-ursi,0.2729,C
+Arctostaphylos uva-ursi,0.532,C
+Juniperus communis,0.3277,C
+Juniperus communis,0.8267,C
+Rhododendron ferrugineum,0.3,C
+Rhododendron hirsutum,0.9285,C
+Rhodothamnus chamaecistus,0.132,C
+Rhodothamnus chamaecistus,0.2414,C
+Daphne striata,0.2725,C
+Vaccinium gaultherioides,0.2859,C
+Empetrum nigrum,0.2335,M
+Empetrum nigrum,0.1478,C
+Arctostaphylos alpina,0.4032,C
+Arctostaphylos alpina,0.3244,C
+Arctostaphylos alpina,0.3,C
+Salix serpyllifolia,4.3055,C
+Salix serpyllifolia,0.1588,C
+Salix serpyllifolia,0.1149,C
+Salix serpyllifolia,0.172,C
+Salix reticulata,0.5401,C
+Salix retusa,1.2521,C
+Salix retusa,0.0796,C
+Epilobium dodonaei,2.1613,C
+Epilobium dodonaei,1.5019,C
+Festuca calva,0.3049,C
+Trisetum distichophyllum,0.4176,C
+Festuca laxa,0.4219,M
+Cerastium carinthiacum,0.735,M
+Linaria alpina,0.5574,M
+Campanula cespitosa,1.6097,M
+Thlaspi minimum,0.8876,C
+Thlaspi rotundifolium,0.8225,C
+Alyssum ovirense,0.8431,C
+Minuartia austriaca,1.0646,C
+Papaver alpinum,1.7706,C
+Papaver alpinum,0.4764,C
+Rumex scutatus,1.9066,C
+Dianthus monspessulanus,2.2021,C
+Silene_vulgaris,2.4049,C
+Athamanta cretensis,2.0284,C
+Athamanta cretensis,2.1192,C
+Achillea clavennae,2.0895,C
+Geranium macrorrhizum,0.7816,C
+Geranium macrorrhizum,0.839,C
+Geranium macrorrhizum,0.8279,C
+Wulfenia carinthiaca,1.5156,F
+Wulfenia carinthiaca,1.3553,F
+Wulfenia carinthiaca,0.7,F
+Cirsium carniolicum,2.4561,F
+Cirsium spinosissimum,0.8959,F
+Cirsium erisithales,0.8035,F
+Cicerbita alpina,0.7049,F
+Peucedanum ostruthium,0.6432,F
+Adenostyles alliariae,1.0289,F
+Dryas octopetala,0.936,M
+Potentilla nitida,0.7649,C
+Draba aizoides,0.3379,C
+Petrocallis pyrenaica,0.1883,C
+Petrocallis pyrenaica,0.7024,C
+Saponaria pumila,0.3437,C
+Saponaria pumila,0.3522,C
+Silene acaulis,0.2162,C
+Silene acaulis,0.5805,C
+Eritrichium nanum,0.0629,C
+Eritrichium nanum,0.0707,C
+Minuartia sedoides,0.3427,C
+Oxyria digyna,0.2232,C
+Oxyria digyna,0.2717,C
+Androsace alpina,0.4815,C
+Androsace wulfeniana,0.0624,C
+Saxifraga moschata,0.1136,C
+Saxifraga bryoides,0.1776,C
+Saxifraga crustada,0.8897,C
+Saxifraga paniculata,0.3489,C
+Saxifraga caesia,0.085,C
+Saxifraga aizoides,0.1253,C
+Saxifraga oppositifolia,0.1062,C
+Saxifraga rudolphiana,0.1694,C
+Saxifraga biflora,0.1545,C
+Primula auricula,0.1883,C
+Hydrocharis morsus-ranae,0.2078,Wl
+Stratiotes aloides,0.3062,Wl
+Nuphar lutea,0.8384,Wl
+Nuphar alba,0.9099,Wl
+Potamogeton natans,1.9744,Wl
+Potamogeton illinoensis,0.7151,Wl
+Potamogeton perfoliatus,0.4189,Wl
+Myriophyllum spicatum,0.9859,Wl
+Hippuris vulgaris,0.5792,Wl
+Schoenoplectus lacustris,0.8171,Wl
+Alisma gramineum,0.7039,Wl
+Alisma plantago-aquatica,0.2775,Wl
+Sagittaria sagittifolia,0.7878,Wl
+Butomus umbellatus,0.4574,Wl
+Ranunculus lingua,0.8353,Wl
+Glyceria fluitans,0.4857,Wl
+Phragmites australis,2.7351,Wl
+Cladium mariscus,0.2554,Wl
+Carex elata,0.8996,Wl
+Carex rostrata,0.6012,Wl
+Equisetum fluviatile,0.9974,Wl
+Typha latifolia,0.5386,Wl
+Sparganium erectum,0.5652,Wl
+Iris pseudacorus,0.5399,Wl
+Acorus calamus,0.7262,Wl
+Peucedanum palustre,0.1913,Wl
+Calla palustris,0.3313,Wl
+Menyanthes trifoliata,0.4335,Wl
+Rhynchospora alba,0.163,Wl
+Rhynchospora fusca,0.1349,Wl
+Potentilla palustris,0.2103,Wl
+Scheuchzeria palustris,0.6299,Wl
+Carex limosa,0.4779,Wl
+Trichophorum alpinum,0.1945,Wl
+Carex davalliana,0.44,Wl
+Schoenus ferrugineus,0.6156,Wl
+Schoenus nigricans,0.5418,Wl
+Salix repens,0.2303,Wl
+Betula humilis,0.27,Wl
+Betula nana,0.3437,Wl
+Frangula alnus,0.25,Wl
+Pinus sylvestris,0.22,Wl
+Drosera rotundifolia,0.1283,Wl
+Vaccinium oxycoccos,0.0404,Wl
+Andromeda polifolia,0.2712,Wl
+Rubus chamaemorus,0.7575,Wl
+Ledum palustre,0.6008,Wl
+Ledum palustre,0.3275,C
+Empetrum nigrum,0.2825,C
+Vaccinium uliginosum,0.1674,C
+Polygonum bistorta,0.4461,C
+Centaurea scabiosa,3.1765,C
+Scirpoides holoschoenus,1.3178,C
+Arundo donax,1.1132,C
+Euphorbia paralias,0.7246,C
+Euphorbia paralias,0.5103,C
+Crithmum maritimum,0.6062,C
+Xanthium strumarium,0.4397,C
+Oenothera muricata,1.5744,C
+Tamarix gallica,4.5007,C
+Euphorbia wulfenii,0.5193,F
+Smyrnium perfoliatum,0.2774,F
+Bromus erectus,0.8939,F
+Lathyrus pannonicus,0.5905,F
+Muscari botryoides,0.0641,F
+Ornithogalum kochii,0.1072,F
+Convolvulus cantabrica,0.2861,F
+Salvia officinalis,0.8946,F
+Onosma echioides,0.7952,F
+Asparagus acutifolius,0.8031,F
+Pancratium maritimum,1.1167,C
+Pancratium maritimum,0.9281,C
+Urginea maritima,0.1833,F
+Festuca jeanpertü,1.7428,C
+Ferula communis,3.4512,F
+Atractylis gummifera,0.7019,F
+Thymus capitatus,1.0285,F
+Aegopodium podagraria,1.3332,M
+Aegopodium alpestre,0.3865,F
+Ephedra sp.,3.9055,C
+Ephedra sp.,1.9192,C
+Haloxylon ammodendron,1.4756,C
+Cecropia ficifolia,0.18,M
+Eurotia ceratoides,9.2,M
+Berberis vulgaris,0.7302,C
+Fagus sylvatica,2.4,C
+Trianthema hereroensis,1.41,C
+Aloe litoralis,0.3944,C
+Taraxacum officinale,1.44,C
+,,
+Commiphora saxicola,0.4552,
+Trifolium repens,0.45,
+Arthraerua leubnitziae,2.64,C
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
